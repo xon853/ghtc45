@@ -341,5 +341,6 @@ http://funlogi.top:8080/live/661673158716927065/1191673158716927/10069.ts
 http://funlogi.top:8080/live/661673158716927065/1191673158716927/52469.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="ARGENTINA",ARG: ESPN PREMIUM
 http://funlogi.top:8080/live/661673158716927065/1191673158716927/52470.ts
-#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="https://docdog.top/logo/countries/hungary/amc.png" group-title="HUNGARY",HU: AMC
-http://funlogi.top:8080/live/661673158716927065/1191673158716927/8834.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/canal-cocina-es.png" group-title="SPAIN",ES: CANAL COCINA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/5570.ts
+
