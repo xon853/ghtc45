@@ -123,3 +123,223 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,M+ #0 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+#EXTINF:-1 tvg-id="" tvg-name="ARG: A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="ARGENTINA",ARG: A&E
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10070.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="ARGENTINA",ARG: AMC
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10071.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="ARGENTINA",ARG: AMERICA 24
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10073.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="https://docdog.top/logo/countries/argentina/americatv.png" group-title="ARGENTINA",ARG: AMERICA TV
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10072.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ARGENTINISIMA" tvg-logo="https://docdog.top/logo/countries/argentina/ARGENTINISIMA.png" group-title="ARGENTINA",ARG: ARGENTINISIMA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10074.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: AXN" tvg-logo="https://docdog.top/logo/countries/argentina/axn.png" group-title="ARGENTINA",ARG: AXN
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10075.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: BABY TV" tvg-logo="https://docdog.top/logo/countries/argentina/babytv.png" group-title="ARGENTINA",ARG: BABY TV
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10076.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/argentina/boomeranglow.png" group-title="ARGENTINA",ARG: BOOMERANG
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9988.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: C5N" tvg-logo="https://docdog.top/logo/countries//argentina/c5n-ar.png" group-title="ARGENTINA",ARG: C5N
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9989.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE (CANAL 13)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL.png" group-title="ARGENTINA",ARG: EL TRECE (CANAL 13)
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10077.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 21" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL21.png" group-title="ARGENTINA",ARG: CANAL 21
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9991.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL26.png" group-title="ARGENTINA",ARG: CANAL 26
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9992.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26 NOTICIAS" tvg-logo="https://docdog.top/logo/countries//argentina/canal-26-ar.png" group-title="ARGENTINA",ARG: CANAL 26 NOTICIAS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10091.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 4" tvg-logo="https://docdog.top/logo/countries//argentina/canal-4-ar.png" group-title="ARGENTINA",ARG: CANAL 4
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10080.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EL NUEVE (CANAL 9)" tvg-logo="https://docdog.top/logo/countries/argentina/CANAL9.png" group-title="ARGENTINA",ARG: EL NUEVE (CANAL 9)
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9990.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 SALTA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALSALTA.jpg" group-title="ARGENTINA",ARG: CANAL 9 SALTA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10081.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA CIUDAD" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELACIUDAD.jpg" group-title="ARGENTINA",ARG: CANAL DE LA CIUDAD
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9993.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL DE LA MUSICA" tvg-logo="https://docdog.top/logo/countries/argentina/CANALDELAMUSICA.jpg" group-title="ARGENTINA",ARG: CANAL DE LA MUSICA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10096.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/argentina/cartoonnetworkwest.png" group-title="ARGENTINA",ARG: CARTOON NETWORK
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9984.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEAR" tvg-logo="https://docdog.top/logo/countries//argentina/cine-ar-ar.png" group-title="ARGENTINA",ARG: CINEAR
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9994.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINECANAL" tvg-logo="https://docdog.top/logo/countries/argentina/cinecanal.png" group-title="ARGENTINA",ARG: CINECANAL
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9995.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CINEMAX" tvg-logo="https://docdog.top/logo/countries/argentina/cinemax.png" group-title="ARGENTINA",ARG: CINEMAX
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9996.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CIUDAD MAGAZINE" tvg-logo="https://docdog.top/logo/countries/argentina/ciudadmagazine.png" group-title="ARGENTINA",ARG: CIUDAD MAGAZINE
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9997.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN" tvg-logo="https://docdog.top/logo/countries/argentina/cnnespanol.png" group-title="ARGENTINA",ARG: CNN
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9999.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CNN EN ESPANIOL" tvg-logo="https://docdog.top/logo/countries//argentina/cnn-en-espanol-ar.png" group-title="ARGENTINA",ARG: CNN EN ESPANIOL
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9998.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: COMEDY" tvg-logo="https://docdog.top/logo/countries/argentina/KSCOMEDY.jpg" group-title="ARGENTINA",ARG: COMEDY
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10000.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CRONICA" tvg-logo="https://docdog.top/logo/countries/argentina/cronica-hd-ar.png" group-title="ARGENTINA",ARG: CRONICA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10001.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DEPORTV FHD" tvg-logo="https://docdog.top/logo/countries/argentina/DEPORTVF.png" group-title="ARGENTINA",ARG: DEPORTV FHD
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10002.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports.png" group-title="ARGENTINA",ARG: DIRECTV SPORTS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10083.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS +" tvg-logo="https://docdog.top/logo/countries/argentina/DIRECTVSPORTS+.png" group-title="ARGENTINA",ARG: DIRECTV SPORTS +
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10097.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DIRECTV SPORTS 2" tvg-logo="https://docdog.top/logo/countries/argentina/directvsports2.png" group-title="ARGENTINA",ARG: DIRECTV SPORTS 2
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10082.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="ARGENTINA",ARG: DISNEY
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10003.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY JUNIOR" tvg-logo="https://asiagrandiptv.us/logo/disneyjunior.png" group-title="ARGENTINA",ARG: DISNEY JUNIOR
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10004.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DISNEY XD" tvg-logo="https://asiagrandiptv.us/logo/disneyxd.png" group-title="ARGENTINA",ARG: DISNEY XD
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10005.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: DW" tvg-logo="https://docdog.top/logo/countries/argentina/dw.png" group-title="ARGENTINA",ARG: DW
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10006.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: E!" tvg-logo="https://docdog.top/logo/countries/argentina/E!.png" group-title="ARGENTINA",ARG: E!
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10007.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ENCUENTRO" tvg-logo="https://docdog.top/logo/countries/argentina/encuentro.png" group-title="ARGENTINA",ARG: ENCUENTRO
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10008.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ARGENTINA",ARG: ESPN
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10011.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="ARGENTINA",ARG: ESPN 2
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10009.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="ARGENTINA",ARG: ESPN 3
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10010.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="ARGENTINA",ARG: ESPN+
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10012.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="ARGENTINA",ARG: EUROPA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10013.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FILM &AMP; ARTS" tvg-logo="https://docdog.top/logo/countries//argentina/film-and-arts-ar.png" group-title="ARGENTINA",ARG: FILM &AMP; ARTS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10014.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX NEWS" tvg-logo="https://docdog.top/logo/countries/argentina/foxnews.png" group-title="ARGENTINA",ARG: FOX NEWS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10016.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo/foxsports.png" group-title="ARGENTINA",ARG: FOX SPORTS 1
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9982.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo/foxsport2.png" group-title="ARGENTINA",ARG: FOX SPORTS 2
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9983.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-3-ar.png" group-title="ARGENTINA",ARG: FOX SPORTS 3
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10084.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://docdog.top/logo/countries//argentina/fox-sports-premium-ar.png" group-title="ARGENTINA",ARG: FOX SPORTS PREMIUM
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9981.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FX" tvg-logo="https://docdog.top/logo/countries//argentina/fx-ar.png" group-title="ARGENTINA",ARG: FX
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10017.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GARAGE" tvg-logo="https://docdog.top/logo/countries/argentina/garagetv.png" group-title="ARGENTINA",ARG: GARAGE
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10018.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GLITZ" tvg-logo="https://docdog.top/logo/countries//argentina/glitz-ar.png" group-title="ARGENTINA",ARG: GLITZ
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10019.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOLF CHANNEL" tvg-logo="https://docdog.top/logo/countries//argentina/golf-channel-ar.png" group-title="ARGENTINA",ARG: GOLF CHANNEL
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10020.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: GOURMET" tvg-logo="https://docdog.top/logo/countries//argentina/el-gourmet-ar.png" group-title="ARGENTINA",ARG: GOURMET
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10021.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: H2" tvg-logo="https://docdog.top/logo/countries/argentina/H2.jpg" group-title="ARGENTINA",ARG: H2
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10022.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-ar.png" group-title="ARGENTINA",ARG: HBO
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10025.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO 2" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-2-ar.png" group-title="ARGENTINA",ARG: HBO 2
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10023.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO FAMILY" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-family-ar.png" group-title="ARGENTINA",ARG: HBO FAMILY
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10024.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO SIGNATURE" tvg-logo="https://docdog.top/logo/countries//argentina/hbo-signature-ar.png" group-title="ARGENTINA",ARG: HBO SIGNATURE
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10027.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HISTORY" tvg-logo="https://docdog.top/logo/countries//argentina/history-channel-ar.png" group-title="ARGENTINA",ARG: HISTORY
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10028.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HTV" tvg-logo="https://docdog.top/logo/countries//argentina/htv-ar.png" group-title="ARGENTINA",ARG: HTV
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10029.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LIFETIME" tvg-logo="https://docdog.top/logo/countries//argentina/lifetime-ar.png" group-title="ARGENTINA",ARG: LIFETIME
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10030.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LN" tvg-logo="https://docdog.top/logo/countries/argentina/LN.jpg" group-title="ARGENTINA",ARG: LN
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10031.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAS CHIC" tvg-logo="https://docdog.top/logo/countries//argentina/mas-chic-ar.png" group-title="ARGENTINA",ARG: MAS CHIC
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10032.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO Mundi" tvg-logo="" group-title="ARGENTINA",ARG: HBO Mundi
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10033.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: HBO XTREME" tvg-logo="" group-title="ARGENTINA",ARG: HBO XTREME
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10034.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MAX UP" tvg-logo="https://docdog.top/logo/countries/argentina/maxup.png" group-title="ARGENTINA",ARG: MAX UP
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10035.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: METRO" tvg-logo="https://docdog.top/logo/countries//argentina/metro-ar.png" group-title="ARGENTINA",ARG: METRO
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10036.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-ar.png" group-title="ARGENTINA",ARG: MTV
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10037.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MTV HITS" tvg-logo="https://docdog.top/logo/countries//argentina/mtv-hits-ar.png" group-title="ARGENTINA",ARG: MTV HITS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10038.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MUCH MUSIC" tvg-logo="https://docdog.top/logo/countries/argentina/muchmusic.png" group-title="ARGENTINA",ARG: MUCH MUSIC
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9985.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: MUSIC TOP" tvg-logo="https://docdog.top/logo/countries/argentina/musictop.png" group-title="ARGENTINA",ARG: MUSIC TOP
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9986.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NAT GEO" tvg-logo="https://docdog.top/logo/countries//argentina/nat-geo-kids-ar.png" group-title="ARGENTINA",ARG: NAT GEO
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10039.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="ARGENTINA",ARG: NICKELODEON
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10041.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: NICKELODEON JR" tvg-logo="https://docdog.top/logo/countries//argentina/nickelodeon-ar.png" group-title="ARGENTINA",ARG: NICKELODEON JR
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10042.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PAKA PAKA" tvg-logo="https://docdog.top/logo/countries//argentina/pakapaka-ar.png" group-title="ARGENTINA",ARG: PAKA PAKA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10043.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PARAMOUNT" tvg-logo="https://docdog.top/logo/countries//argentina/paramount-network-ar.png" group-title="ARGENTINA",ARG: PARAMOUNT
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10044.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: PX SPORTS" tvg-logo="https://asiagrandiptv.us/logo/pxsports.png" group-title="ARGENTINA",ARG: PX SPORTS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: QUIERO MUSICA" tvg-logo="https://docdog.top/logo/countries//argentina/quiero-musica-en-mi-idioma-ar.png" group-title="ARGENTINA",ARG: QUIERO MUSICA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9987.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: RAI" tvg-logo="https://docdog.top/logo/countries/argentina/rai.png" group-title="ARGENTINA",ARG: RAI
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10045.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: RURAL" tvg-logo="https://docdog.top/logo/countries//argentina/canal-rural-ar.png" group-title="ARGENTINA",ARG: RURAL
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10046.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SENADO" tvg-logo="https://docdog.top/logo/countries/argentina/SENADO.png" group-title="ARGENTINA",ARG: SENADO
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10047.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SONY" tvg-logo="https://docdog.top/logo/countries//argentina/sony-channel-ar.png" group-title="ARGENTINA",ARG: SONY
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10048.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SPACE" tvg-logo="https://docdog.top/logo/countries//argentina/space-ar.png" group-title="ARGENTINA",ARG: SPACE
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10049.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STUDIO UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="ARGENTINA",ARG: STUDIO UNIVERSAL
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10050.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: SYFY" tvg-logo="https://docdog.top/logo/countries//argentina/syfy-ar.png" group-title="ARGENTINA",ARG: SYFY
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10051.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TBS VERY FUNNY" tvg-logo="https://docdog.top/logo/countries//argentina/tbs-ar.png" group-title="ARGENTINA",ARG: TBS VERY FUNNY
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10052.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TCM" tvg-logo="https://docdog.top/logo/countries//argentina/tcm-ar.png" group-title="ARGENTINA",ARG: TCM
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10053.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="https://docdog.top/logo/countries//argentina/telefe-ar.png" group-title="ARGENTINA",ARG: TELEFE
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10054.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMAX" tvg-logo="https://docdog.top/logo/countries//argentina/telemax-ar.png" group-title="ARGENTINA",ARG: TELEMAX
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10055.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEMUNDO" tvg-logo="https://docdog.top/logo/countries//argentina/telemundo-international-ar.png" group-title="ARGENTINA",ARG: TELEMUNDO
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10056.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELESUR" tvg-logo="https://docdog.top/logo/countries/argentina/telesur.png" group-title="ARGENTINA",ARG: TELESUR
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10057.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TELEVISION PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/televisionpublica.png" group-title="ARGENTINA",ARG: TELEVISION PUBLICA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10089.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TN" tvg-logo="https://docdog.top/logo/countries//argentina/tn-todo-noticias-ar.png" group-title="ARGENTINA",ARG: TN
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10058.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-ar.png" group-title="ARGENTINA",ARG: TNT
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10059.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SERIES" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-series-ar.png" group-title="ARGENTINA",ARG: TNT SERIES
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10060.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TNT SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tnt-sports-ar.png" group-title="ARGENTINA",ARG: TNT SPORTS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9980.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TOONCAST" tvg-logo="https://docdog.top/logo/countries//argentina/tooncast-ar.png" group-title="ARGENTINA",ARG: TOONCAST
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10061.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TRUTV" tvg-logo="https://docdog.top/logo/countries//argentina/tru-tv-ar.png" group-title="ARGENTINA",ARG: TRUTV
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10062.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV PUBLICA" tvg-logo="https://docdog.top/logo/countries/argentina/tvpublica.png" group-title="ARGENTINA",ARG: TV PUBLICA
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10063.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TV5 MONDE" tvg-logo="https://docdog.top/logo/countries/argentina/TVMONDE.png" group-title="ARGENTINA",ARG: TV5 MONDE
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10064.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TVE" tvg-logo="https://docdog.top/logo/countries/argentina/tveinternacional.png" group-title="ARGENTINA",ARG: TVE
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10065.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Tyc sports Internacional" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="ARGENTINA",ARG: Tyc sports Internacional
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10085.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS" tvg-logo="https://docdog.top/logo/countries//argentina/tyc-sports-ar.png" group-title="ARGENTINA",ARG: TYC SPORTS
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/9979.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: UNIVERSAL" tvg-logo="https://docdog.top/logo/countries//argentina/studio-universal-ar.png" group-title="ARGENTINA",ARG: UNIVERSAL
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10066.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VH1" tvg-logo="https://docdog.top/logo/countries/argentina/vh1.png" group-title="ARGENTINA",ARG: VH1
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10067.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER" tvg-logo="https://docdog.top/logo/countries//argentina/volver-ar.png" group-title="ARGENTINA",ARG: VOLVER
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10068.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: WARNER" tvg-logo="https://docdog.top/logo/countries//argentina/warner-channel-ar.png" group-title="ARGENTINA",ARG: WARNER
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/10069.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: STAR CHANNEL" tvg-logo="" group-title="ARGENTINA",ARG: STAR CHANNEL
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/52469.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN PREMIUM" tvg-logo="" group-title="ARGENTINA",ARG: ESPN PREMIUM
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/52470.ts
+#EXTINF:-1 tvg-id="" tvg-name="HU: AMC" tvg-logo="https://docdog.top/logo/countries/hungary/amc.png" group-title="HUNGARY",HU: AMC
+http://funlogi.top:8080/live/661673158716927065/1191673158716927/8834.ts
