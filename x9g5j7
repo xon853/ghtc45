@@ -11,14 +11,16 @@ acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
+#EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
+#EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
 acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720
+#EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720
 acestream://a52bf7c28df63995ad427c32ebf1e517445720b
-#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg" ,SKY SPORTS F1
+#EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg" ,SKY SPORTS F1
 acestream://00e7b3b45af29ebbb7a722073dbc1100460b58a5
+#EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://i.blogs.es/ce71a0/f1-tv-pro/original.png" ,F1 TV PRO
+acestream://3c62bd7c5eb08dff9b6875a9013857a787dccbff
 #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/espn.png" group-title="ESPN DEPORTES", ESPN DEPORTES
 http://funlogi.top:8080/live/661673158716927065/1191673158716927/5605.ts
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio
