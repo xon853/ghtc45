@@ -20,7 +20,7 @@ acestream://a52bf7c28df63995ad427c32ebf1e517445720b
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg" ,SKY SPORTS F1
 acestream://55a762c1e48db88542771a476c65ffc309bd7262
 #EXTINF:-1 group-title="F1" tvg-id="DAZN F1 HD" tvg-logo="https://i.blogs.es/ce71a0/f1-tv-pro/original.png" ,F1 TV PRO
-acestream://3c62bd7c5eb08dff9b6875a9013857a787dccbff
+acestream://63add41b197c2492f2ec7156cdedb427e999370b
 #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/espn.png" group-title="ESPN DEPORTES", ESPN DEPORTES
 http://funlogi.top:8080/live/661673158716927065/1191673158716927/5605.ts
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio
