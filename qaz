@@ -118,13 +118,15 @@ http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5625.ts
 #EXTINF:-1 tvg-name="M+ #0 HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/M_0.png"group-title="TV",M+ #0
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5546.ts
 #EXTINF:-1 tvg-name="24 HORAS"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/24h-es.png"group-title="TV",24 HORAS
-http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5550.ts
+http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&ui=70288&s=CT4VZSWK7Z&id=27213&h=25e7e1446808055c00741debb9f64584f9ad01d5&n=1679826425&i=90.68.128.77
 #EXTINF:-1 tvg-name="Andaluc a TV"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/andalucia-tv-es.png"group-title="TV",ANDALUCIA TV
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5554.ts
 #EXTINF:-1 tvg-name="CanalSurHD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/Canal_Sur.png"group-title="TV",CANAL SUR
-http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5575.ts
+http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&ui=70288&s=CT4VZSWK7Z&id=25851&h=25e7e1446808055c00741debb9f64584f9ad01d5&n=1679826425&i=90.68.128.77
 #EXTINF:-1 tvg-name="CANAL SUR A."tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/Canal_Sur_Andalucia.png"group-title="TV",CANAL SUR ANDALUCIA
-http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5576.ts
+http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&ui=70288&s=CT4VZSWK7Z&id=25850&h=25e7e1446808055c00741debb9f64584f9ad01d5&n=1679826425&i=90.68.128.77
+#EXTINF:-1 tvg-name="PTV MALAGA"tvg-id=""tvg-logo="https://economistasmalaga.com/wp-content/uploads/ptv-malaga-300x195.png"group-title="TV",PTV MALAGA
+http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&ui=70288&s=CT4VZSWK7Z&id=25852&h=25e7e1446808055c00741debb9f64584f9ad01d5&n=1679826425&i=90.68.128.77
 #EXTINF:-1 tvg-name="CAZAyPESCA HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/caza-y-pesca-es.png"group-title="TV",CAZA Y PESCA
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5578.ts
 #EXTINF:-1 tvg-name="Discovery MAX"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/dmax-es.png"group-title="TV",DISCOVERY MAX
