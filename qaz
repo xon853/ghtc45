@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga.png"group-title="DEPORTES",DAZN LaLigaHD
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/25125.ts
 #EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga.png"group-title="DEPORTES",DAZN LaLigaHD 4K
