@@ -119,6 +119,8 @@ http://sharkring.top:8080/live/891668683422046048/6071668683422046/5575.ts
 http://sharkring.top:8080/live/891668683422046048/6071668683422046/5576.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="https://docdog.top/Logotv/countries/spain/caza-y-pesca-es.png" group-title="TV",CAZA Y PESCA
 http://sharkring.top:8080/live/891668683422046048/6071668683422046/5578.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cazavision" tvg-logo="https://docdog.top/Logotv/countries/spain/CAZAVISION.png" group-title="TV",CAZAVISIÓN
+http://sharkring.top:8080/live/891668683422046048/6071668683422046/29358.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery MAX" tvg-logo="https://docdog.top/Logotv/countries/spain/dmax-es.png" group-title="TV",DISCOVERY MAX
 http://sharkring.top:8080/live/891668683422046048/6071668683422046/5601.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOL HD" tvg-logo="https://docdog.top/Logotv/countries/spain/gol-es.png" group-title="DEPORTES",GOL TV
@@ -169,5 +171,3 @@ http://sharkring.top:8080/live/891668683422046048/6071668683422046/25953.ts
 http://sharkring.top:8080/live/891668683422046048/6071668683422046/25954.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANAL SUR 2" tvg-logo="https://docdog.top/Logotv/countries/spain/CANAL_SUR_2.png" group-title="TV",CANAL SUR 2
 http://sharkring.top:8080/live/891668683422046048/6071668683422046/29334.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cazavision" tvg-logo="https://docdog.top/Logotv/countries/spain/CAZAVISION.png" group-title="TV",CAZAVISIÃ“N
-http://sharkring.top:8080/live/891668683422046048/6071668683422046/29358.ts
