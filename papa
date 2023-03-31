@@ -137,6 +137,8 @@ http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5617.ts
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5618.ts
 #EXTINF:-1 tvg-name="IBERALIA TV"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/iberalia-tv-es.png"group-title="TV",IBERALIA TV
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5621.ts
+#EXTINF:-1 tvg-name="Cazavision"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/CAZAVISION.png"group-title="TV",CAZAVISIÓN
+http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/29358.ts
 #EXTINF:-1 tvg-name="M+ #VAMOSHD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/M_Vamos.png"group-title="DEPORTES",M+ #VAMOS
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5630.ts
 #EXTINF:-1 tvg-name="M+ ACCION HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-accion-es.png"group-title="TV",M+ ACCION
@@ -177,5 +179,3 @@ http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/25953.ts
 #EXTINF:-1 tvg-name="M+ LaLiga Smartbank TV M3"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/LaLiga_SmartbankTV_M3.png"group-title="DEPORTES",M+ LaLiga Smartbank TV M3
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/25954.ts
-#EXTINF:-1 tvg-name="Cazavision"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/CAZAVISION.png"group-title="TV",CAZAVISIÓN
-http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/29358.ts
