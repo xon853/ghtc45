@@ -127,8 +127,10 @@ http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&
 http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&ui=70288&s=CT4VZSWK7Z&id=25850&h=25e7e1446808055c00741debb9f64584f9ad01d5&n=1679826425&i=90.68.128.77
 #EXTINF:-1 tvg-name="PTV MALAGA"tvg-id=""tvg-logo="https://economistasmalaga.com/wp-content/uploads/ptv-malaga-300x195.png"group-title="TV",PTV MALAGA
 http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&ui=70288&s=CT4VZSWK7Z&id=25852&h=25e7e1446808055c00741debb9f64584f9ad01d5&n=1679826425&i=90.68.128.77
-#EXTINF:-1 tvg-name="CAZAyPESCA HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/caza-y-pesca-es.png"group-title="TV",CAZA Y PESCA
+#EXTINF:-1 tvg-name="CAZAyPESCA HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/caza-y-pesca-es.png"group-title="TV",CAZA Y PESCA HD
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5578.ts
+#EXTINF:-1 tvg-name="CAZAyPESCA HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/caza-y-pesca-es.png"group-title="TV",CAZA Y PESCA FULLHD
+http://dae5c5f4b113caa1b2d89c9a4852d2d1.dramostimes.ablatv.me/live/c6.php?z=997&ui=70288&s=CT4VZSWK7Z&id=3831&h=25e7e1446808055c00741debb9f64584f9ad01d5&n=1679826425&i=90.68.128.77
 #EXTINF:-1 tvg-name="Discovery MAX"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/dmax-es.png"group-title="TV",DISCOVERY MAX
 http://alljoint.cfd:8080/live/891668683422046048/6071668683422046/5601.ts
 #EXTINF:-1 tvg-name="GOL HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/gol-es.png"group-title="DEPORTES",GOL TV
