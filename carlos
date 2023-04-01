@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ESPANA" tvg-logo="https://docdog.top/Logotv/countries/beinsportsenespanol.png" group-title="DEPORTES",BEIN SPORTS ESPANA
-http://funlogi.top:8080/live/191672793187714066/2441672793187714/24040.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga.png" group-title="DEPORTES",DAZN LaLigaHD
 http://funlogi.top:8080/live/191672793187714066/2441672793187714/25125.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD" tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga_2.png" group-title="DEPORTES",DAZN LaLiga2 HD
