@@ -81,6 +81,8 @@ http://sharkring.top:8080/live/91667903657588042/6591667903657588/5592.ts
 http://sharkring.top:8080/live/91667903657588042/6591667903657588/5593.ts
 #EXTINF:-1 tvg-name=" DAZN LALIGA 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga.png"group-title="M+ DEPORTES",DAZN LALIGA 1
 http://sharkring.top:8080/live/91667903657588042/6591667903657588/25125.ts
+#EXTINF:-1 tvg-name=" DAZN LALIGA 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga.png"group-title="M+ DEPORTES",DAZN LALIGA 1 FHD
+http://sharkring.top:8080/live/91667903657588042/6591667903657588/54668.ts
 #EXTINF:-1 tvg-name=" DAZN LALIGA 2"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga_2.png"group-title="M+ DEPORTES",DAZN LALIGA 2
 http://sharkring.top:8080/live/91667903657588042/6591667903657588/25127.ts
 #EXTINF:-1 tvg-name=" DISNEY CHANNEL"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/disney-channel-es.png"group-title="TELEVISIÓN",DISNEY CHANNEL
@@ -189,8 +191,12 @@ http://sharkring.top:8080/live/91667903657588042/6591667903657588/5646.ts
 http://sharkring.top:8080/live/91667903657588042/6591667903657588/5648.ts
 #EXTINF:-1 tvg-name=" M+ GOLF"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png"group-title="M+ DEPORTES",M+ GOLF
 http://sharkring.top:8080/live/91667903657588042/6591667903657588/5649.ts
-#EXTINF:-1 tvg-name=" M+ LALIGA"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-laliga-es.png"group-title="M+ DEPORTES",M+ LALIGA
+#EXTINF:-1 tvg-name=" M+ LALIGA"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-laliga-es.png"group-title="M+ DEPORTES",M+ LALIGA HD
 http://sharkring.top:8080/live/91667903657588042/6591667903657588/5758.ts
+#EXTINF:-1 tvg-name=" M+ LALIGA"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-laliga-es.png"group-title="M+ DEPORTES",M+ LALIGA UHD
+http://sharkring.top:8080/live/91667903657588042/6591667903657588/54535.ts
+#EXTINF:-1 tvg-name=" M+ LALIGA"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-laliga-es.png"group-title="M+ DEPORTES",M+ LALIGA FHD
+http://sharkring.top:8080/live/91667903657588042/6591667903657588/54532.ts
 #EXTINF:-1 tvg-name=" M+ LALIGA 1 (MATCH TIME)"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-laliga-1-es.png"group-title="M+ DEPORTES",M+ LALIGA 1 (MATCH TIME)
 http://sharkring.top:8080/live/91667903657588042/6591667903657588/5650.ts
 #EXTINF:-1 tvg-name=" M+ LALIGA 10 (MATCH TIME)"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-laliga-10-es.png"group-title="M+ DEPORTES",M+ LALIGA 10 (MATCH TIME)
