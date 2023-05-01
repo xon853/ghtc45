@@ -1656,6 +1656,8 @@ http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOA00A0Orcx6wjN7M_I6V8PA/ts
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOD3rCA5vB4eC1tKjXxyTUI4/ts
 #EXTINF:-1 xui-id="1442" tvg-id="" tvg-name="Iberalia 100% Caza HD (1080P)" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="Canales a la carta",Iberalia 100% Caza HD (1080P)
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOD3rCA5vB4eC1tKjXxyTUI4/ts
+#EXTINF:-1 xui-id="1522" tvg-id="" tvg-name="Iberalia 100% Caza HD (720P)" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="Canales a la carta",Iberalia 100% Caza HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBFrdR_ewhxZJFZ-G8DExJw/ts
 #EXTINF:-1 xui-id="1443" tvg-id="" tvg-name="Iberalia 100% Caza SD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="Todos",Iberalia 100% Caza SD
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOE5FOpgqMMUfHkDUjeBy8nU/ts
 #EXTINF:-1 xui-id="1443" tvg-id="" tvg-name="Iberalia 100% Caza SD" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="Canales a la carta",Iberalia 100% Caza SD
@@ -1974,5 +1976,4 @@ http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOH6a1KGvNUkKmOFI_24n6LE/ts
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOH6a1KGvNUkKmOFI_24n6LE/ts
 #EXTINF:-1 xui-id="1522" tvg-id="" tvg-name="Iberalia 100% Caza HD (720P)" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="Todos",Iberalia 100% Caza HD (720P)
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBFrdR_ewhxZJFZ-G8DExJw/ts
-#EXTINF:-1 xui-id="1522" tvg-id="" tvg-name="Iberalia 100% Caza HD (720P)" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=bcf041&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fiberaliacaza.png" group-title="Canales a la carta",Iberalia 100% Caza HD (720P)
-http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBFrdR_ewhxZJFZ-G8DExJw/ts
+
