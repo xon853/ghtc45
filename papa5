@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 xui-id="974" tvg-id="" tvg-name="Multideporte" tvg-logo="" group-title="Todos",Multideporte
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOOo_h8hdBtAYYhnUqgWUOQo/ts
+#EXTINF:-1 xui-id="975" tvg-id="" tvg-name="Movistar+ Portada" tvg-logo="" group-title="Todos",Movistar+ Portada
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOCbJxKBe0XwnS3trtzJ1MKI/ts
+#EXTINF:-1 xui-id="976" tvg-id="" tvg-name="M Liga de Campeones FHD (H.265)" tvg-logo="" group-title="Todos",M Liga de Campeones FHD (H.265)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOG-UL9JOtVo3dBD7St4oNH4/ts
+#EXTINF:-1 xui-id="977" tvg-id="" tvg-name="M Liga de Campeones FHD (H.265) OP1" tvg-logo="" group-title="Todos",M Liga de Campeones FHD (H.265) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOCO9PgjAcJ-ZLDbPSczvFtQ/ts
+#EXTINF:-1 xui-id="978" tvg-id="" tvg-name="M Liga de Campeones FHD (Fibra)" tvg-logo="" group-title="Todos",M Liga de Campeones FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONAgSbLN6mvdUgrsq5VrNWc/ts
+#EXTINF:-1 xui-id="979" tvg-id="" tvg-name="M Liga de Campeones HD (1080P)" tvg-logo="" group-title="Todos",M Liga de Campeones HD (1080P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOFTWXHiPnuTYAT-u95aRi9w/ts
+#EXTINF:-1 xui-id="980" tvg-id="" tvg-name="M Liga de Campeones HD (1080P) OP1" tvg-logo="" group-title="Todos",M Liga de Campeones HD (1080P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGB0BjyKBRKanekZaZIa7vE/ts
+#EXTINF:-1 xui-id="981" tvg-id="" tvg-name="M Liga de Campeones HD (1080P) OP2" tvg-logo="" group-title="Todos",M Liga de Campeones HD (1080P) OP2
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnODAveyA-ie2ePp5L2AU51KQ/ts
+#EXTINF:-1 xui-id="982" tvg-id="" tvg-name="M Liga de Campeones HD (1080P) OP3" tvg-logo="" group-title="Todos",M Liga de Campeones HD (1080P) OP3
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOJfh7WlblY3-eBF7q28ylM8/ts
+#EXTINF:-1 xui-id="983" tvg-id="" tvg-name="M Liga de Campeones HD (720P)" tvg-logo="" group-title="Todos",M Liga de Campeones HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGBvxYUF1N4nRRPEIe1PIO8/ts
+#EXTINF:-1 xui-id="984" tvg-id="" tvg-name="M Liga de Campeones HD (720P) OP1" tvg-logo="" group-title="Todos",M Liga de Campeones HD (720P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONE_HZfE_u3mZmYdORIFsuo/ts
+#EXTINF:-1 xui-id="985" tvg-id="" tvg-name="M Liga de Campeones HD (720P) OP2" tvg-logo="" group-title="Todos",M Liga de Campeones HD (720P) OP2
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGd7y9IfrZNNY2KVyhajqPk/ts
+#EXTINF:-1 xui-id="986" tvg-id="" tvg-name="M Liga de Campeones SD" tvg-logo="" group-title="Todos",M Liga de Campeones SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOM4UlJoVkA-rkuqyqAU7CVI/ts
+#EXTINF:-1 xui-id="987" tvg-id="" tvg-name="M Liga de Campeones SD (OP1)" tvg-logo="" group-title="Todos",M Liga de Campeones SD (OP1)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOLRvMU1i6gTlMXnbLqGSW2s/ts
+#EXTINF:-1 xui-id="988" tvg-id="" tvg-name="M Liga de Campeones 2 FHD (Fibra)" tvg-logo="" group-title="Todos",M Liga de Campeones 2 FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBnPqqfY7fHdoyLidKY1YvA/ts
+#EXTINF:-1 xui-id="989" tvg-id="" tvg-name="M Liga de Campeones 2 FHD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 2 FHD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOHORey7EfIwcndBcsYjBmOQ/ts
+#EXTINF:-1 xui-id="990" tvg-id="" tvg-name="M Liga de Campeones 2 FHD (Solo Eventos) OP1" tvg-logo="" group-title="Todos",M Liga de Campeones 2 FHD (Solo Eventos) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnODS8niUwxoEqhMzhlaRMarM/ts
+#EXTINF:-1 xui-id="991" tvg-id="" tvg-name="M Liga de Campeones 2 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 2 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOANQuW5m0CiRWNx1efMwrTQ/ts
+#EXTINF:-1 xui-id="992" tvg-id="" tvg-name="M Liga de Campeones 2 SD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 2 SD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOG6phMfQgcLZQcgqkSsVDpQ/ts
+#EXTINF:-1 xui-id="993" tvg-id="" tvg-name="M Liga de Campeones 3 FHD (Fibra)" tvg-logo="" group-title="Todos",M Liga de Campeones 3 FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOAlLmbu3xNCoeYWUGSHBey4/ts
+#EXTINF:-1 xui-id="994" tvg-id="" tvg-name="M Liga de Campeones 3 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 3 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOM8z-mMrWRQm2CF4bV8MMG8/ts
+#EXTINF:-1 xui-id="995" tvg-id="" tvg-name="M Liga de Campeones 3 SD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 3 SD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGOicKaFpcrJzTXaS1WcO9s/ts
+#EXTINF:-1 xui-id="996" tvg-id="" tvg-name="M Liga de Campeones 4 FHD (Fibra)" tvg-logo="" group-title="Todos",M Liga de Campeones 4 FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOOJXmWRLr0rwLHJ2SyfnaCM/ts
+#EXTINF:-1 xui-id="997" tvg-id="" tvg-name="M Liga de Campeones 4 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 4 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBd4zqpkMyep0JqFcs1b9BM/ts
+#EXTINF:-1 xui-id="998" tvg-id="" tvg-name="M Liga de Campeones 4 SD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 4 SD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOAbKnmE5LWC2RAYjK_6CNVk/ts
+#EXTINF:-1 xui-id="999" tvg-id="" tvg-name="M Liga de Campeones 5 FHD (Fibra)" tvg-logo="" group-title="Todos",M Liga de Campeones 5 FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOPg0ewmMVzJbS8kdCcABOO8/ts
+#EXTINF:-1 xui-id="1000" tvg-id="" tvg-name="M Liga de Campeones 5 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 5 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOKo5wjrprRtEjgLnlzQda-Q/ts
+#EXTINF:-1 xui-id="1001" tvg-id="" tvg-name="M Liga de Campeones 5 SD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 5 SD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOPVEE5VVQQErO6qd7cwEx9o/ts
+#EXTINF:-1 xui-id="1002" tvg-id="" tvg-name="M Liga de Campeones 6 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 6 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOM5V_EPOVeMSSaHPN8MNoLg/ts
+#EXTINF:-1 xui-id="1003" tvg-id="" tvg-name="M Liga de Campeones 6 SD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 6 SD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOJfd1-UiQU-tPe2KdjstbNo/ts
+#EXTINF:-1 xui-id="1004" tvg-id="" tvg-name="M Liga de Campeones 7 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 7 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOMOZI8svlqvSINfUray3byw/ts
+#EXTINF:-1 xui-id="1005" tvg-id="" tvg-name="M Liga de Campeones 8 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 8 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONo0iHNb5FIhSQbGwIPONWM/ts
+#EXTINF:-1 xui-id="1006" tvg-id="" tvg-name="M Liga de Campeones 9 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 9 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONjcOYahcOFLijitZnljcwo/ts
+#EXTINF:-1 xui-id="1007" tvg-id="" tvg-name="M Liga de Campeones 10 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 10 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGc0YdnxzJmLENv6k1bcDc0/ts
+#EXTINF:-1 xui-id="1008" tvg-id="" tvg-name="M Liga de Campeones 11 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 11 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGZk9Ms7uthkYjQDZkpZUoI/ts
+#EXTINF:-1 xui-id="1009" tvg-id="" tvg-name="M Liga de Campeones 12 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 12 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOAOKt1yrHgTHlydIZsUnewg/ts
+#EXTINF:-1 xui-id="1010" tvg-id="" tvg-name="M Liga de Campeones 13 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 13 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOPLUBR0HWjpejwFNgJcvc64/ts
+#EXTINF:-1 xui-id="1011" tvg-id="" tvg-name="M Liga de Campeones 14 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 14 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnODArISlELiFSUPUBTvcQNbw/ts
+#EXTINF:-1 xui-id="1012" tvg-id="" tvg-name="M Liga de Campeones 15 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 15 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOJQNNDsn_dwsXviuzq2nzxs/ts
+#EXTINF:-1 xui-id="1013" tvg-id="" tvg-name="M Liga de Campeones 16 (Solo Eventos)" tvg-logo="" group-title="Todos",M Liga de Campeones 16 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOKdIqtaR-xnkYokVijpJhzQ/ts
+#EXTINF:-1 xui-id="1014" tvg-id="" tvg-name="M. Dazn LaLiga 1 FHD (H.265)" tvg-logo="" group-title="Todos",M. Dazn LaLiga 1 FHD (H.265)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOEUNqKsW2dYYRoEHUf_6Mlw/ts
+#EXTINF:-1 xui-id="1015" tvg-id="" tvg-name="M. Dazn LaLiga 1 HD (1080P)" tvg-logo="" group-title="Todos",M. Dazn LaLiga 1 HD (1080P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOAkhQyw2W1lSbhcy643KBIA/ts
+#EXTINF:-1 xui-id="1016" tvg-id="" tvg-name="M. Dazn LaLiga 1 HD (720P)" tvg-logo="" group-title="Todos",M. Dazn LaLiga 1 HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOEkArBYYtMJu6GGBGf4iNyI/ts
+#EXTINF:-1 xui-id="1017" tvg-id="" tvg-name="M. Dazn LaLiga 1 HD (720P) OP1" tvg-logo="" group-title="Todos",M. Dazn LaLiga 1 HD (720P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOFwhG17OfFYsoTD1uALttkw/ts
+#EXTINF:-1 xui-id="1018" tvg-id="" tvg-name="M. Dazn LaLiga 1 HD (720P) OP2" tvg-logo="" group-title="Todos",M. Dazn LaLiga 1 HD (720P) OP2
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOCUHaPebf9Bnx01ezvBvJGM/ts
+#EXTINF:-1 xui-id="1019" tvg-id="" tvg-name="M. Dazn LaLiga 1 SD" tvg-logo="" group-title="Todos",M. Dazn LaLiga 1 SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOEHXIEyIX4s6i89xE7qUqig/ts
+#EXTINF:-1 xui-id="1020" tvg-id="" tvg-name="M. Dazn LaLiga 2 HD (1080P)" tvg-logo="" group-title="Todos",M. Dazn LaLiga 2 HD (1080P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOD9BZzrhTinOWcVoot8-CyE/ts
+#EXTINF:-1 xui-id="1021" tvg-id="" tvg-name="M. Dazn LaLiga 2 HD (720P)" tvg-logo="" group-title="Todos",M. Dazn LaLiga 2 HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOJgWyAsuzxPNlKN8uDrjjKE/ts
+#EXTINF:-1 xui-id="1022" tvg-id="" tvg-name="M. Dazn LaLiga 2 HD (720P) OP1" tvg-logo="" group-title="Todos",M. Dazn LaLiga 2 HD (720P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONnTVPCPlOkgfCh2alNYqP8/ts
+#EXTINF:-1 xui-id="1023" tvg-id="" tvg-name="M. Dazn LaLiga 2 SD" tvg-logo="" group-title="Todos",M. Dazn LaLiga 2 SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOOxdCgGIC96ENa0GCzJjeqM/ts
+#EXTINF:-1 xui-id="1024" tvg-id="" tvg-name="M. LaLiga FHD (H.265)" tvg-logo="" group-title="Todos",M. LaLiga FHD (H.265)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOAnM2c5_tqL75rwAUY1HpHk/ts
+#EXTINF:-1 xui-id="1025" tvg-id="" tvg-name="M. LaLiga FHD (Fibra)" tvg-logo="" group-title="Todos",M. LaLiga FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnODIijpLRivFZaqjUnree3Dc/ts
+#EXTINF:-1 xui-id="1026" tvg-id="" tvg-name="M. LaLiga HD (1080P)" tvg-logo="" group-title="Todos",M. LaLiga HD (1080P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONJXwC2Y8V6QV7pjvxOgRfE/ts
+#EXTINF:-1 xui-id="1027" tvg-id="" tvg-name="M. LaLiga HD (1080P) OP1" tvg-logo="" group-title="Todos",M. LaLiga HD (1080P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONtkePgNuwvUiwywyPU_N0M/ts
+#EXTINF:-1 xui-id="1028" tvg-id="" tvg-name="M. LaLiga HD (1080P) OP2" tvg-logo="" group-title="Todos",M. LaLiga HD (1080P) OP2
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOLfXoCUkYB7Wff2szoiQBSA/ts
+#EXTINF:-1 xui-id="1029" tvg-id="" tvg-name="M. LaLiga HD (1080P) OP3" tvg-logo="" group-title="Todos",M. LaLiga HD (1080P) OP3
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBxFCySksdH5_wTu9brrU90/ts
+#EXTINF:-1 xui-id="1030" tvg-id="" tvg-name="M. LaLiga HD (720P)" tvg-logo="" group-title="Todos",M. LaLiga HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOB6o8dmJjpXLbjLc2T1gl1I/ts
+#EXTINF:-1 xui-id="1031" tvg-id="" tvg-name="M. LaLiga HD (720P) OP1" tvg-logo="" group-title="Todos",M. LaLiga HD (720P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOKpwgPzXG06YbNzgOkbXTNw/ts
+#EXTINF:-1 xui-id="1032" tvg-id="" tvg-name="M. LaLiga SD" tvg-logo="" group-title="Todos",M. LaLiga SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOMeAsFrcozUZ5lxxJTgayXU/ts
+#EXTINF:-1 xui-id="1033" tvg-id="" tvg-name="M. LaLiga SD (OP1)" tvg-logo="" group-title="Todos",M. LaLiga SD (OP1)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOHyArxYDm0yIf246JB7w2TI/ts
+#EXTINF:-1 xui-id="1034" tvg-id="" tvg-name="M. LaLiga 1 FHD (H.265)" tvg-logo="" group-title="Todos",M. LaLiga 1 FHD (H.265)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGwEjLYjZdbYN9mruY0ta6U/ts
+#EXTINF:-1 xui-id="1035" tvg-id="" tvg-name="M. LaLiga 1 FHD (Fibra)" tvg-logo="" group-title="Todos",M. LaLiga 1 FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOOB4Pe98nu78RH8Ffx3Zmh0/ts
+#EXTINF:-1 xui-id="1036" tvg-id="" tvg-name="M. LaLiga 1 FHD (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 1 FHD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOO3P0KQHQSCQKzG3OpqHxEM/ts
+#EXTINF:-1 xui-id="1037" tvg-id="" tvg-name="M. LaLiga 1 FHD (Solo Eventos) OP1" tvg-logo="" group-title="Todos",M. LaLiga 1 FHD (Solo Eventos) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOH9gDvsHcTZiSSUTIQX2qHQ/ts
+#EXTINF:-1 xui-id="1038" tvg-id="" tvg-name="M. LaLiga 1 HD (720P) (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 1 HD (720P) (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOPPwOCyt8JVabCaRLBKj9C0/ts
+#EXTINF:-1 xui-id="1039" tvg-id="" tvg-name="M. LaLiga 1 SD (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 1 SD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOI7DUlozNi85_-xwPTNTzm4/ts
+#EXTINF:-1 xui-id="1040" tvg-id="" tvg-name="M. LaLiga 2 FHD (H.265)" tvg-logo="" group-title="Todos",M. LaLiga 2 FHD (H.265)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOLYS6qjaLUCUwUFlswTYu_o/ts
+#EXTINF:-1 xui-id="1041" tvg-id="" tvg-name="M. LaLiga 2 FHD (Fibra)" tvg-logo="" group-title="Todos",M. LaLiga 2 FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOMJ1ZPUWkGgfActIjLT_pyc/ts
+#EXTINF:-1 xui-id="1042" tvg-id="" tvg-name="M. LaLiga 2 FHD (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 2 FHD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONfeH7fwM068TvVd4O7rzrw/ts
+#EXTINF:-1 xui-id="1043" tvg-id="" tvg-name="M. LaLiga 2 HD (720P) (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 2 HD (720P) (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOD5PB9Sy9HrcP9VaGlWSUco/ts
+#EXTINF:-1 xui-id="1044" tvg-id="" tvg-name="M. LaLiga 2 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 2 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOK65mGaUvUfGeuo4rPap2Do/ts
+#EXTINF:-1 xui-id="1045" tvg-id="" tvg-name="M. LaLiga 3 FHD (H.265)" tvg-logo="" group-title="Todos",M. LaLiga 3 FHD (H.265)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOJfgqycID3aaN8-v58k8oaU/ts
+#EXTINF:-1 xui-id="1046" tvg-id="" tvg-name="M. LaLiga 3 FHD (Fibra)" tvg-logo="" group-title="Todos",M. LaLiga 3 FHD (Fibra)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOAyCou7JTG0-VDTCgI0IuSE/ts
+#EXTINF:-1 xui-id="1047" tvg-id="" tvg-name="M. LaLiga 3 FHD (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 3 FHD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGz3C1tR-QcTY2leKPg9dvc/ts
+#EXTINF:-1 xui-id="1048" tvg-id="" tvg-name="M. LaLiga 3 HD (720P) (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 3 HD (720P) (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOEazD6yCZhYNICA1HUlcSzk/ts
+#EXTINF:-1 xui-id="1049" tvg-id="" tvg-name="M. LaLiga 3 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 3 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOFeSjLbPfd5SsRu2vVOrXAM/ts
+#EXTINF:-1 xui-id="1050" tvg-id="" tvg-name="M. LaLiga 4 FHD (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 4 FHD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOMeq79vI7_9-VyUhfl8n7jM/ts
+#EXTINF:-1 xui-id="1051" tvg-id="" tvg-name="M. LaLiga 4 HD (720P) (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 4 HD (720P) (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnON-Y9N2u2qS_M-kwu4651t8/ts
+#EXTINF:-1 xui-id="1052" tvg-id="" tvg-name="M. LaLiga 4 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 4 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOHB4WoAAd8YeEJwwid5vo00/ts
+#EXTINF:-1 xui-id="1053" tvg-id="" tvg-name="M. LaLiga 5 FHD (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 5 FHD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOIPC4RjRuBzgFLzWD7bXbD4/ts
+#EXTINF:-1 xui-id="1054" tvg-id="" tvg-name="M. LaLiga 5 HD (720P) (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 5 HD (720P) (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOFpwOI7-Y1NuBXtbVVyk4U8/ts
+#EXTINF:-1 xui-id="1055" tvg-id="" tvg-name="M. LaLiga 5 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 5 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBRt98sS_5hya_VajAQgXGU/ts
+#EXTINF:-1 xui-id="1056" tvg-id="" tvg-name="M. LaLiga 6 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 6 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOAECLOZ-ZSGgF_AsLMly9x4/ts
+#EXTINF:-1 xui-id="1057" tvg-id="" tvg-name="M. LaLiga 7 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 7 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOLuyRjjSSHyyUg-lSinDz3w/ts
+#EXTINF:-1 xui-id="1058" tvg-id="" tvg-name="M. LaLiga 8 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 8 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnODa38eodcGvYXmUkNNYKXPY/ts
+#EXTINF:-1 xui-id="1059" tvg-id="" tvg-name="M. LaLiga 9 HD (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 9 HD (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOHvLE1dzTnQdae65ZIpf-c4/ts
+#EXTINF:-1 xui-id="1060" tvg-id="" tvg-name="M. LaLiga 10 (Solo Eventos)" tvg-logo="" group-title="Todos",M. LaLiga 10 (Solo Eventos)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGzhZPayLCfy9PzqA4-h7MI/ts
+#EXTINF:-1 xui-id="1061" tvg-id="" tvg-name="M. LaLiga Smartbank TV HD (1080P)" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV HD (1080P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOOGfysTfG960M3BzA5D0JSQ/ts
+#EXTINF:-1 xui-id="1062" tvg-id="" tvg-name="M. LaLiga Smartbank TV HD (1080P) OP1" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV HD (1080P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONfrrH2d5Rrtoz9q0X4tck0/ts
+#EXTINF:-1 xui-id="1063" tvg-id="" tvg-name="M. LaLiga Smartbank TV HD (720P)" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGPpPjAbbDJ6hNDYSbz5WZE/ts
+#EXTINF:-1 xui-id="1064" tvg-id="" tvg-name="M. LaLiga Smartbank TV SD" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONTipN2Cb3AiMwWiY0DCtEE/ts
+#EXTINF:-1 xui-id="1065" tvg-id="" tvg-name="M. LaLiga Smartbank TV 2 HD (1080P)" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV 2 HD (1080P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOCLKIMAsQUS9B9VuR-kkg_g/ts
+#EXTINF:-1 xui-id="1066" tvg-id="" tvg-name="M. LaLiga Smartbank TV 2 HD (1080P) OP1" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV 2 HD (1080P) OP1
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOH9jH7VBR5v3CbChRYbQKKc/ts
+#EXTINF:-1 xui-id="1067" tvg-id="" tvg-name="M. LaLiga Smartbank TV 2 HD (720P)" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV 2 HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOFHcCw14i_i1tftuygU5J1s/ts
+#EXTINF:-1 xui-id="1068" tvg-id="" tvg-name="M. LaLiga Smartbank TV 2 SD" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV 2 SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOElzQFDec_uHU9_mJCqSq0w/ts
+#EXTINF:-1 xui-id="1069" tvg-id="" tvg-name="M. LaLiga Smartbank TV 3 HD (720P)" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV 3 HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOGEBNKUfdTzLREOJw7VtxYA/ts
+#EXTINF:-1 xui-id="1070" tvg-id="" tvg-name="M. LaLiga Smartbank TV 3 SD" tvg-logo="" group-title="Todos",M. LaLiga Smartbank TV 3 SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOC3dHSJYBIxL2sYVwBADxyc/ts
+#EXTINF:-1 xui-id="1071" tvg-id="" tvg-name="LaLiga TV Bar FHD (H.265)" tvg-logo="" group-title="Todos",LaLiga TV Bar FHD (H.265)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnONsiezl1AsyoCnbzpJ8TjvM/ts
+#EXTINF:-1 xui-id="1072" tvg-id="" tvg-name="LaLiga TV Bar SD" tvg-logo="" group-title="Todos",LaLiga TV Bar SD
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnODq7DkZYMfP1BY71D1_4n10/ts
+#EXTINF:-1 xui-id="1073" tvg-id="" tvg-name="LaLiga TV Bar HD (1080P)" tvg-logo="" group-title="Todos",LaLiga TV Bar HD (1080P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOFtoq2bLqSbKaRBRUkxWBw0/ts
+#EXTINF:-1 xui-id="1074" tvg-id="" tvg-name="LaLiga TV Bar HD (720P)" tvg-logo="" group-title="Todos",LaLiga TV Bar HD (720P)
+http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOMhxS1EC8dkmEibKkVuG21o/ts
