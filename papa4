@@ -1398,9 +1398,9 @@ http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOOMenwwHW_ugaPfWt_IAe6I
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBLg0CYOtkdanB9Vr1-q_w8
 #EXTINF:-1 xui-id="1328" tvg-id="" tvg-name="Rakuten 3" tvg-logo="" group-title="Movistar+ Cine",Rakuten 3
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOBLg0CYOtkdanB9Vr1-q_w8
-#EXTINF:-1 xui-id="1329" tvg-id="" tvg-name="•??--- ES Documentales ----??•" tvg-logo="" group-title="Todos",•??--- ES Documentales ----??•
+#EXTINF:-1 xui-id="1329" tvg-id="" tvg-name="•??--- Documentales ----??•" tvg-logo="" group-title="Todos",•??--- Documentales ----??•
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOPEJ9H2m8PH7pfFNyzlabsY
-#EXTINF:-1 xui-id="1329" tvg-id="" tvg-name="•??--- ES Documentales ----??•" tvg-logo="" group-title="Documentales",•??--- ES Documentales ----??•
+#EXTINF:-1 xui-id="1329" tvg-id="" tvg-name="•??--- Documentales ----??•" tvg-logo="" group-title="Documentales",•??--- Documentales ----??•
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOPEJ9H2m8PH7pfFNyzlabsY
 #EXTINF:-1 xui-id="1330" tvg-id="" tvg-name="National Geoghraphic FHD (H.265)" tvg-logo="" group-title="Todos",National Geoghraphic FHD (H.265)
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOHZBR4XXstD_42tgdTUKKy8
@@ -1732,7 +1732,7 @@ http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOIq94XU2fV7pxm4Kny9dg8I
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOIq94XU2fV7pxm4Kny9dg8I
 #EXTINF:-1 xui-id="1412" tvg-id="" tvg-name="•??--- Música ----??•" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGDgG0J7gXck0VKtEZbCsGX7.png" group-title="Todos",•??--- ES Música ----??•
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOE54-6-L7Q_l0iZb3pg-zOA
-#EXTINF:-1 xui-id="1412" tvg-id="" tvg-name="•??--- Música ----??•" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGDgG0J7gXck0VKtEZbCsGX7.png" ógroup-title="Música",•??--- Música ----??•
+#EXTINF:-1 xui-id="1412" tvg-id="" tvg-name="•??--- Música ----??•" tvg-logo="http://shakeiptv.com:8080/images/pW2q9mYhl29ICtcGfxDTxOHMPdUA8N1Bms8GAaIdYGDgG0J7gXck0VKtEZbCsGX7.png" group-title="Música",•??--- Música ----??•
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOE54-6-L7Q_l0iZb3pg-zOA
 #EXTINF:-1 xui-id="1413" tvg-id="" tvg-name="M. Fest FHD (Fibra)" tvg-logo="http://shakeiptv.com:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooDfL2VVAvcP5-cBVczkOv5kj6mqljvRi5kLKowHe1Rs9GevCcTRnWML5pHwAEwqr44.png" group-title="Todos",M. Fest FHD (Fibra)
 http://shakeiptv.com:8080/play/DAYJBwuZkX4zvlIFGRLnOHJM8B5waug74RUQQwI4_sA
