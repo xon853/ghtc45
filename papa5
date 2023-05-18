@@ -1,0 +1,1020 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PRAYER TIMES" tvg-logo="http://103.161.34.240:81/RAMADAN2023/prayertimes.png" group-title="ES| GENERAL",|SP| PRAYER TIMES
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/554104
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ATV ANDORRA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/ATVANDORRA.png" group-title="ES| REGIONALES",|SP| ATV ANDORRA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/539665
+#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AMCHD.png" group-title="ES| ENTRETENIMIENTO",|SP| AMC HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1664
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AXN.png" group-title="ES| ENTRETENIMIENTO",|SP| AXN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1663
+#EXTINF:-1 tvg-id="" tvg-name="|SP| BEIN SPORTS XTRA SPANISH HD" tvg-logo="http://logo.ottc.pro:8080/logos/USASPORT/BEINSPORTEXTRA.png" group-title="ES| DEPORTES",|SP| BEIN SPORTS XTRA SPANISH HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484772
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M+ ELLAS HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/MELLAS.png" group-title="ES| DEPORTES",|SP| M+ ELLAS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412506
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN LALIGA" tvg-logo="http://103.161.34.214:81/logos/new%20logos/IT/DAZNLaLiga.png" group-title="ES| DEPORTES",|SP| DAZN LALIGA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/419428
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN LALIGA BACKUP" tvg-logo="http://103.161.34.214:81/logos/new%20logos/IT/DAZNLaLiga.png" group-title="ES| DEPORTES",|SP| DAZN LALIGA BACKUP
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/513372
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN LALIGA 2" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DAZNF1ESPANA.png" group-title="ES| DEPORTES",|SP| DAZN LALIGA 2
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/426348
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ESPORT 3 CAT" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TV3.png" group-title="ES| DEPORTES",|SP| ESPORT 3 CAT
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/457617
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP| #VAMOS HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/VAMOS.png" group-title="ES| DEPORTES",|SP| #VAMOS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1677
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP LALIGA HIGHLIGHTS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| DEPORTES",|SP| POP LALIGA HIGHLIGHTS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/475076
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LA LIGA REPLAY | HIGHLIGHTS" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/LALIGA1TO10.png" group-title="ES| DEPORTES",|SP| LA LIGA REPLAY | HIGHLIGHTS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/448094
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|SP| M.LALIGA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="ES| DEPORTES",|SP| M.LALIGA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1644
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LALIGA HD BACKUP 1" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M.LALIGA HD BACKUP 1
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/448156
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LALIGA HD BACKUP 2" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M.LALIGA HD BACKUP 2
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/448155
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LALIGA HD BACKUP 3" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M.LALIGA HD BACKUP 3
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/448154
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LALIGA HD BACKUP 4" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M.LALIGA HD BACKUP 4
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/448153
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="ES| DEPORTES",|SP| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/31268
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="ES| DEPORTES",|SP| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/31270
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="ES| DEPORTES",|SP| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/31272
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 4 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M. LALIGA 4 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/318477
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 5 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M. LALIGA 5 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/318476
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 6 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M. LALIGA 6 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/318475
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 7 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M. LALIGA 7 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/318474
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 8 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M. LALIGA 8 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/325815
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 9 HD |ONLY DURING LIVE MATCHES|" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.LALIGA4HD.png" group-title="ES| DEPORTES",|SP| M. LALIGA 9 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/325816
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA TV BAR" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/LALIGATVBAR.png" group-title="ES| DEPORTES",|SP| LALIGA TV BAR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/325618
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA SMARTBANK TV HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/laligasmartbankTV1.2.png" group-title="ES| DEPORTES",|SP| LALIGA SMARTBANK TV HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/428601
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA SMARTBANK TV 1 HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/laligasmartbankTV1.2.png" group-title="ES| DEPORTES",|SP| LALIGA SMARTBANK TV 1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/428600
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA SMARTBANK TV 2" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/laligasmartbankTV1.2.png" group-title="ES| DEPORTES",|SP| LALIGA SMARTBANK TV 2
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/439868
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT1.png" group-title="ES| DEPORTES",|SP| EUROSPORT1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1642
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT 1" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT1.png" group-title="ES| DEPORTES",|SP| EUROSPORT 1
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1641
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP| EUROSPORT 2" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT2.png" group-title="ES| DEPORTES",|SP| EUROSPORT 2
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1640
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes1.png" group-title="ES| DEPORTES",|SP| M.DEPORTES HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1619
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP| TELEDEPORTE" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TELEDEPORTE.png" group-title="ES| DEPORTES",|SP| TELEDEPORTE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1618
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. FEST HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.FEST.png" group-title="ES| DEPORTES",|SP| M. FEST HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412813
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes1.png" group-title="ES| DEPORTES",|SP| M.DEPORTES 1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1620
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes2.png" group-title="ES| DEPORTES",|SP| M.DEPORTES 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/226589
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes3.png" group-title="ES| DEPORTES",|SP| M.DEPORTES 3 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/226590
+#EXTINF:-1 tvg-id="" tvg-name="|SP| SEVILLA FC TV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/sevillafcTV.png" group-title="ES| DEPORTES",|SP| SEVILLA FC TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/414793
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP| GOL" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/GOL.png" group-title="ES| DEPORTES",|SP| GOL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1639
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|SP| BAR TV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BARTV.png" group-title="ES| DEPORTES",|SP| BAR TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1638
+#EXTINF:-1 tvg-id="" tvg-name="|SP| REAL BETIS TV " tvg-logo="http://103.161.34.240:81/logos/SPAIN/REALBETISTV.png" group-title="ES| DEPORTES",|SP| REAL BETIS TV 
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/503751
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP| R. MADRID TV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/RMADRIDTV.png" group-title="ES| DEPORTES",|SP| R. MADRID TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1637
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MUNDOTORO TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/DEPORTES/MUNDOTORO.png" group-title="ES| DEPORTES",|SP| MUNDOTORO TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/557537
+#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP| TOROS HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TOROSHD.png" group-title="ES| DEPORTES",|SP| TOROS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1636
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="|SP| EL TORO TV HD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/DEPORTES/ELTOROTVHD.png" group-title="ES| DEPORTES",|SP| EL TORO TV HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/556357
+#EXTINF:-1 tvg-id="" tvg-name="|SP| HORSE TV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/HORSETV.png" group-title="ES| DEPORTES",|SP| HORSE TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412734
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|SP| M.GOLF HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MGOLFHD.png" group-title="ES| DEPORTES",|SP| M.GOLF HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1633
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1647
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES BACKUP" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES BACKUP
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/353730
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES BACKUP 2" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES BACKUP 2
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/445820
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES BACKUP 3" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES BACKUP 3
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/445819
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 1 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 1 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/83381
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 2 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 2 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/83380
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 3 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 3 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/83379
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 4 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 4 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/319074
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 5 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 5 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/319073
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 6 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 6 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/319072
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 7 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 7 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/319071
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 8 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 8 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/319070
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 9 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 9 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/325614
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 10 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 10 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/325615
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 11 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 11 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/325616
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES 12 |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 12 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/325617
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DIRECTV SPORTS PLUS HD" tvg-logo="http://logo.ottc.pro:8080/logos/AM.LATINO/COLOMBIA/DIRECTVSPORT1.png" group-title="ES| DEPORTES",|SP| DIRECTV SPORTS PLUS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/507157
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DIRECTV SPORTS (URU) HD" tvg-logo="http://logo.ottc.pro:8080/logos/AM.LATINO/COLOMBIA/DIRECTVSPORT1.png" group-title="ES| DEPORTES",|SP| DIRECTV SPORTS (URU) HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/507156
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DIRECTV SPORTS (ARG) HD" tvg-logo="http://logo.ottc.pro:8080/logos/AM.LATINO/COLOMBIA/DIRECTVSPORT1.png" group-title="ES| DEPORTES",|SP| DIRECTV SPORTS (ARG) HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/507155
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DIRECTV SPORTS 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/AM.LATINO/COLOMBIA/DIRECTVSPORT1.png" group-title="ES| DEPORTES",|SP| DIRECTV SPORTS 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/507154
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DIRECTV EVENTOS 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/AM.LATINO/COLOMBIA/DIRECTVSPORT1.png" group-title="ES| DEPORTES",|SP| DIRECTV EVENTOS 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/507153
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DIRECTV EVENTOS 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos/AM.LATINO/COLOMBIA/DIRECTVSPORT1.png" group-title="ES| DEPORTES",|SP| DIRECTV EVENTOS 5 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/507152
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DAZN1.png" group-title="ES| DEPORTES",|SP| DAZN 1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/41323
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DAZN2.png" group-title="ES| DEPORTES",|SP| DAZN 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/41324
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DAZN3.png" group-title="ES| DEPORTES",|SP| DAZN 3 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/157478
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DAZN4.png" group-title="ES| DEPORTES",|SP| DAZN 4 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/157477
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN F1 SD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DAZNF1.png" group-title="ES| DEPORTES",|SP| DAZN F1 SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/414785
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN F1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DAZNF1.png" group-title="ES| DEPORTES",|SP| DAZN F1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/157476
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN F1 ESPAÃ‘A HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DAZNF1ESPANA.png" group-title="ES| DEPORTES",|SP| DAZN F1 ESPAÃ‘A HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/414786
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AXN.png" group-title="ES| ENTRETENIMIENTO",|SP| AXN HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1662
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP| AXN WHITE HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/AXNWHITE.png" group-title="ES| ENTRETENIMIENTO",|SP| AXN WHITE HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1661
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP| CALLE 13 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CALLE13HD.png" group-title="ES| ENTRETENIMIENTO",|SP| CALLE 13 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1660
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP| COMEDY CENTRAL HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/COMEDYCENTRALHD.png" group-title="ES| ENTRETENIMIENTO",|SP| COMEDY CENTRAL HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1659
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP| COSMO HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/COSMOHD.png" group-title="ES| ENTRETENIMIENTO",|SP| COSMO HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1658
+#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP| FOX HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/FOXHD.png" group-title="ES| ENTRETENIMIENTO",|SP| FOX HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1657
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FOX NEWS" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/FOXNEWS.png" group-title="ES| ENTRETENIMIENTO",|SP| FOX NEWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1592
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP| HOLLYWOOD HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/HOLLYWOODHD.png" group-title="ES| ENTRETENIMIENTO",|SP| HOLLYWOOD HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1655
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="|SP| PARAMOUNT" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/PARAMOUNT.png" group-title="ES| ENTRETENIMIENTO",|SP| PARAMOUNT
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1654
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP| SUNDANCE TV" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/SUNDANCETV.png" group-title="ES| ENTRETENIMIENTO",|SP| SUNDANCE TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1653
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP| SYFY HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/SYFY.png" group-title="ES| ENTRETENIMIENTO",|SP| SYFY HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1652
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP| TCM HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TCM.png" group-title="ES| ENTRETENIMIENTO",|SP| TCM HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1651
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP| TNT HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TNTHD.png" group-title="ES| ENTRETENIMIENTO",|SP| TNT HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1650
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CLASSICA" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CLASSICA.png" group-title="ES| ENTRETENIMIENTO",|SP| CLASSICA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1649
+#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP| LA 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LA1.png" group-title="ES| GENERAL",|SP| LA 1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1697
+#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP| LA 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LA2.png" group-title="ES| GENERAL",|SP| LA 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1696
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP| ANTENA 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ANTENA3.png" group-title="ES| GENERAL",|SP| ANTENA 3 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1695
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP| CUATRO HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/E4.png" group-title="ES| GENERAL",|SP| CUATRO HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1694
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP| TELECINCO HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TELECINCO.png" group-title="ES| GENERAL",|SP| TELECINCO HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1693
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP| LA SEXTA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LASEXTA.png" group-title="ES| GENERAL",|SP| LA SEXTA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1692
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="|SP| TVE INTERNACIONAL HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="ES| GENERAL",|SP| TVE INTERNACIONAL HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1698
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TRECE HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TRECEHD.png" group-title="ES| GENERAL",|SP| TRECE HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/458943
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="|SP| CANAL SUR A." tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANALSURA.png" group-title="ES| GENERAL",|SP| CANAL SUR A.
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1691
+#EXTINF:-1 tvg-id="#0.es" tvg-name="|SP| 0 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/0.png" group-title="ES| GENERAL",|SP| 0 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1683
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="|SP| FDF" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/FDF.png" group-title="ES| GENERAL",|SP| FDF
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1690
+#EXTINF:-1 tvg-id="" tvg-name="|SP| VIAJAR" tvg-logo="http://103.161.34.240:81/logos/SPAIN/VIAJAR.png" group-title="ES| GENERAL",|SP| VIAJAR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/503750
+#EXTINF:-1 tvg-id="dark.es" tvg-name="|SP| DARK SD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DARK.png" group-title="ES| GENERAL",|SP| DARK SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412733
+#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP| ENERGY" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ENERGY.png" group-title="ES| GENERAL",|SP| ENERGY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1689
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP| DIVINITY" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DIVINITY.png" group-title="ES| GENERAL",|SP| DIVINITY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1688
+#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP| MEGA SD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/MEGA.png" group-title="ES| GENERAL",|SP| MEGA SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1687
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP| BE MAD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BEMAD.png" group-title="ES| GENERAL",|SP| BE MAD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1686
+#EXTINF:-1 tvg-id="neox.es" tvg-name="|SP| NEOX" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/NEOX.png" group-title="ES| GENERAL",|SP| NEOX
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1685
+#EXTINF:-1 tvg-id="" tvg-name="|SP| UBEAT" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/UBEAT.png" group-title="ES| GENERAL",|SP| UBEAT
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412736
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| CANAL 24 HORAS" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANAL24HORAS.png" group-title="ES| GENERAL",|SP| CANAL 24 HORAS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1684
+#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="|SP| ARAGON TV INT SD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ARAGONTVINT.png" group-title="ES| GENERAL",|SP| ARAGON TV INT SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1682
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP| XTRM HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/XTRM.png" group-title="ES| GENERAL",|SP| XTRM HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/192238
+#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP| NOVA" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/NOVA.png" group-title="ES| GENERAL",|SP| NOVA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1681
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| 24 HORAS" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/24HORAS.png" group-title="ES| GENERAL",|SP| 24 HORAS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1679
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TV GALICIA HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TVGALICIA.png" group-title="ES| GENERAL",|SP| TV GALICIA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412516
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELEMADRID HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TELEMADRID.png" group-title="ES| GENERAL",|SP| TELEMADRID HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412514
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELEMADRID SD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TELEMADRID.png" group-title="ES| GENERAL",|SP| TELEMADRID SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412513
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL EXTREMADURA SAT SD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CANALEXTREMADURA.png" group-title="ES| GENERAL",|SP| CANAL EXTREMADURA SAT SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412512
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TV3" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TV3.png" group-title="ES| GENERAL",|SP| TV3
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412504
+#EXTINF:-1 tvg-id="" tvg-name="|SP| RTVE PLAY" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/RTVEPLAY.png" group-title="ES| GENERAL",|SP| RTVE PLAY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/452138
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="|SP| TVGA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TVGA.png" group-title="ES| GENERAL",|SP| TVGA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1678
+#EXTINF:-1 tvg-id="" tvg-name="|SP| BARCA TV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/BARCATV.png" group-title="ES| GENERAL",|SP| BARCA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/438733
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP| BLAZE" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/BLAZE.png" group-title="ES| CULTURA",|SP| BLAZE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1607
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP| CANAL COCINA" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/cocina%20HD.png" group-title="ES| CULTURA",|SP| CANAL COCINA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1606
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP| CANAL DECASA" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANALDECASA.png" group-title="ES| CULTURA",|SP| CANAL DECASA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1605
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP| CAZA Y PESCA HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CAZAYPESCA.png" group-title="ES| CULTURA",|SP| CAZA Y PESCA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1604
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CAZAVISIÃ“N" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/CAZAVISION.png" group-title="ES| GENERAL",|SP| CAZAVISIÃ“N
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/485854
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="|SP| CRIMEN+INVES" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CRIMEN%20AND%20INVES.png" group-title="ES| CULTURA",|SP| CRIMEN+INVES
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1603
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="|SP| DISCOVERY SD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/DISCOVERY.png" group-title="ES| CULTURA",|SP| DISCOVERY SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1602
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NAUTICAL CHANNEL" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/NAUTICALCHANNEL.png" group-title="ES| GENERAL",|SP| NAUTICAL CHANNEL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412735
+#EXTINF:-1 tvg-id="historia.es" tvg-name="|SP| HISTORIA" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/HISTORY.png" group-title="ES| CULTURA",|SP| HISTORIA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1601
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP| IBERALIA TV" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/IBERLIA%20TV.png" group-title="ES| CULTURA",|SP| IBERALIA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1600
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="|SP| DKISS" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DKISS.png" group-title="ES| GENERAL",|SP| DKISS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/312694
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DMAX" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DMAX.png" group-title="ES| GENERAL",|SP| DMAX
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/229598
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="|SP| NAT GEO HD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/NATGEO.png" group-title="ES| CULTURA",|SP| NAT GEO HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1599
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/NATGEOWILD.png" group-title="ES| CULTURA",|SP| NAT GEO WILD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1598
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/NATGEOWILD.png" group-title="ES| CULTURA",|SP| NAT GEO WILD HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1597
+#EXTINF:-1 tvg-id="canalandaluciacocina.es" tvg-name="|SP| CANAL ODISEA" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/ODEISA%20HD.png" group-title="ES| CULTURA",|SP| CANAL ODISEA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1596
+#EXTINF:-1 tvg-id="" tvg-name="|SP| AMC CRIME" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/AMC.png" group-title="ES| GENERAL",|SP| AMC CRIME
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/353716
+#EXTINF:-1 tvg-id="" tvg-name="|SP| AMC BREAK" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/AMCBEAK.png" group-title="ES| GENERAL",|SP| AMC BREAK
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/353715
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP JUST FOR LAUGHS" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| ENTRETENIMIENTO",|SP| POP JUST FOR LAUGHS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/232836
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP SPANISH TALENTS" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| GENERAL",|SP| POP SPANISH TALENTS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/123977
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP LA VOZ KIDS ESPAÃ‘A" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| GENERAL",|SP| POP LA VOZ KIDS ESPAÃ‘A
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/123660
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES  4 (SOLO EVENTOS)" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/movistardeportes.png" group-title="ES| DEPORTES",|SP| M.DEPORTES  4 (SOLO EVENTOS)
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/455206
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES 5 (SOLO EVENTOS)" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/movistardeportes.png" group-title="ES| DEPORTES",|SP| M.DEPORTES 5 (SOLO EVENTOS)
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/455205
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP| M.ACCION HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MACCIONHD.png" group-title="ES| MOVISTAR",|SP| M.ACCION HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1630
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP| M.CINE ESPANOL" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MCINEESPANOL.png" group-title="ES| MOVISTAR",|SP| M.CINE ESPANOL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1629
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP| M.COMEDIA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MCOMEDIAHD.png" group-title="ES| MOVISTAR",|SP| M.COMEDIA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1628
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP| M.DRAMA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDRAMAHD.png" group-title="ES| MOVISTAR",|SP| M.DRAMA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1627
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP| M.ESTRENOS HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MESTRENOSHD.png" group-title="ES| MOVISTAR",|SP| M.ESTRENOS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1626
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.ESTRENOS 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MESTRENOSHD.png" group-title="ES| MOVISTAR",|SP| M.ESTRENOS 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/317739
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP| M.SERIES HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MSERIESHD.png" group-title="ES| MOVISTAR",|SP| M.SERIES HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1623
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.SERIES 2 HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.SERIES2.png" group-title="ES| MOVISTAR",|SP| M.SERIES 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/317740
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="|SP| M.SERIESMANIA HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MSERIESMANIAHD.png" group-title="ES| MOVISTAR",|SP| M.SERIESMANIA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1622
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.RESISTENCIA HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/m.RESISTENCIA.png" group-title="ES| MOVISTAR",|SP| M.RESISTENCIA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/317738
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MOVISTAR BOM CINE" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/MOVISTARBOMCINE.png" group-title="ES| MOVISTAR",|SP| MOVISTAR BOM CINE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/370285
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MOVISTAR CRIMEN" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/MOVISTARCRIMEN.png" group-title="ES| MOVISTAR",|SP| MOVISTAR CRIMEN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/370284
+#EXTINF:-1 tvg-id="" tvg-name="|SP| SOMOS SD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/SOMOS.png" group-title="ES| MOVISTAR",|SP| SOMOS SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/300095
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289578
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289579
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 3 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 3 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289580
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 4 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 4 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289581
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 5 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 5 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289582
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 6 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 6 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289583
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 7 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 7 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289584
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 8 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 8 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289585
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 9 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 9 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289586
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 10 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 10 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289587
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 11 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 11 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289588
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALQUILER 12 HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ALQUILER.png" group-title="ES| MOVISTAR",|SP| ALQUILER 12 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289589
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| MTV SD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MTV.png" group-title="ES| MUSICA",|SP| MTV SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1612
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MTV ESPAÂ¹A" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MTVESPAA.png" group-title="ES| MUSICA",|SP| MTV ESPAÂ¹A
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1611
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP| MEZZO" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MEZZO.png" group-title="ES| MUSICA",|SP| MEZZO
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1617
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP| MEZZO LIVE HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/Mezzolive.png" group-title="ES| MUSICA",|SP| MEZZO LIVE HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1616
+#EXTINF:-1 tvg-id="" tvg-name="|SP| VH1 CLASSIC" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/VH1.png" group-title="ES| MUSICA",|SP| VH1 CLASSIC
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1594
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP| BABY TV SD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BABYTV.png" group-title="ES| NINOS",|SP| BABY TV SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1675
+#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP| BOING SD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BOING.png" group-title="ES| NINOS",|SP| BOING SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1674
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP| CLAN TVE" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CLANTVE.png" group-title="ES| NINOS",|SP| CLAN TVE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1673
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP| DISNEY CH HD" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DISNEYCH.png" group-title="ES| NINOS",|SP| DISNEY CH HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1672
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DISNEY JR" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DISNEYJR.png" group-title="ES| NINOS",|SP| DISNEY JR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1671
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DREAMWORKS" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DREAMWORKS.png" group-title="ES| NINOS",|SP| DREAMWORKS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1670
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP| NICK JR" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/NICKJR.png" group-title="ES| NINOS",|SP| NICK JR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1669
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP| NICKELODEON  HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/nickelodeon.png" group-title="ES| NINOS",|SP| NICKELODEON  HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1668
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP| CANAL PANDA" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANALPANDA.png" group-title="ES| NINOS",|SP| CANAL PANDA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1667
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV LOS NUEVOS DETECTIVES HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV LOS NUEVOS DETECTIVES HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412930
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV ANA Y LOS 7 HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV ANA Y LOS 7 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412929
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV BBC DRAMA HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV BBC DRAMA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412928
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV ANIMAKIDS  HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV ANIMAKIDS  HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412927
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV ANIMAKIDS PLUS HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV ANIMAKIDS PLUS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412926
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV CINE ACCION HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV CINE ACCION HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412924
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV CINE CLASICO HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV CINE CLASICO HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412923
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV CINE ESTELAR HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV CINE ESTELAR HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412922
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV COCINA  HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV COCINA  HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412921
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV KIDS  HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV KIDS  HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412920
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV MUNDO REAL  HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV MUNDO REAL  HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412919
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV TEEN STARS HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV TEEN STARS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412918
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV TELENOVELAS HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV TELENOVELAS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412917
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV TOONS CLASICO HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV TOONS CLASICO HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412916
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV TOP GEAR HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV TOP GEAR HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412915
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV COMEDIA (MADE IN SPAIN) HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV COMEDIA (MADE IN SPAIN) HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412914
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV MTV MUSIC MADE IN SPAIN HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV MTV MUSIC MADE IN SPAIN HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412913
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV MTV ORIGINALS HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV MTV ORIGINALS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412912
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV MTV CATFISH  HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV MTV CATFISH  HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412911
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PLUTO TV MTV CRIBS  HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/PLUTO.png" group-title="ES| PLUTO",|SP| PLUTO TV MTV CRIBS  HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412910
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  BLOOMBERG QUICKTAKE" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/bloombergquicktake.png" group-title="ES| RAKUTEN",|SP|  BLOOMBERG QUICKTAKE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415387
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  BRAT TV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/BRATTV.png" group-title="ES| RAKUTEN",|SP|  BRAT TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415386
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  CLUBBING TV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CLUBBING.png" group-title="ES| RAKUTEN",|SP|  CLUBBING TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415385
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  COMEDY DYNAMICS" tvg-logo="http://103.161.34.214:81//logos/LOGOS.MISSING/ESPANAHD/ComedyDynamics.png" group-title="ES| RAKUTEN",|SP|  COMEDY DYNAMICS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415384
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  DUCK TV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DUCKTV.png" group-title="ES| RAKUTEN",|SP|  DUCK TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415383
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  FAILARMY INTERNATIONAL" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/FAILARMYINTERNATIONAL.png" group-title="ES| RAKUTEN",|SP|  FAILARMY INTERNATIONAL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415382
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  INSIGHT TV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/INSIGHTTV.png" group-title="ES| RAKUTEN",|SP|  INSIGHT TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415380
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  INWONDER" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/inwonderTV.png" group-title="ES| RAKUTEN",|SP|  INWONDER
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415378
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  LONE STAR" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/LONESTAR.png" group-title="ES| RAKUTEN",|SP|  LONE STAR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415377
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MOVIESPHERE" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/MOVIESPHERE.png" group-title="ES| RAKUTEN",|SP|  MOVIESPHERE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415376
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  MYTIME MOVIE NETWORK SPAIN" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/mytimemovienetwork.png" group-title="ES| RAKUTEN",|SP|  MYTIME MOVIE NETWORK SPAIN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415375
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  PEOPLE ARE AWESOME" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/PEOPLEAREAWESOME.png" group-title="ES| RAKUTEN",|SP|  PEOPLE ARE AWESOME
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415374
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  RAKUTEN ACTION MOVIES SPAIN" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/FILMSSERIES/RAKUTEN.png" group-title="ES| RAKUTEN",|SP|  RAKUTEN ACTION MOVIES SPAIN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415373
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  RAKUTEN COMEDY MOVIES SPAIN" tvg-logo="http://logo.crystalott.net:8080/logos/FRENCH/FILMSSERIES/RAKUTEN.png" group-title="ES| RAKUTEN",|SP|  RAKUTEN COMEDY MOVIES SPAIN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415372
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  RAKUTEN SPOTLIGHT SPAIN" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/SPOTLIGHT.png" group-title="ES| RAKUTEN",|SP|  RAKUTEN SPOTLIGHT SPAIN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415371
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  THE PET COLLECTIVE EUROPE" tvg-logo="http://103.161.34.214:81//logos/LOGOS.MISSING/ESPANAHD/THEPET.png" group-title="ES| RAKUTEN",|SP|  THE PET COLLECTIVE EUROPE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415370
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  WEATHERSPY EUROPE" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/WEATHERSPYEUROPE.png" group-title="ES| RAKUTEN",|SP|  WEATHERSPY EUROPE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415369
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  WONDER" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/WONDER.png" group-title="ES| RAKUTEN",|SP|  WONDER
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415368
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  YOUNG HOLLYWOOD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/YOUNGHOLLYWOOD.png" group-title="ES| RAKUTEN",|SP|  YOUNG HOLLYWOOD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415367
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  ESTV" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/ESTV.png" group-title="ES| RAKUTEN",|SP|  ESTV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415366
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  EDGESPORT" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/EDGESPORT.png" group-title="ES| RAKUTEN",|SP|  EDGESPORT
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415365
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  RAKUTEN TOP FREE SPAIN" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/TOPFREE.png" group-title="ES| RAKUTEN",|SP|  RAKUTEN TOP FREE SPAIN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415364
+#EXTINF:-1 tvg-id="" tvg-name="|SP|  RAKUTEN TV SHOWS SPAIN" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/TVSHOW.png" group-title="ES| RAKUTEN",|SP|  RAKUTEN TV SHOWS SPAIN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/415363
+#EXTINF:-1 tvg-id="" tvg-name="|SP| 101 TV MÃ¡LAGA FHD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/101TVMALAGAFHD.png" group-title="ES| REGIONALES",|SP| 101 TV MÃ¡LAGA FHD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420832
+#EXTINF:-1 tvg-id="" tvg-name="|SP| 8 LA MARINA TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/8LaMarinaTV.png" group-title="ES| REGIONALES",|SP| 8 LA MARINA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420824
+#EXTINF:-1 tvg-id="" tvg-name="|SP| 8 TV CÃ¡DIZ" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/8tvcadiz.png" group-title="ES| REGIONALES",|SP| 8 TV CÃ¡DIZ
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420823
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALACANTÃ­ TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/alacantitv.png" group-title="ES| REGIONALES",|SP| ALACANTÃ­ TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420822
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ALCARRIA TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/alcarriatv.png" group-title="ES| REGIONALES",|SP| ALCARRIA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420821
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ANDALUCIA TV HD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/andaluciatvhd.png" group-title="ES| REGIONALES",|SP| ANDALUCIA TV HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420820
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ANDALUCIA TV SD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/andaluciatvhd.png" group-title="ES| REGIONALES",|SP| ANDALUCIA TV SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420819
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ARAGON TV SD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/aragontv.png" group-title="ES| REGIONALES",|SP| ARAGON TV SD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420818
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ARAGON TV HD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/aragontv.png" group-title="ES| REGIONALES",|SP| ARAGON TV HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420817
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ARAGON TV SD HEVC" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/aragontv.png" group-title="ES| REGIONALES",|SP| ARAGON TV SD HEVC
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420816
+#EXTINF:-1 tvg-id="" tvg-name="|SP| BETEVÃ©" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/beteve.png" group-title="ES| REGIONALES",|SP| BETEVÃ©
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420814
+#EXTINF:-1 tvg-id="" tvg-name="|SP| C33 MADRID" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/c33madrid.png" group-title="ES| REGIONALES",|SP| C33 MADRID
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420812
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL 2000 LA SOLANA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/canal2000lasalona.png" group-title="ES| REGIONALES",|SP| CANAL 2000 LA SOLANA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420810
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL 25 BARBASTRO TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/canal25barbastrotv.png" group-title="ES| REGIONALES",|SP| CANAL 25 BARBASTRO TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420809
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL 56" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/canal56.png" group-title="ES| REGIONALES",|SP| CANAL 56
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420806
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL MÃ¡LAGA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/canalmalaga.png" group-title="ES| REGIONALES",|SP| CANAL MÃ¡LAGA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420802
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL SAN ROQUE" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/canalsanroque.png" group-title="ES| REGIONALES",|SP| CANAL SAN ROQUE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420800
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL SIERRA DE CÃ¡DIZ" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/canalsierradecadiz.png" group-title="ES| REGIONALES",|SP| CANAL SIERRA DE CÃ¡DIZ
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420799
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CMM" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CMM.png" group-title="ES| REGIONALES",|SP| CMM
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420796
+#EXTINF:-1 tvg-id="" tvg-name="|SP| COSTA DEL SOL TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/costadelsoltv.png" group-title="ES| REGIONALES",|SP| COSTA DEL SOL TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420794
+#EXTINF:-1 tvg-id="" tvg-name="|SP| COSTA NOROESTE TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/costanoroestetv.png" group-title="ES| REGIONALES",|SP| COSTA NOROESTE TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420793
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CÃ³RDOBA TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/cordobatv.png" group-title="ES| REGIONALES",|SP| CÃ³RDOBA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420792
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DIEZ TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/dieztv.png" group-title="ES| REGIONALES",|SP| DIEZ TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420791
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ETB BASQUE" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/etbbasque.png" group-title="ES| REGIONALES",|SP| ETB BASQUE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420787
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ETB 1" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/etb1.png" group-title="ES| REGIONALES",|SP| ETB 1
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420783
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ETB 2" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/etb2.png" group-title="ES| REGIONALES",|SP| ETB 2
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420782
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INTERALMERÃ­A TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/interalmeriatv.png" group-title="ES| REGIONALES",|SP| INTERALMERÃ­A TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420775
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INTERCOMARCAL TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/intercomarcaltv.png" group-title="ES| REGIONALES",|SP| INTERCOMARCAL TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420774
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LANCELOT TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/LANCELOTTV.png" group-title="ES| REGIONALES",|SP| LANCELOT TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420762
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LAOTRA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/LAOTRA.png" group-title="ES| REGIONALES",|SP| LAOTRA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420761
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LEVANTE TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/LEVANTETV.png" group-title="ES| REGIONALES",|SP| LEVANTE TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420759
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M95 MARBELLA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/M95MARBELLA.png" group-title="ES| REGIONALES",|SP| M95 MARBELLA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420758
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MARBELLA TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/MARBELLATV.png" group-title="ES| REGIONALES",|SP| MARBELLA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420756
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MELILLA TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/MELILLATV.png" group-title="ES| REGIONALES",|SP| MELILLA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420755
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MÃ­RAME TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/MIRAMETV.png" group-title="ES| REGIONALES",|SP| MÃ­RAME TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420753
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NEGOCIOS TV HD" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/NEGOCIOSTV.png" group-title="ES| REGIONALES",|SP| NEGOCIOS TV HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420751
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NOROESTE TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/NOROESTE.png" group-title="ES| REGIONALES",|SP| NOROESTE TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420749
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NORTEVISIÃ³N" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/NORTEVISION.png" group-title="ES| REGIONALES",|SP| NORTEVISIÃ³N
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420748
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ONDA ALGECIRAS TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/ONDAALGECIRASTV.png" group-title="ES| REGIONALES",|SP| ONDA ALGECIRAS TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420745
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ONDA CADIZ" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/ONDACADIZ.png" group-title="ES| REGIONALES",|SP| ONDA CADIZ
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420744
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POPULAR TV CANTABRIA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/populartvcantabria.png" group-title="ES| REGIONALES",|SP| POPULAR TV CANTABRIA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420741
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PTV CÃ³RDOBA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/ptvcordoba.png" group-title="ES| REGIONALES",|SP| PTV CÃ³RDOBA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420740
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PTV GRANADA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/PTVGRANADA.png" group-title="ES| REGIONALES",|SP| PTV GRANADA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420739
+#EXTINF:-1 tvg-id="" tvg-name="|SP| PTV SEVILLA" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/sevillafcTV.png" group-title="ES| REGIONALES",|SP| PTV SEVILLA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420738
+#EXTINF:-1 tvg-id="" tvg-name="|SP| RIBERA TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/RIBERATV.png" group-title="ES| REGIONALES",|SP| RIBERA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420736
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEF" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/TEF.png" group-title="ES| REGIONALES",|SP| TEF
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420732
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELEGILENA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/TELEGILENA.png" group-title="ES| REGIONALES",|SP| TELEGILENA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420729
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELERIBERA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/TELERIBERA.png" group-title="ES| REGIONALES",|SP| TELERIBERA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420727
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELESAFOR" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/TELESAFOR.png" group-title="ES| REGIONALES",|SP| TELESAFOR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420726
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELESUR MADRID" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/telesurmadrid.png" group-title="ES| REGIONALES",|SP| TELESUR MADRID
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420725
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELEVISIÃ³N DE ALICANTE" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/televisiondealicante.png" group-title="ES| REGIONALES",|SP| TELEVISIÃ³N DE ALICANTE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420724
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEN" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/ten.png" group-title="ES| REGIONALES",|SP| TEN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420723
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEVECAT" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/tevecat.png" group-title="ES| REGIONALES",|SP| TEVECAT
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420722
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TV3 CATALUÃ±A" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TV3.png" group-title="ES| REGIONALES",|SP| TV3 CATALUÃ±A
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420711
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TV3 CATALUÃ±A RÃ DIO" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TV3.png" group-title="ES| REGIONALES",|SP| TV3 CATALUÃ±A RÃ DIO
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420710
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TVG CULTURA" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/tvg.png" group-title="ES| REGIONALES",|SP| TVG CULTURA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420709
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TVG MUSIGAL" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/tvg.png" group-title="ES| REGIONALES",|SP| TVG MUSIGAL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420708
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TVG XABARIN" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/tvg.png" group-title="ES| REGIONALES",|SP| TVG XABARIN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420707
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TVG" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/tvg.png" group-title="ES| REGIONALES",|SP| TVG
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420706
+#EXTINF:-1 tvg-id="" tvg-name="|SP| UDTV LAS PALMAS" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/udtvlaspalmas.png" group-title="ES| REGIONALES",|SP| UDTV LAS PALMAS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420705
+#EXTINF:-1 tvg-id="" tvg-name="|SP| UROLA TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/urolatv.png" group-title="ES| REGIONALES",|SP| UROLA TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420703
+#EXTINF:-1 tvg-id="" tvg-name="|SP| VENTDELNORD TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/ventdelonord.png" group-title="ES| REGIONALES",|SP| VENTDELNORD TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420702
+#EXTINF:-1 tvg-id="" tvg-name="|SP| VISIÃ³N 6 TV" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/vision6tv.png" group-title="ES| REGIONALES",|SP| VISIÃ³N 6 TV
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420701
+#EXTINF:-1 tvg-id="" tvg-name="|SP| Ã€ PUNT" tvg-logo="http://103.161.34.240:81/logos/SPAIN/1/REGIONALES/apunt.png" group-title="ES| REGIONALES",|SP| Ã€ PUNT
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/420700
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX CINE HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX CINE HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478660
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX CINE + HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX CINE + HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478659
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX PELÃ­CULAS HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX PELÃ­CULAS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478658
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX ESPAÃ±OL HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX ESPAÃ±OL HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478657
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX TELEVISION HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX TELEVISION HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478656
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX HISTORIA HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX HISTORIA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478655
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX SCI-FI HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX SCI-FI HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478654
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX DRAMA HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX DRAMA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478653
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NETFLIX NINOS HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/CINENETFLIX.png" group-title="ES| TV SHOWS",|SP| NETFLIX NINOS HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/478652
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M+ CLÃ¡SICOS" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.CLASICOS.png" group-title="ES| TV SHOWS",|SP| M+ CLÃ¡SICOS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412505
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP DOCUMNTARY 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP DOCUMNTARY 1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289590
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 1" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 1
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484799
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 2" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 2
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484798
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 3" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 3
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484797
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 4" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 4
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484796
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 5" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 5
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484795
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 6" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 6
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484794
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 7" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 7
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484793
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 8" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 8
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484792
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 9" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 9
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484791
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 10" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 10
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484790
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 11" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 11
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484789
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 12" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 12
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484788
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 13" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 13
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484787
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 14" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 14
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484786
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 15" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 15
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/515367
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 17" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 17
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/515365
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 16" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 16
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/515366
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 18" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 18
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/515364
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 19" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 19
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/515363
+#EXTINF:-1 tvg-id="" tvg-name="|SP| INSTAT TV 20" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/INSTATTV.png" group-title="ES| DEPORTES",|SP| INSTAT TV 20
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/515362
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES 4K" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/465059
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES 4K DISNEY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES 4K DISNEY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/488474
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES APPLE TV+" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES APPLE TV+
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/534171
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES NETFLIX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES NETFLIX
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/527182
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES NEW YEAR" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES NEW YEAR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/495856
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES CHRISTMAS 2022" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES CHRISTMAS 2022
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/494873
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES CHRISTMAS 2021" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES CHRISTMAS 2021
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/494953
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES CHRISTMAS 2020" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES CHRISTMAS 2020
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/494956
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES DISNEY" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES DISNEY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/446806
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES FAST AND FURIOUS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES FAST AND FURIOUS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/471761
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES HARRY POTTER" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES HARRY POTTER
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/434568
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES MISSION IMPOSSIBLE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES MISSION IMPOSSIBLE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/483402
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES TRANSFORMERS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES TRANSFORMERS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/471010
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES DIRTY HARRY" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES DIRTY HARRY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/439740
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES DEATH WISH" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES DEATH WISH
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/439739
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES JAMES BOND" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES JAMES BOND
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/442318
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES ANIMATED" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES ANIMATED
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395238
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES CHRISTMAS" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES CHRISTMAS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/285160
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES CRIME" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES CRIME
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395218
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES DOCUMENTARY" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES DOCUMENTARY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395237
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES DRAMA" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES DRAMA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395233
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES FAMILY" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES FAMILY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395215
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES HISTORY" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES HISTORY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395221
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES HORROR" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES HORROR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395231
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES MARVEL" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES MARVEL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/423544
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES MUSIC" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES MUSIC
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395222
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES ROMANCE" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES ROMANCE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395232
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES THRILLER" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES THRILLER
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395211
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES WAR" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES WAR
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395213
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVIES WESTERN" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVIES WESTERN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/395216
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP SERIES 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| GENERAL",|SP| POP SERIES 2 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/232783
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP SERIES 1 HD" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| GENERAL",|SP| POP SERIES 1 HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/232782
+#EXTINF:-1 tvg-id="" tvg-name="|ES| POP SERIES A3PLAYER TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|ES| POP SERIES A3PLAYER TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473760
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP AMAZON PRIME TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP AMAZON PRIME TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473750
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP AMC TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP AMC TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473751
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP APPLE TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP APPLE TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473752
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP BRITBOX TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP BRITBOX TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473753
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP DISNEY TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP DISNEY TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473754
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP HULU TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP HULU TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/495995
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP HBO TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP HBO TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/483340
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MARVEL TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MARVEL TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473756
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MOVISTAR TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MOVISTAR TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473757
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP LIONSGATE TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP LIONSGATE TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/496625
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP NETFLIX TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP NETFLIX TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473758
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP PARAMOUNT TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP PARAMOUNT TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473759
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP SHOWTIME TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP SHOWTIME TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473761
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP VIDEOLAND TV SHOWS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP VIDEOLAND TV SHOWS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/473762
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MR BEAN" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MR BEAN
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484466
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP DOCU RELAXATION" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP DOCU RELAXATION
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/229316
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUNDO DE LA COCINA HD" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| TV SHOWS",|SP| POP MUNDO DE LA COCINA HD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/294429
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS BLIPPI" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS BLIPPI
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/432330
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS BOB ESPONJA" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS BOB ESPONJA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/112622
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS CAILLOU" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS CAILLOU
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/138347
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS DIANA Y ROMA" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS DIANA Y ROMA
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/253927
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS GUMBALL" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS GUMBALL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/308629
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS LITTEL BABY BUM" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS LITTEL BABY BUM
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/198787
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS OGGY" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS OGGY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/253925
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS TOM AND JERRY" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS TOM AND JERRY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/502657
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS RABBIDS" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS RABBIDS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/230875
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS REINO DE BEN Y HOLLY" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS REINO DE BEN Y HOLLY
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/109398
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS SHAUN THE SHEEP" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS SHAUN THE SHEEP
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/289576
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP KIDS ZIG AND SHARKO" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| NINOS",|SP| POP KIDS ZIG AND SHARKO
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/253923
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC AFRO" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC AFRO
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499112
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC BEST MIX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC BEST MIX
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/301310
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC BILLBOARD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC BILLBOARD
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/301309
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC CHILL" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC CHILL
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/301312
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC CLASSIC" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC CLASSIC
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499145
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC DANCE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC DANCE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/301311
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC DEEP HOUSE" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC DEEP HOUSE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499144
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC DJ" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC DJ
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499141
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC HIT" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC HIT
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/301313
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC HOUSE" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC HOUSE
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/254833
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC KIDS" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC KIDS
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499140
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC LOFI" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC LOFI
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499143
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC POP" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC POP
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499134
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC RAP" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC RAP
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499137
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC REMIX" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC REMIX
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/302137
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC SLOWED" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC SLOWED
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499139
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC SOUL DEEP" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC SOUL DEEP
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499142
+#EXTINF:-1 tvg-id="" tvg-name="|SP| POP MUSIC TRAP NATION" tvg-logo="http://logo.crystalott.net:8080/logos/BACKGROUND/poppop1.png" group-title="ES| MUSICA",|SP| POP MUSIC TRAP NATION
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/499138
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TVE INTERNACIONAL 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TVEINTERNACIONAL.png" group-title="EU| ESPAÃ‘A 4K",|SP| TVE INTERNACIONAL 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1916
+#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP| LA 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LA1.png" group-title="EU| ESPAÃ‘A 4K",|SP| LA 1 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1915
+#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP| LA 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LA2.png" group-title="EU| ESPAÃ‘A 4K",|SP| LA 2 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1914
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP| ANTENA 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ANTENA3.png" group-title="EU| ESPAÃ‘A 4K",|SP| ANTENA 3 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1913
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP| CUATRO 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/E4.png" group-title="EU| ESPAÃ‘A 4K",|SP| CUATRO 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1912
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP| TELECINCO 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TELECINCO.png" group-title="EU| ESPAÃ‘A 4K",|SP| TELECINCO 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1911
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP| LA SEXTA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/LASEXTA.png" group-title="EU| ESPAÃ‘A 4K",|SP| LA SEXTA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1910
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="|SP| CANAL SUR A. 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANALSURA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CANAL SUR A. 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1909
+#EXTINF:-1 tvg-id="#0.es" tvg-name="|SP| 0 HD 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/FOXNEWS.png" group-title="EU| ESPAÃ‘A 4K",|SP| 0 HD 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1882
+#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP| NOVA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/NOVA.png" group-title="EU| ESPAÃ‘A 4K",|SP| NOVA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1908
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| 24 HORAS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/24HORAS.png" group-title="EU| ESPAÃ‘A 4K",|SP| 24 HORAS 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1905
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="|SP| TVGA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TVGA.png" group-title="EU| ESPAÃ‘A 4K",|SP| TVGA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1904
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DARK 4K" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/DARK.png" group-title="EU| ESPAÃ‘A 4K",|SP| DARK 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412764
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP| XTRM 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/XTRM.png" group-title="EU| ESPAÃ‘A 4K",|SP| XTRM 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/192239
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="|SP| FDF 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/FDF.png" group-title="EU| ESPAÃ‘A 4K",|SP| FDF 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1903
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP| CLAN TVE 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CLANTVE.png" group-title="EU| ESPAÃ‘A 4K",|SP| CLAN TVE 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1902
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP| HOLLYWOOD 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/HOLLYWOODHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| HOLLYWOOD 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1901
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP| IBERALIA TV 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/IBERLIA%20TV.png" group-title="EU| ESPAÃ‘A 4K",|SP| IBERALIA TV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1900
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TELEMADRID 4K" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/TELEMADRID.png" group-title="EU| ESPAÃ‘A 4K",|SP| TELEMADRID 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412515
+#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP| MEGA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MEGA.png" group-title="EU| ESPAÃ‘A 4K",|SP| MEGA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1899
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP| #VAMOS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/VAMOS.png" group-title="EU| ESPAÃ‘A 4K",|SP| #VAMOS 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1898
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP| BABY TV 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BABYTV.png" group-title="EU| ESPAÃ‘A 4K",|SP| BABY TV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1896
+#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP| BOING 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BOING.png" group-title="EU| ESPAÃ‘A 4K",|SP| BOING 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1895
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP| CANAL PANDA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/CANALPANDA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CANAL PANDA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1894
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP| COMEDYCENTRAL 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/COMEDYCENTRALHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| COMEDYCENTRAL 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1893
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP| DISNEY CH 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/DISNEYCH.png" group-title="EU| ESPAÃ‘A 4K",|SP| DISNEY CH 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1892
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DISNEY JR 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DISNEYJR.png" group-title="EU| ESPAÃ‘A 4K",|SP| DISNEY JR 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1891
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="|SP| DREAMWORKS 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/DREAMWORKS.png" group-title="EU| ESPAÃ‘A 4K",|SP| DREAMWORKS 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1890
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP| NICK JR 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/NICKJR.png" group-title="EU| ESPAÃ‘A 4K",|SP| NICK JR 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1889
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP| NICKELODEON 4K" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/nickelodeon.png" group-title="EU| ESPAÃ‘A 4K",|SP| NICKELODEON 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1887
+#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP| FOX 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/FOXHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| FOX 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1885
+#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/AMCHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| AMC 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1881
+#EXTINF:-1 tvg-id="" tvg-name="|SP| ARAGON TV INT 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/ARAGONTVINT.png" group-title="EU| ESPAÃ‘A 4K",|SP| ARAGON TV INT 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1880
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/AXN.png" group-title="EU| ESPAÃ‘A 4K",|SP| AXN 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1879
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP| AXN WHITE 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/AXNWHITE.png" group-title="EU| ESPAÃ‘A 4K",|SP| AXN WHITE 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1877
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP| SYFY 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/SYFY.png" group-title="EU| ESPAÃ‘A 4K",|SP| SYFY 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1876
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP| TCM 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/TCM.png" group-title="EU| ESPAÃ‘A 4K",|SP| TCM 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1875
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP| TNT 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/TNTHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| TNT 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1874
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP| BE MAD 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/BEMAD.png" group-title="EU| ESPAÃ‘A 4K",|SP| BE MAD 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1873
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP| BLAZE 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/BLAZE.png" group-title="EU| ESPAÃ‘A 4K",|SP| BLAZE 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1872
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP| CALLE 13 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CALLE13HD.png" group-title="EU| ESPAÃ‘A 4K",|SP| CALLE 13 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1871
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP| CANAL COCINA 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/cocina%20HD.png" group-title="EU| ESPAÃ‘A 4K",|SP| CANAL COCINA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1870
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP| CANAL DECASA 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CANALDECASA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CANAL DECASA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1869
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL ODISEA 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/CANALODISEA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CANAL ODISEA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1868
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL ODISEA 8K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/CANALODISEA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CANAL ODISEA 8K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/435291
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL DECASA 8K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CANALDECASA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CANAL DECASA 8K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/435290
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP| CAZAYPESCA 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CAZAYPESCA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CAZAYPESCA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1867
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CLASSICA 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CLASSICA.png" group-title="EU| ESPAÃ‘A 4K",|SP| CLASSICA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1866
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP| COSMO 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/COSMOHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| COSMO 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1865
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CRIMEN INVES 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/CRIMEN%20AND%20INVES.png" group-title="EU| ESPAÃ‘A 4K",|SP| CRIMEN INVES 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1864
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP| DIVINITY 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DIVINITY.png" group-title="EU| ESPAÃ‘A 4K",|SP| DIVINITY 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1863
+#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP| ENERGY 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/ENERGY.png" group-title="EU| ESPAÃ‘A 4K",|SP| ENERGY 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1862
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.LCAMPEONES 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1860
+#EXTINF:-1 tvg-id="" tvg-name="|SP| BEIN SPORTS EN ESPANOL 4K" tvg-logo="http://logo.ottc.pro:8080/logos/1/beIN%20Sports%20EN%20ESPANOL.png" group-title="EU| ESPAÃ‘A 4K",|SP| BEIN SPORTS EN ESPANOL 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/484773
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES BACKUP 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLCAMPEONES.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.LCAMPEONES BACKUP 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/353741
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN LALIGA 4K" tvg-logo="http://103.161.34.214:81/logos/new%20logos/IT/DAZNLaLiga.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN LALIGA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/419456
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN LALIGA 2 4K" tvg-logo="http://103.161.34.214:81/logos/new%20logos/IT/DAZNLaLiga.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN LALIGA 2 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/426350
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|SP| M.LALIGA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.LALIGA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1857
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA SMARTBANK TV 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/LALIGASMARTBANKTV.png" group-title="EU| ESPAÃ‘A 4K",|SP| LALIGA SMARTBANK TV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/428603
+#EXTINF:-1 tvg-id="" tvg-name="|SP| LALIGA SMARTBANK TV 1 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/LALIGASMARTBANKTV.png" group-title="EU| ESPAÃ‘A 4K",|SP| LALIGA SMARTBANK TV 1 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/428602
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. FEST 4K" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/M.FEST.png" group-title="EU| ESPAÃ‘A 4K",|SP| M. FEST 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412814
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT1.png" group-title="EU| ESPAÃ‘A 4K",|SP| EUROSPORT 1 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1854
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP| EUROSPORT 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/EUROSPORT2.png" group-title="EU| ESPAÃ‘A 4K",|SP| EUROSPORT 2 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1853
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP| TELEDEPORTE 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TELEDEPORTE.png" group-title="EU| ESPAÃ‘A 4K",|SP| TELEDEPORTE 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1831
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.DEPORTES 1 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1832
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="|SP| M. DEPORTES 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDeportes1.png" group-title="EU| ESPAÃ‘A 4K",|SP| M. DEPORTES 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1833
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES 2 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/MDEPORTES2HD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.DEPORTES 2 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/226591
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.DEPORTES 3 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/MDEPORTES3HD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.DEPORTES 3 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/226592
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP| GOL 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/GOL.png" group-title="EU| ESPAÃ‘A 4K",|SP| GOL 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1852
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|SP| BARCA TV 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/BARTV.png" group-title="EU| ESPAÃ‘A 4K",|SP| BARCA TV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1851
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP| R.MADRID TV 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/RMADRIDTV.png" group-title="EU| ESPAÃ‘A 4K",|SP| R.MADRID TV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1850
+#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP| TOROS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/TOROSHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| TOROS 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1849
+#EXTINF:-1 tvg-id="" tvg-name="|SP| HORSE TV 4K" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/HORSETV.png" group-title="EU| ESPAÃ‘A 4K",|SP| HORSE TV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412762
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|SP| M.GOLF 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MGOLFHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.GOLF 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1846
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 1 4K |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP| M. LALIGA 1 4K |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/31269
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 2 4K |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP| M. LALIGA 2 4K |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/31271
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 3 4K |ONLY DURING LIVE MATCHES|" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MLALIGA.png" group-title="EU| ESPAÃ‘A 4K",|SP| M. LALIGA 3 4K |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/31273
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN 1 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/41321
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 2 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN 2 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/41322
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 3 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN 3 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/157481
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 4 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN 4 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/157480
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN F1 ESPAÃ‘AÂ 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN F1 ESPAÃ‘AÂ 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/414789
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN F1 4K" tvg-logo="http://logo.ottc.pro:8080/logos/GERMANY/DAZN.png" group-title="EU| ESPAÃ‘A 4K",|SP| DAZN F1 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/157479
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP| M.ACCION 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MACCIONHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.ACCION 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1843
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP| M.CINE ESPANOL 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MCINEESPANOL.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.CINE ESPANOL 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1842
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP| M.COMEDIA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MCOMEDIAHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.COMEDIA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1841
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP| M.DRAMA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MDRAMAHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.DRAMA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1840
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP| M.ESTRENOS 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MESTRENOSHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.ESTRENOS 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1839
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP| M.SERIES 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MSERIESHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.SERIES 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1836
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="|SP| M.SERIESMANIA 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MSERIESMANIAHD.png" group-title="EU| ESPAÃ‘A 4K",|SP| M.SERIESMANIA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1835
+#EXTINF:-1 tvg-id="" tvg-name="|SP| SOMOS 4K" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/SOMOS.png" group-title="EU| ESPAÃ‘A 4K",|SP| SOMOS 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/300096
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| MTV 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MTV.png" group-title="EU| ESPAÃ‘A 4K",|SP| MTV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1826
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MTV ESPAÂ¹A 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MTVESPAA.png" group-title="EU| ESPAÃ‘A 4K",|SP| MTV ESPAÂ¹A 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1824
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP| SUNDANCE TV 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/SUNDANCETV.png" group-title="EU| ESPAÃ‘A 4K",|SP| SUNDANCE TV 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1821
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP| MEZZO 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/MEZZO.png" group-title="EU| ESPAÃ‘A 4K",|SP| MEZZO 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1830
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP| MEZZO LIVE 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/Mezzolive.png" group-title="EU| ESPAÃ‘A 4K",|SP| MEZZO LIVE 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1829
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="|SP| DISCOVERY 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/DISCOVERY.png" group-title="EU| ESPAÃ‘A 4K",|SP| DISCOVERY 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1819
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="|SP| NAT GEO 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/NATGEO.png" group-title="EU| ESPAÃ‘A 4K",|SP| NAT GEO 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1818
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/NATGEOWILD.png" group-title="EU| ESPAÃ‘A 4K",|SP| NAT GEO WILD 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1817
+#EXTINF:-1 tvg-id="" tvg-name="|SP| NAUTICAL CHANNEL 4K" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/ESPANAHD/NAUTICALCHANNEL.png" group-title="EU| ESPAÃ‘A 4K",|SP| NAUTICAL CHANNEL 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/412763
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DMAX 4K" tvg-logo="http://178.211.143.40:81/logos/SPAIN/1/DMAX.png" group-title="EU| ESPAÃ‘A 4K",|SP| DMAX 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/229597
+#EXTINF:-1 tvg-id="neox.es" tvg-name="|SP| NEOX 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/NEOX.png" group-title="EU| ESPAÃ‘A 4K",|SP| NEOX 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1815
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="|SP| PARAMOUNT 4K" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/PARAMOUNT.png" group-title="EU| ESPAÃ‘A 4K",|SP| PARAMOUNT 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1814
+#EXTINF:-1 tvg-id="historia.es" tvg-name="|SP| HISTORIA 4K" tvg-logo="http://logo.ottc.pro:8080/logos//SPAIN/HISTORY.png" group-title="EU| ESPAÃ‘A 4K",|SP| HISTORIA 4K
+http://line.ottcst.com:80/Client1348/GICCLAFAFG/1811
+
