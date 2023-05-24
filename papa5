@@ -1,451 +1,161 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="SPAIN",LA 1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142157
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="SPAIN",LA 1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142158
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2" tvg-logo="http://fanc.tmsimg.com/assets/s86914_ll_h3_aa.png" group-title="SPAIN",LA 2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142159
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2 HD" tvg-logo="http://tvpass.co.uk/logos/es/TVE-2.png" group-title="SPAIN",LA 2 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142160
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-logo="" group-title="SPAIN",ANTENA 3
-http://n1.koalatv.xyz:2052/243770358589/89460168/142161
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s91176_ll_h3_aa.png" group-title="SPAIN",ANTENA 3 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142162
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-logo="http://tvpass.co.uk/logos/es/Cuatro.png" group-title="SPAIN",CUATRO
-http://n1.koalatv.xyz:2052/243770358589/89460168/142163
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="SPAIN",CUATRO HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142164
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO" tvg-logo="" group-title="SPAIN",TELECINCO
-http://n1.koalatv.xyz:2052/243770358589/89460168/142165
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO HD" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="SPAIN",TELECINCO HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142166
-#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="LA SEXTA" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="SPAIN",LA SEXTA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142167
-#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="LA SEXTA HD" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="SPAIN",LA SEXTA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142168
-#EXTINF:-1 tvg-id="" tvg-name="7RM HD" tvg-logo="http://obsfullhd.tv:25461/images/39fcf3bb830d54afe8f69cc513325799.png" group-title="SPAIN",7RM HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142169
-#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="http://fanc.tmsimg.com/assets/s78991_ll_h3_aa.png" group-title="SPAIN",FDF
-http://n1.koalatv.xyz:2052/243770358589/89460168/142170
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="" group-title="SPAIN",FOX NEWS
-http://n1.koalatv.xyz:2052/243770358589/89460168/142171
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS HD" tvg-logo="http://obsfullhd.tv:25461/images/ecdf6de02792a51e57717c1e51f65ba8.png" group-title="SPAIN",24 HORAS HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142172
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="http://obsfullhd.tv:25461/images/ecdf6de02792a51e57717c1e51f65ba8.png" group-title="SPAIN",24 HORAS
-http://n1.koalatv.xyz:2052/243770358589/89460168/142173
-#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="BEMAD HD" tvg-logo="http://fanc.tmsimg.com/assets/s99701_ll_h3_aa.png" group-title="SPAIN",BEMAD HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142174
-#EXTINF:-1 tvg-id="" tvg-name="ANDALUCIA TV" tvg-logo="http://fanc.tmsimg.com/assets/s53426_ll_h3_aa.png" group-title="SPAIN",ANDALUCIA TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142175
-#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="http://fanc.tmsimg.com/assets/s91226_ll_h3_aa.png" group-title="SPAIN",TELEMADRID
-http://n1.koalatv.xyz:2052/243770358589/89460168/142176
-#EXTINF:-1 tvg-id="" tvg-name="MELILLA TV" tvg-logo="" group-title="SPAIN",MELILLA TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142177
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A." tvg-logo="" group-title="SPAIN",CANAL SUR A.
-http://n1.koalatv.xyz:2052/243770358589/89460168/142178
-#EXTINF:-1 tvg-id="" tvg-name="Aragon TV" tvg-logo="http://obsfullhd.tv:25461/images/1c4522ecd54b26638c0295d13dd83c1e.png" group-title="SPAIN",Aragon TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142179
-#EXTINF:-1 tvg-id="" tvg-name="Extremadura TV" tvg-logo="http://tvpass.co.uk/logos/es/Extremadura.png" group-title="SPAIN",Extremadura TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142180
-#EXTINF:-1 tvg-id="" tvg-name="TV3 CATALONIA HD" tvg-logo="http://obsfullhd.tv:25461/images/b2612cd6cbe07d38fdfe2f8cca6c942c.png" group-title="SPAIN",TV3 CATALONIA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142181
-#EXTINF:-1 tvg-id="" tvg-name="TRECE HD" tvg-logo="http://obsfullhd.tv:25461/images/db352f430608228326e2defc3d6fb2a2.png" group-title="SPAIN",TRECE HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142182
-#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-logo="" group-title="SPAIN",CMM
-http://n1.koalatv.xyz:2052/243770358589/89460168/142183
-#EXTINF:-1 tvg-id="" tvg-name="SOL MUSICA" tvg-logo="" group-title="SPAIN",SOL MUSICA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142184
-#EXTINF:-1 tvg-id="" tvg-name="UBEAT" tvg-logo="" group-title="SPAIN",UBEAT
-http://n1.koalatv.xyz:2052/243770358589/89460168/142185
-#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV" tvg-logo="" group-title="SPAIN",NEGOCIOS TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142186
-#EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="" group-title="SPAIN",HORSE TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142187
-#EXTINF:-1 tvg-id="" tvg-name="TVE 4K" tvg-logo="" group-title="SPAIN",TVE 4K
-http://n1.koalatv.xyz:2052/243770358589/89460168/142188
-#EXTINF:-1 tvg-id="" tvg-name="SOL MUSICA FHD" tvg-logo="" group-title="SPAIN",SOL MUSICA FHD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142189
-#EXTINF:-1 tvg-id="" tvg-name="SEVILLA TV FHD" tvg-logo="" group-title="SPAIN",SEVILLA TV FHD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142190
-#EXTINF:-1 tvg-id="" tvg-name="REK TV HD" tvg-logo="" group-title="SPAIN",REK TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142191
-#EXTINF:-1 tvg-id="" tvg-name="MALAGA TV HD" tvg-logo="" group-title="SPAIN",MALAGA TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142192
-#EXTINF:-1 tvg-id="" tvg-name="ESCAPA TV HD" tvg-logo="" group-title="SPAIN",ESCAPA TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142193
-#EXTINF:-1 tvg-id="" tvg-name="CORDOBA TV HD" tvg-logo="" group-title="SPAIN",CORDOBA TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142194
-#EXTINF:-1 tvg-id="" tvg-name="------ENTRETENIMIENTO------" tvg-logo="" group-title="ENTRETENIMIENTO",------ENTRETENIMIENTO------
-http://n1.koalatv.xyz:2052/243770358589/89460168/142195
-#EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY" tvg-logo="http://fanc.tmsimg.com/assets/s87038_ll_h3_aa.png" group-title="ENTRETENIMIENTO",DIVINITY
-http://n1.koalatv.xyz:2052/243770358589/89460168/142196
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="NOVA" tvg-logo="http://obsfullhd.tv:25461/images/0f12e05243818002f5e6c5395f1cf64e.png" group-title="ENTRETENIMIENTO",NOVA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142197
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="NOVA HD" tvg-logo="http://fanc.tmsimg.com/assets/s102944_ll_h3_aa.png" group-title="ENTRETENIMIENTO",NOVA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142198
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s90332_ll_h3_aa.png" group-title="ENTRETENIMIENTO",CANAL COCINA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142200
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA HD" tvg-logo="http://tvpass.co.uk/logos/es/Canaldecasa.png" group-title="ENTRETENIMIENTO",CANAL DECASA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142202
-#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="ENTRETENIMIENTO",TEN
-http://n1.koalatv.xyz:2052/243770358589/89460168/142203
-#EXTINF:-1 tvg-id="" tvg-name="SOMOS HD" tvg-logo="http://fanc.tmsimg.com/assets/s90363_ll_h3_aa.png" group-title="ENTRETENIMIENTO",SOMOS HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142204
-#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="http://fanc.tmsimg.com/assets/s102752_h3_aa.png" group-title="ENTRETENIMIENTO",IBERALIA TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142205
-#EXTINF:-1 tvg-id="" tvg-name="TVE 24H" tvg-logo="" group-title="ENTRETENIMIENTO",TVE 24H
-http://n1.koalatv.xyz:2052/243770358589/89460168/142206
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://fanc.tmsimg.com/assets/s84528_ll_h3_aa.png" group-title="ENTRETENIMIENTO",CNN
-http://n1.koalatv.xyz:2052/243770358589/89460168/142207
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="http://fanc.tmsimg.com/assets/s14755_ll_h3_ab.png" group-title="ENTRETENIMIENTO",BLOOMBERG
-http://n1.koalatv.xyz:2052/243770358589/89460168/142208
-#EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="http://obsfullhd.tv:25461/images/7dff1d0cc8d6860736984de360d87472.png" group-title="ENTRETENIMIENTO",MTV ESPANA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142209
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="ENTRETENIMIENTO",MEZZO
-http://n1.koalatv.xyz:2052/243770358589/89460168/142210
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="http://obsfullhd.tv:25461/images/8dd3120c7286cc284d8e32f7509bb33a.png" group-title="ENTRETENIMIENTO",MEZZO LIVE HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142211
-#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CLASSICA.png" group-title="ENTRETENIMIENTO",CLASSICA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142212
-#EXTINF:-1 tvg-id="" tvg-name="------CINE&SERIE------" tvg-logo="" group-title="CINE & SERIE",------CINE&SERIE------
-http://n1.koalatv.xyz:2052/243770358589/89460168/142213
-#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="http://obsfullhd.tv:25461/images/d9643a502bb623db5c75f51add21517d.png" group-title="CINE & SERIE",#0
-http://n1.koalatv.xyz:2052/243770358589/89460168/142214
-#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="http://obsfullhd.tv:25461/images/d9643a502bb623db5c75f51add21517d.png" group-title="CINE & SERIE",#0 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142215
-#EXTINF:-1 tvg-id="M.Series.es" tvg-name="M. SERIES" tvg-logo="http://fanc.tmsimg.com/assets/s90323_ll_h3_aa.png" group-title="CINE & SERIE",M. SERIES
-http://n1.koalatv.xyz:2052/243770358589/89460168/142216
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="http://obsfullhd.tv:25461/images/ab7b1c09a1553e0c4c96ff0250f4f14e.png" group-title="CINE & SERIE",M. SERIES HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142217
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES 2" tvg-logo="http://obsfullhd.tv:25461/images/ab7b1c09a1553e0c4c96ff0250f4f14e.png" group-title="CINE & SERIE",M. SERIES 2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142218
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/ab7b1c09a1553e0c4c96ff0250f4f14e.png" group-title="CINE & SERIE",M. SERIES 2 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142219
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS" tvg-logo="http://fanc.tmsimg.com/assets/s96397_ll_h3_aa.png" group-title="CINE & SERIE",M. ESTRENOS
-http://n1.koalatv.xyz:2052/243770358589/89460168/142220
-#EXTINF:-1 tvg-id="M.Estrenos.es" tvg-name="M. ESTRENOS HD" tvg-logo="http://fanc.tmsimg.com/assets/s96397_ll_h3_aa.png" group-title="CINE & SERIE",M. ESTRENOS HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142221
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2" tvg-logo="" group-title="CINE & SERIE",M. ESTRENOS 2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142222
-#EXTINF:-1 tvg-id="" tvg-name="M. ESTRENOS 2 HD" tvg-logo="" group-title="CINE & SERIE",M. ESTRENOS 2 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142223
-#EXTINF:-1 tvg-id="" tvg-name="M.CLASSICO" tvg-logo="" group-title="CINE & SERIE",M.CLASSICO
-http://n1.koalatv.xyz:2052/243770358589/89460168/142224
-#EXTINF:-1 tvg-id="" tvg-name="M.CLASSICO HD" tvg-logo="" group-title="CINE & SERIE",M.CLASSICO HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142225
-#EXTINF:-1 tvg-id="" tvg-name="M. ACCION" tvg-logo="http://tvpass.co.uk/logos/es/Movistar_Accion.png" group-title="CINE & SERIE",M. ACCION
-http://n1.koalatv.xyz:2052/243770358589/89460168/142226
-#EXTINF:-1 tvg-id="M.Accion.es" tvg-name="M. ACCION HD" tvg-logo="http://fanc.tmsimg.com/assets/s91183_ll_h3_aa.png" group-title="CINE & SERIE",M. ACCION HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142227
-#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA" tvg-logo="http://tvpass.co.uk/logos/es/Movistar_Comedia.png" group-title="CINE & SERIE",M.COMEDIA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142228
-#EXTINF:-1 tvg-id="M.Comedia.es" tvg-name="M.COMEDIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s91184_ll_h3_aa.png" group-title="CINE & SERIE",M.COMEDIA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142229
-#EXTINF:-1 tvg-id="" tvg-name="M. DRAMA" tvg-logo="http://obsfullhd.tv:25461/images/4e5b293c32a5770c6ea83c2dfb97e17d.png" group-title="CINE & SERIE",M. DRAMA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142230
-#EXTINF:-1 tvg-id="M.Drama.es" tvg-name="M. DRAMA HD" tvg-logo="http://fanc.tmsimg.com/assets/s86944_ll_h3_ab.png" group-title="CINE & SERIE",M. DRAMA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142231
-#EXTINF:-1 tvg-id="" tvg-name="M. OSCARS HD" tvg-logo="" group-title="CINE & SERIE",M. OSCARS HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142232
-#EXTINF:-1 tvg-id="" tvg-name="CINE N" tvg-logo="http://tvpass.co.uk/logos/es/Movistar_Cine_Espanol.png" group-title="CINE & SERIE",CINE N
-http://n1.koalatv.xyz:2052/243770358589/89460168/142233
-#EXTINF:-1 tvg-id="" tvg-name="CINE N HD" tvg-logo="" group-title="CINE & SERIE",CINE N HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142234
-#EXTINF:-1 tvg-id="" tvg-name="M.FEST HD" tvg-logo="" group-title="CINE & SERIE",M.FEST HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142235
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="" group-title="CINE & SERIE",DREAMWORKS
-http://n1.koalatv.xyz:2052/243770358589/89460168/142236
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="CINE & SERIE",HOLLYWOOD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142237
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CINE & SERIE",HOLLYWOOD HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142238
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://obsfullhd.tv:25461/images/60f6864e022b659a31ab16d5de02cbae.png" group-title="CINE & SERIE",TCM
-http://n1.koalatv.xyz:2052/243770358589/89460168/142239
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="http://obsfullhd.tv:25461/images/60f6864e022b659a31ab16d5de02cbae.png" group-title="CINE & SERIE",TCM HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142240
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://tvpass.co.uk/logos/es/FOX_International.png" group-title="CINE & SERIE",FOX
-http://n1.koalatv.xyz:2052/243770358589/89460168/142241
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://fanc.tmsimg.com/assets/s87056_ll_h3_aa.png" group-title="CINE & SERIE",FOX HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142242
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://tvpass.co.uk/logos/es/FOXLifeLA.png" group-title="CINE & SERIE",FOX LIFE
-http://n1.koalatv.xyz:2052/243770358589/89460168/142243
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://tvpass.co.uk/logos/es/FOXLifeLA.png" group-title="CINE & SERIE",FOX LIFE HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142244
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://obsfullhd.tv:25461/images/132fba05186b1767d3348729f613c7a8.png" group-title="CINE & SERIE",AXN
-http://n1.koalatv.xyz:2052/243770358589/89460168/142245
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://fanc.tmsimg.com/assets/s72534_ll_h3_ab.png" group-title="CINE & SERIE",AXN HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142246
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="http://obsfullhd.tv:25461/images/132fba05186b1767d3348729f613c7a8.png" group-title="CINE & SERIE",AXN WHITE
-http://n1.koalatv.xyz:2052/243770358589/89460168/142247
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="CINE & SERIE",AXN WHITE HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142248
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://obsfullhd.tv:25461/images/077907a73fa487ea0cf7b541b860dfd3.png" group-title="CINE & SERIE",TNT
-http://n1.koalatv.xyz:2052/243770358589/89460168/142249
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://obsfullhd.tv:25461/images/077907a73fa487ea0cf7b541b860dfd3.png" group-title="CINE & SERIE",TNT HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142250
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://obsfullhd.tv:25461/images/b4791c14cff44bcb782dedcb28e73820.png" group-title="CINE & SERIE",COMEDY CENTRAL
-http://n1.koalatv.xyz:2052/243770358589/89460168/142251
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://tvpass.co.uk/logos/es/Comedy_Central_2018.png" group-title="CINE & SERIE",COMEDY CENTRAL HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142252
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="http://obsfullhd.tv:25461/images/cee8620391bf2508e1f02a2ada083450.png" group-title="CINE & SERIE",CALLE 13
-http://n1.koalatv.xyz:2052/243770358589/89460168/142253
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="http://fanc.tmsimg.com/assets/s90352_ll_h3_aa.png" group-title="CINE & SERIE",CALLE 13 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142254
-#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="http://obsfullhd.tv:25461/images/920158d64369344dc7713d955eeb4139.png" group-title="CINE & SERIE",COSMO
-http://n1.koalatv.xyz:2052/243770358589/89460168/142255
-#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="http://tvpass.co.uk/logos/es/Cosmo_TV_logo_2009.png" group-title="CINE & SERIE",COSMO HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142256
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://obsfullhd.tv:25461/images/14ebf4e5622a32de02695cf9b5dc7fed.png" group-title="CINE & SERIE",AMC
-http://n1.koalatv.xyz:2052/243770358589/89460168/142257
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://obsfullhd.tv:25461/images/14ebf4e5622a32de02695cf9b5dc7fed.png" group-title="CINE & SERIE",AMC HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142258
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://obsfullhd.tv:25461/images/7524c64df439ff023daab9eee2b48f00.png" group-title="CINE & SERIE",SYFY
-http://n1.koalatv.xyz:2052/243770358589/89460168/142259
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://obsfullhd.tv:25461/images/7524c64df439ff023daab9eee2b48f00.png" group-title="CINE & SERIE",SYFY HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142260
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV" tvg-logo="http://obsfullhd.tv:25461/images/42f720f17d9f53d04d51c6221138d7fc.png" group-title="CINE & SERIE",SUNDANCE TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142261
-#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="CINE & SERIE",BOM CINE
-http://n1.koalatv.xyz:2052/243770358589/89460168/142262
-#EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="" group-title="CINE & SERIE",XTRM HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142263
-#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="CINE & SERIE",NEOX
-http://n1.koalatv.xyz:2052/243770358589/89460168/142264
-#EXTINF:-1 tvg-id="" tvg-name="NEOX HD" tvg-logo="http://obsfullhd.tv:25461/images/2b9841c3697f57d19c311b9a8e56ec3c.png" group-title="CINE & SERIE",NEOX HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142265
-#EXTINF:-1 tvg-id="" tvg-name="ATRESSERIES HD" tvg-logo="http://obsfullhd.tv:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="CINE & SERIE",ATRESSERIES HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142266
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="CINE & SERIE",PARAMOUNT
-http://n1.koalatv.xyz:2052/243770358589/89460168/142267
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://fanc.tmsimg.com/assets/s87042_ll_h3_aa.png" group-title="CINE & SERIE",ENERGY
-http://n1.koalatv.xyz:2052/243770358589/89460168/142268
-#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="http://tvpass.co.uk/logos/es/Mega_Spain_2015.png" group-title="CINE & SERIE",MEGA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142269
-#EXTINF:-1 tvg-id="" tvg-name="LA RESISTENCIA" tvg-logo="" group-title="CINE & SERIE",LA RESISTENCIA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142270
-#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="" group-title="CINE & SERIE",DARK HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142271
-#EXTINF:-1 tvg-id="" tvg-name="13TV" tvg-logo="" group-title="CINE & SERIE",13TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142272
-#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="http://obsfullhd.tv:25461/images/5e3cebad97c9c838cfe7f5a3302ffe40.png" group-title="CINE & SERIE",TEN
-http://n1.koalatv.xyz:2052/243770358589/89460168/142273
-#EXTINF:-1 tvg-id="" tvg-name="------DOCUMENTALES------" tvg-logo="" group-title="DOCUMENTALES",------DOCUMENTALES------
-http://n1.koalatv.xyz:2052/243770358589/89460168/142274
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="DOCUMENTALES",NATIONAL GEOGRAPHIC HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142276
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="DOCUMENTALES",NATIONAL GEOGRAPHIC WILD HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142278
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" group-title="DOCUMENTALES",HISTORIA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142280
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="http://tvpass.co.uk/logos/es/Discovery_Channel_2019.png" group-title="DOCUMENTALES",DISCOVERY
-http://n1.koalatv.xyz:2052/243770358589/89460168/142281
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="DOCUMENTALES",DISCOVERY HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142282
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="http://obsfullhd.tv:25461/images/831576acd585fbe847690893b643f0db.png" group-title="DOCUMENTALES",CANAL ODISEA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142283
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA HD" tvg-logo="http://fanc.tmsimg.com/assets/s53785_ll_h3_aa.png" group-title="DOCUMENTALES",CANAL ODISEA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142284
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="http://obsfullhd.tv:25461/images/0a8b1ca0f16a65f19ee0729cd249d0a1.png" group-title="DOCUMENTALES",VIAJAR
-http://n1.koalatv.xyz:2052/243770358589/89460168/142285
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="http://obsfullhd.tv:25461/images/0a8b1ca0f16a65f19ee0729cd249d0a1.png" group-title="DOCUMENTALES",VIAJAR HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142286
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="http://obsfullhd.tv:25461/images/888d0d03549e54793050d64651d143fa.png" group-title="DOCUMENTALES",DMAX
-http://n1.koalatv.xyz:2052/243770358589/89460168/142287
-#EXTINF:-1 tvg-id="" tvg-name="DKISS" tvg-logo="http://obsfullhd.tv:25461/images/afccc3195fe20727961833a33a594537.png" group-title="DOCUMENTALES",DKISS
-http://n1.koalatv.xyz:2052/243770358589/89460168/142288
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="http://obsfullhd.tv:25461/images/7d03effc36059fbdbb44a6138f4a7a27.png" group-title="DOCUMENTALES",CAZA Y PESCA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142289
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="http://obsfullhd.tv:25461/images/7d03effc36059fbdbb44a6138f4a7a27.png" group-title="DOCUMENTALES",CAZA Y PESCA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142290
-#EXTINF:-1 tvg-id="" tvg-name="CRIMEN+INVES" tvg-logo="http://tvpass.co.uk/logos/es/Crimen_Investigacion.png" group-title="DOCUMENTALES",CRIMEN+INVES
-http://n1.koalatv.xyz:2052/243770358589/89460168/142291
-#EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL" tvg-logo="" group-title="DOCUMENTALES",NAUTICAL CHANNEL
-http://n1.koalatv.xyz:2052/243770358589/89460168/142292
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://obsfullhd.tv:25461/images/d6c69f64082f75c962dcfadecbbbc339.png" group-title="DOCUMENTALES",A&E
-http://n1.koalatv.xyz:2052/243770358589/89460168/142293
-#EXTINF:-1 tvg-id="" tvg-name="CRIME FHD" tvg-logo="" group-title="DOCUMENTALES",CRIME FHD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142294
-#EXTINF:-1 tvg-id="" tvg-name="------DEPORTES------" tvg-logo="" group-title="DEPORTES",------DEPORTES------
-http://n1.koalatv.xyz:2052/243770358589/89460168/142295
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="DEPORTES",DAZN 1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142296
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="DEPORTES",DAZN 1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142297
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="DEPORTES",DAZN 2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142298
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s111745_ll_h3_aa.png" group-title="DEPORTES",DAZN 2 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142299
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="DEPORTES",DAZN 3
-http://n1.koalatv.xyz:2052/243770358589/89460168/142300
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="DEPORTES",DAZN 3 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142301
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="DEPORTES",DAZN 4
-http://n1.koalatv.xyz:2052/243770358589/89460168/142302
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="DEPORTES",DAZN 4 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142303
-#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="DEPORTES",DAZN F1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142304
-#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1 HD" tvg-logo="http://tvpass.co.uk/logos/de/DAZN.png" group-title="DEPORTES",DAZN F1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142305
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="#VAMOS" tvg-logo="http://fanc.tmsimg.com/assets/s109803_ll_h3_aa.png" group-title="DEPORTES",#VAMOS
-http://n1.koalatv.xyz:2052/243770358589/89460168/142306
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="#VAMOSHD" tvg-logo="http://fanc.tmsimg.com/assets/s109803_ll_h3_aa.png" group-title="DEPORTES",#VAMOSHD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142307
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1HD*" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DEPORTES",DAZN LALIGA 1HD*
-http://n1.koalatv.xyz:2052/243770358589/89460168/142308
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DEPORTES",DAZN LALIGA 1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142309
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DEPORTES",DAZN LALIGA 1HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142310
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2HD*" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DEPORTES",DAZN LALIGA 2HD*
-http://n1.koalatv.xyz:2052/243770358589/89460168/142311
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-laliga-es.png" group-title="DEPORTES",DAZN LALIGA 2HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142312
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK TV" tvg-logo="" group-title="DEPORTES",LA LIGA SMARTBANK TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142313
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA SMARTBANK TV HD" tvg-logo="" group-title="DEPORTES",LALIGA SMARTBANK TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142314
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA SMARTBANK TV 1 HD" tvg-logo="" group-title="DEPORTES",LALIGA SMARTBANK TV 1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142315
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK TV M1" tvg-logo="" group-title="DEPORTES",LA LIGA SMARTBANK TV M1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142316
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR HD*" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",LALIGA TV BAR HD*
-http://n1.koalatv.xyz:2052/243770358589/89460168/142317
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",LALIGA TV BAR
-http://n1.koalatv.xyz:2052/243770358589/89460168/142318
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",LALIGA TV BAR HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142319
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD*" tvg-logo="" group-title="DEPORTES",M. LaLiga HD*
-http://n1.koalatv.xyz:2052/243770358589/89460168/142320
-#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="M. LaLiga FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga FHD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142321
-#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="M. LaLiga" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga
-http://n1.koalatv.xyz:2052/243770358589/89460168/142322
-#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="M. LaLiga 1" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142323
-#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="M. LaLiga 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142324
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142325
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 2 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142326
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="M. LaLiga 3" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 3
-http://n1.koalatv.xyz:2052/243770358589/89460168/142327
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="M. LaLiga 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 3 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142328
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 4
-http://n1.koalatv.xyz:2052/243770358589/89460168/142329
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 5" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 5
-http://n1.koalatv.xyz:2052/243770358589/89460168/142330
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 6" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 6
-http://n1.koalatv.xyz:2052/243770358589/89460168/142331
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 7" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 7
-http://n1.koalatv.xyz:2052/243770358589/89460168/142332
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 8" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="DEPORTES",M. LaLiga 8
-http://n1.koalatv.xyz:2052/243770358589/89460168/142333
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD*" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEONES HD*
-http://n1.koalatv.xyz:2052/243770358589/89460168/142334
-#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="M.LCAMPEONES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEONES FHD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142335
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON1 HD*" tvg-logo="" group-title="DEPORTES",M.LCAMPEON1 HD*
-http://n1.koalatv.xyz:2052/243770358589/89460168/142336
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON1" tvg-logo="" group-title="DEPORTES",M.LCAMPEON1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142337
-#EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="M.LCAMPEON1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142338
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON2 HD*" tvg-logo="" group-title="DEPORTES",M.LCAMPEON2 HD*
-http://n1.koalatv.xyz:2052/243770358589/89460168/142339
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON2" tvg-logo="" group-title="DEPORTES",M.LCAMPEON2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142340
-#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="M.LCAMPEON2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON2 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142341
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON3" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON3
-http://n1.koalatv.xyz:2052/243770358589/89460168/142342
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON4" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON4
-http://n1.koalatv.xyz:2052/243770358589/89460168/142343
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON5" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON5
-http://n1.koalatv.xyz:2052/243770358589/89460168/142344
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON6" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON6
-http://n1.koalatv.xyz:2052/243770358589/89460168/142345
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON7" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON7
-http://n1.koalatv.xyz:2052/243770358589/89460168/142346
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON8" tvg-logo="http://fanc.tmsimg.com/assets/s109474_ll_h3_aa.png" group-title="DEPORTES",M.LCAMPEON8
-http://n1.koalatv.xyz:2052/243770358589/89460168/142347
-#EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="M. DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES",M. DEPORTES
-http://n1.koalatv.xyz:2052/243770358589/89460168/142348
-#EXTINF:-1 tvg-id="M.Deportes.es" tvg-name="M. DEPORTES HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES",M. DEPORTES HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142349
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES",M. DEPORTES1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142350
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES",M. DEPORTES 1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142351
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES2" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES",M. DEPORTES2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142352
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES3" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES",M. DEPORTES3
-http://n1.koalatv.xyz:2052/243770358589/89460168/142353
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES4" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES",M. DEPORTES4
-http://n1.koalatv.xyz:2052/243770358589/89460168/142354
-#EXTINF:-1 tvg-id="" tvg-name="M. GOLF" tvg-logo="" group-title="DEPORTES",M. GOLF
-http://n1.koalatv.xyz:2052/243770358589/89460168/142355
-#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="DEPORTES",M. GOLF HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142356
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="DEPORTES",EUROSPORT 1
-http://n1.koalatv.xyz:2052/243770358589/89460168/142357
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://tvpass.co.uk/logos/es/Eurosport_1.png" group-title="DEPORTES",EUROSPORT 1 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142358
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
-http://n1.koalatv.xyz:2052/243770358589/89460168/142359
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://tvpass.co.uk/logos/es/Eurosport_2.png" group-title="DEPORTES",EUROSPORT 2 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142360
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3" tvg-logo="" group-title="DEPORTES",EUROSPORT 3
-http://n1.koalatv.xyz:2052/243770358589/89460168/142361
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3 HD" tvg-logo="" group-title="DEPORTES",EUROSPORT 3 HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142362
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 4" tvg-logo="" group-title="DEPORTES",EUROSPORT 4
-http://n1.koalatv.xyz:2052/243770358589/89460168/142363
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 5" tvg-logo="" group-title="DEPORTES",EUROSPORT 5
-http://n1.koalatv.xyz:2052/243770358589/89460168/142364
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 6" tvg-logo="" group-title="DEPORTES",EUROSPORT 6
-http://n1.koalatv.xyz:2052/243770358589/89460168/142365
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 7" tvg-logo="" group-title="DEPORTES",EUROSPORT 7
-http://n1.koalatv.xyz:2052/243770358589/89460168/142366
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 8" tvg-logo="" group-title="DEPORTES",EUROSPORT 8
-http://n1.koalatv.xyz:2052/243770358589/89460168/142367
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 9" tvg-logo="" group-title="DEPORTES",EUROSPORT 9
-http://n1.koalatv.xyz:2052/243770358589/89460168/142368
-#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="DEPORTES",GOL
-http://n1.koalatv.xyz:2052/243770358589/89460168/142369
-#EXTINF:-1 tvg-id="" tvg-name="GOL HD" tvg-logo="http://tvpass.co.uk/logos/es/Gol.svg.png" group-title="DEPORTES",GOL HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142370
-#EXTINF:-1 tvg-id="" tvg-name="SEVILLA FC HD" tvg-logo="" group-title="DEPORTES",SEVILLA FC HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142371
-#EXTINF:-1 tvg-id="" tvg-name="BETIS TV HD" tvg-logo="" group-title="DEPORTES",BETIS TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142372
-#EXTINF:-1 tvg-id="" tvg-name="MOTOADTV HD" tvg-logo="" group-title="DEPORTES",MOTOADTV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142373
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="DEPORTES",TELEDEPORTE
-http://n1.koalatv.xyz:2052/243770358589/89460168/142374
-#EXTINF:-1 tvg-id="" tvg-name="TDP" tvg-logo="" group-title="DEPORTES",TDP
-http://n1.koalatv.xyz:2052/243770358589/89460168/142375
-#EXTINF:-1 tvg-id="" tvg-name="TDP HD" tvg-logo="" group-title="DEPORTES",TDP HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142376
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="" group-title="DEPORTES",REAL MADRID TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142377
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV HD" tvg-logo="" group-title="DEPORTES",REAL MADRID TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142378
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
-http://n1.koalatv.xyz:2052/243770358589/89460168/142379
-#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES HD" tvg-logo="http://obsfullhd.tv:25461/images/6c32fa368835a1448e47defee4b05867.png" group-title="DEPORTES",M DEPORTES HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142380
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PORTADA" tvg-logo="" group-title="DEPORTES",CANAL PORTADA
-http://n1.koalatv.xyz:2052/243770358589/89460168/142381
-#EXTINF:-1 tvg-id="" tvg-name="M.LA LIGA HD ORANGE" tvg-logo="" group-title="DEPORTES",M.LA LIGA HD ORANGE
-http://n1.koalatv.xyz:2052/243770358589/89460168/142382
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="DEPORTES",Mundotoro
-http://n1.koalatv.xyz:2052/243770358589/89460168/142383
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="DEPORTES",Mundotoro HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142384
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro HD+" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="DEPORTES",Mundotoro HD+
-http://n1.koalatv.xyz:2052/243770358589/89460168/142385
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV HD" tvg-logo="" group-title="DEPORTES",BARCA TV HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/142386
+#EXTINF:-1 tvg-name="ES: La 1"tvg-id=""tvg-logo=""group-title="TV",ES: La 1
+http://n1.koalatv.xyz:2052/243770358589/89460168/146609
+#EXTINF:-1 tvg-name="ES: LA 2 HD"tvg-id=""tvg-logo=""group-title="TV",ES: LA 2 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146545
+#EXTINF:-1 tvg-name="ES: ANTENA 3 HD"tvg-id=""tvg-logo=""group-title="TV",ES: ANTENA 3 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146611
+#EXTINF:-1 tvg-name="ES: CUATRO HD"tvg-id=""tvg-logo=""group-title="TV",ES: CUATRO HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146613
+#EXTINF:-1 tvg-name="ES: TELECINCO HD"tvg-id=""tvg-logo=""group-title="TV",ES: TELECINCO HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146615
+#EXTINF:-1 tvg-name="ES: LA SEXTA HD"tvg-id=""tvg-logo=""group-title="TV",ES: LA SEXTA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146617
+#EXTINF:-1 tvg-name="ES: CANAL SUR FHD"tvg-id=""tvg-logo=""group-title="TV",ES: CANAL SUR FHD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146547
+#EXTINF:-1 tvg-name="ES: CANAL SUR A."tvg-id=""tvg-logo=""group-title="TV",ES: CANAL SUR A.
+http://n1.koalatv.xyz:2052/243770358589/89460168/146728
+#EXTINF:-1 tvg-name="ES: 24H"tvg-id=""tvg-logo=""group-title="TV",ES: 24H
+http://n1.koalatv.xyz:2052/243770358589/89460168/146727
+#EXTINF:-1 tvg-name="ES: TVM"tvg-id=""tvg-logo=""group-title="TV",ES: TVM
+http://n1.koalatv.xyz:2052/243770358589/89460168/146729
+#EXTINF:-1 tvg-name="ES: DREAMWORKS HD"tvg-id=""tvg-logo=""group-title="TV",ES: DREAMWORKS HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146748
+#EXTINF:-1 tvg-name="ES: EUROSPORT 1 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: EUROSPORT 1 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146733
+#EXTINF:-1 tvg-name="ES: EUROSPORT 2 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: EUROSPORT 2 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146734
+#EXTINF:-1 tvg-name="ES: GOL PLAY"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: GOL PLAY
+http://n1.koalatv.xyz:2052/243770358589/89460168/146735
+#EXTINF:-1 tvg-name="ES: M.LALIGA 2HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M.LALIGA 2HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146750
+#EXTINF:-1 tvg-name="ES: M. GOLF HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. GOLF HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146679
+#EXTINF:-1 tvg-name="ES: M. GOLF"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. GOLF
+http://n1.koalatv.xyz:2052/243770358589/89460168/146680
+#EXTINF:-1 tvg-name="ES: GOL"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: GOL
+http://n1.koalatv.xyz:2052/243770358589/89460168/146683
+#EXTINF:-1 tvg-name="ES: TELEDEPORTE"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: TELEDEPORTE
+http://n1.koalatv.xyz:2052/243770358589/89460168/146684
+#EXTINF:-1 tvg-name="ES: TDP HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: TDP HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146685
+#EXTINF:-1 tvg-name="ES: LA LIGA SMARTBANK TV"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: LA LIGA SMARTBANK TV
+http://n1.koalatv.xyz:2052/243770358589/89460168/146522
+#EXTINF:-1 tvg-name="ES: LA LIGA SMARTBANK TV M1"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: LA LIGA SMARTBANK TV M1
+http://n1.koalatv.xyz:2052/243770358589/89460168/146523
+#EXTINF:-1 tvg-name="ES: DAZN LA LIGA 2"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN LA LIGA 2
+http://n1.koalatv.xyz:2052/243770358589/89460168/146524
+#EXTINF:-1 tvg-name="ES: DAZN LIGA 1 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN LIGA 1 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146525
+#EXTINF:-1 tvg-name="ES: DAZN LA LIGA 1"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN LA LIGA 1
+http://n1.koalatv.xyz:2052/243770358589/89460168/146526
+#EXTINF:-1 tvg-name="ES: LA LIGA SMARTBANK TV 1 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: LA LIGA SMARTBANK TV 1 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146527
+#EXTINF:-1 tvg-name="ES: LA LIGA SMARTBANK TV HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: LA LIGA SMARTBANK TV HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146528
+#EXTINF:-1 tvg-name="ES: DAZN LA LIGA 2 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN LA LIGA 2 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146529
+#EXTINF:-1 tvg-name="ES: M. DEPORTES 4 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES 4 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146537
+#EXTINF:-1 tvg-name="ES: M. DEPORTES 3 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES 3 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146538
+#EXTINF:-1 tvg-name="ES: M. DEPORTES 2 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES 2 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146544
+#EXTINF:-1 tvg-name="ES: M.LCAMPEONES 3 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M.LCAMPEONES 3 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146571
+#EXTINF:-1 tvg-name="ES:  M. LCAMPEONES 2 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES:  M. LCAMPEONES 2 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146585
+#EXTINF:-1 tvg-name="ES: DAZN 1 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 1 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146664
+#EXTINF:-1 tvg-name="ES: DAZN 1"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 1
+http://n1.koalatv.xyz:2052/243770358589/89460168/146665
+#EXTINF:-1 tvg-name="ES: DAZN 2 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 2 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146666
+#EXTINF:-1 tvg-name="ES: M. LaLiga"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. LaLiga
+http://n1.koalatv.xyz:2052/243770358589/89460168/146669
+#EXTINF:-1 tvg-name="ES: M. LaLiga 3 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. LaLiga 3 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146671
+#EXTINF:-1 tvg-name="ES: M. LaLiga 3"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. LaLiga 3
+http://n1.koalatv.xyz:2052/243770358589/89460168/146672
+#EXTINF:-1 tvg-name="ES: M.LCAMPEONES"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M.LCAMPEONES
+http://n1.koalatv.xyz:2052/243770358589/89460168/146673
+#EXTINF:-1 tvg-name="ES: M. DEPORTES HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146675
+#EXTINF:-1 tvg-name="ES: M. DEPORTES"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES
+http://n1.koalatv.xyz:2052/243770358589/89460168/146676
+#EXTINF:-1 tvg-name="ES: M. DEPORTES2"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES2
+http://n1.koalatv.xyz:2052/243770358589/89460168/146677
+#EXTINF:-1 tvg-name="ES: M. DEPORTES3"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES3
+http://n1.koalatv.xyz:2052/243770358589/89460168/146678
+#EXTINF:-1 tvg-name="ES: EUROSPORT 1"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: EUROSPORT 1
+http://n1.koalatv.xyz:2052/243770358589/89460168/146681
+#EXTINF:-1 tvg-name="ES: EUROSPORT 2"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: EUROSPORT 2
+http://n1.koalatv.xyz:2052/243770358589/89460168/146682
+#EXTINF:-1 tvg-name="ES: M. DEPORTES4"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: M. DEPORTES4
+http://n1.koalatv.xyz:2052/243770358589/89460168/146736
+#EXTINF:-1 tvg-name="ES: DAZN 2"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 2
+http://n1.koalatv.xyz:2052/243770358589/89460168/146741
+#EXTINF:-1 tvg-name="ES: DAZN 3"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 3
+http://n1.koalatv.xyz:2052/243770358589/89460168/146743
+#EXTINF:-1 tvg-name="ES: DAZN 4"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 4
+http://n1.koalatv.xyz:2052/243770358589/89460168/146744
+#EXTINF:-1 tvg-name="ES: DAZN 3 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 3 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146745
+#EXTINF:-1 tvg-name="ES: DAZN 4 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN 4 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146746
+#EXTINF:-1 tvg-name="ES: DAZN F1"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN F1
+http://n1.koalatv.xyz:2052/243770358589/89460168/146749
+#EXTINF:-1 tvg-name="ES: #VAMOS HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: #VAMOS HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146667
+#EXTINF:-1 tvg-name="ES: DAZN F1 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",ES: DAZN F1 HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146742
+#EXTINF:-1 tvg-name="ES: DISCOVERY HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: DISCOVERY HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146737
+#EXTINF:-1 tvg-name="ES: CAZAVISION HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: CAZAVISION HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146539
+#EXTINF:-1 tvg-name="ES: SURF CHANNEL"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: SURF CHANNEL
+http://n1.koalatv.xyz:2052/243770358589/89460168/146552
+#EXTINF:-1 tvg-name="ES: IBERALIA FHD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: IBERALIA FHD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146557
+#EXTINF:-1 tvg-name="ES: IBERALIA 100% PESCA FHD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: IBERALIA 100% PESCA FHD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146558
+#EXTINF:-1 tvg-name="ES: IBERALIA 100ù CAZA FHD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: IBERALIA 100ù CAZA FHD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146559
+#EXTINF:-1 tvg-name="ES: HORSE TV"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: HORSE TV
+http://n1.koalatv.xyz:2052/243770358589/89460168/146580
+#EXTINF:-1 tvg-name="ES: NAUTICAL CHANNEL"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: NAUTICAL CHANNEL
+http://n1.koalatv.xyz:2052/243770358589/89460168/146581
+#EXTINF:-1 tvg-name="ES: IBERALIA TV"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: IBERALIA TV
+http://n1.koalatv.xyz:2052/243770358589/89460168/146689
+#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: NATIONAL GEOGRAPHIC HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146695
+#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: NATIONAL GEOGRAPHIC
+http://n1.koalatv.xyz:2052/243770358589/89460168/146696
+#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: NATIONAL GEOGRAPHIC WILD HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146697
+#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC WILD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: NATIONAL GEOGRAPHIC WILD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146698
+#EXTINF:-1 tvg-name="ES: HISTORIA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: HISTORIA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146699
+#EXTINF:-1 tvg-name="ES: HISTORIA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: HISTORIA
+http://n1.koalatv.xyz:2052/243770358589/89460168/146700
+#EXTINF:-1 tvg-name="ES: DISCOVERY"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: DISCOVERY
+http://n1.koalatv.xyz:2052/243770358589/89460168/146701
+#EXTINF:-1 tvg-name="ES: CANAL ODISEA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: CANAL ODISEA
+http://n1.koalatv.xyz:2052/243770358589/89460168/146702
+#EXTINF:-1 tvg-name="ES: CANAL COCINA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: CANAL COCINA
+http://n1.koalatv.xyz:2052/243770358589/89460168/146705
+#EXTINF:-1 tvg-name="ES: CANAL DECASA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: CANAL DECASA
+http://n1.koalatv.xyz:2052/243770358589/89460168/146706
+#EXTINF:-1 tvg-name="ES: CANAL DECASA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: CANAL DECASA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146738
+#EXTINF:-1 tvg-name="ES: CANAL ODISEA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: CANAL ODISEA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146739
+#EXTINF:-1 tvg-name="ES: CANAL COCINA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: CANAL COCINA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146740
+#EXTINF:-1 tvg-name="ES: ODISEA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: ODISEA 4K
+http://n1.koalatv.xyz:2052/243770358589/89460168/146752
+#EXTINF:-1 tvg-name="ES: COCINA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: COCINA 4K
+http://n1.koalatv.xyz:2052/243770358589/89460168/146753
+#EXTINF:-1 tvg-name="ES: DECASA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ES: DECASA 4K
+http://n1.koalatv.xyz:2052/243770358589/89460168/146546
