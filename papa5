@@ -106,6 +106,24 @@ http://n1.koalatv.xyz:2052/243770358589/89460168/146749
 http://n1.koalatv.xyz:2052/243770358589/89460168/146667
 #EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id=""tvg-logo=""group-title="DEPORTES",DAZN F1 HD
 http://n1.koalatv.xyz:2052/243770358589/89460168/146742
+#EXTINF:-1 tvg-name="ODISEA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ODISEA 4K
+http://n1.koalatv.xyz:2052/243770358589/89460168/146752
+#EXTINF:-1 tvg-name="COCINA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",COCINA 4K
+http://n1.koalatv.xyz:2052/243770358589/89460168/146753
+#EXTINF:-1 tvg-name="DECASA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",DECASA 4K
+http://n1.koalatv.xyz:2052/243770358589/89460168/146546
+#EXTINF:-1 tvg-name="CANAL ODISEA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL ODISEA
+http://n1.koalatv.xyz:2052/243770358589/89460168/146702
+#EXTINF:-1 tvg-name="CANAL COCINA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL COCINA
+http://n1.koalatv.xyz:2052/243770358589/89460168/146705
+#EXTINF:-1 tvg-name="CANAL DECASA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL DECASA
+http://n1.koalatv.xyz:2052/243770358589/89460168/146706
+#EXTINF:-1 tvg-name="CANAL DECASA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL DECASA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146738
+#EXTINF:-1 tvg-name="CANAL ODISEA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL ODISEA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146739
+#EXTINF:-1 tvg-name="CANAL COCINA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL COCINA HD
+http://n1.koalatv.xyz:2052/243770358589/89460168/146740
 #EXTINF:-1 tvg-name="DISCOVERY HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",DISCOVERY HD
 http://n1.koalatv.xyz:2052/243770358589/89460168/146737
 #EXTINF:-1 tvg-name="CAZAVISION HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CAZAVISION HD
@@ -138,21 +156,3 @@ http://n1.koalatv.xyz:2052/243770358589/89460168/146699
 http://n1.koalatv.xyz:2052/243770358589/89460168/146700
 #EXTINF:-1 tvg-name="DISCOVERY"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",DISCOVERY
 http://n1.koalatv.xyz:2052/243770358589/89460168/146701
-#EXTINF:-1 tvg-name="CANAL ODISEA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL ODISEA
-http://n1.koalatv.xyz:2052/243770358589/89460168/146702
-#EXTINF:-1 tvg-name="CANAL COCINA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL COCINA
-http://n1.koalatv.xyz:2052/243770358589/89460168/146705
-#EXTINF:-1 tvg-name="CANAL DECASA"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL DECASA
-http://n1.koalatv.xyz:2052/243770358589/89460168/146706
-#EXTINF:-1 tvg-name="CANAL DECASA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL DECASA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/146738
-#EXTINF:-1 tvg-name="CANAL ODISEA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL ODISEA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/146739
-#EXTINF:-1 tvg-name="CANAL COCINA HD"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",CANAL COCINA HD
-http://n1.koalatv.xyz:2052/243770358589/89460168/146740
-#EXTINF:-1 tvg-name="ODISEA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",ODISEA 4K
-http://n1.koalatv.xyz:2052/243770358589/89460168/146752
-#EXTINF:-1 tvg-name="COCINA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",COCINA 4K
-http://n1.koalatv.xyz:2052/243770358589/89460168/146753
-#EXTINF:-1 tvg-name="DECASA 4K"tvg-id=""tvg-logo=""group-title="ENTRETENIMIENTO",DECASA 4K
-http://n1.koalatv.xyz:2052/243770358589/89460168/146546
