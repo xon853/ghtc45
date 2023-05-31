@@ -29,6 +29,12 @@ http://259391455423321068.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321068.ts
 http://259391455423321069.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321069.ts
 #EXTINF:-1 tvg-name="101 TV MALAGA HD"tvg-id=""tvg-logo="https://www.101tv.es/wp-content/uploads/2022/08/logo-101tv-nuevo-logo-web.png"group-title="TDT",101 TV MALAGA HD
 http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321075.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL MALAGA HD" tvg-logo="https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg" group-title="TDT",CANAL MALAGA HD
+http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/272447.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR A HD" tvg-logo="" group-title="TDT",CANAL SUR A HD
+http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339745.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SURA HD" tvg-logo="" group-title="TDT",CANAL SURA HD
+http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339746.ts
 #EXTINF:-1 tvg-name="24H FHD"tvg-id="24 HORAS"tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png"group-title="TDT",24H FHD
 http://259391455423321077.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321077.ts
 #EXTINF:-1 tvg-name="DISCOVERY FHD"tvg-id="discoverychannel.es"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png"group-title="ENTRETENIMIENTO",DISCOVERY FHD
