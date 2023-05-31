@@ -31,10 +31,6 @@ http://259391455423321069.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321069.ts
 http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321075.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: CANAL MALAGA HD" tvg-logo="https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg" group-title="TDT",CANAL MALAGA HD
 http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/272447.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR A HD" tvg-logo="" group-title="TDT",CANAL SUR A HD
-http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339745.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SURA HD" tvg-logo="" group-title="TDT",CANAL SURA HD
-http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339746.ts
 #EXTINF:-1 tvg-name="24H FHD"tvg-id="24 HORAS"tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png"group-title="TDT",24H FHD
 http://259391455423321077.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321077.ts
 #EXTINF:-1 tvg-name="DISCOVERY FHD"tvg-id="discoverychannel.es"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png"group-title="ENTRETENIMIENTO",DISCOVERY FHD
@@ -63,31 +59,31 @@ http://259391455423321206.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321206.ts
 http://259391455423336289.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336289.ts
 #EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD
 http://259391455423321156.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321156.ts
-#EXTINF:-1 tvg-name="HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="https://miguia.tv/channels/big_92.png"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD 2
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD 2
 http://259391455423336326.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA HD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD
 http://259391455423321157.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321157.ts
-#EXTINF:-1 tvg-name="HISTORIA HD"tvg-id="historia.es"tvg-logo="https://miguia.tv/channels/big_92.png"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD 2
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD 2
 http://259391455423339761.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339761.ts
-#EXTINF:-1 tvg-name="HISTORIA SD"tvg-id="HISTORIA"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",HISTORIA SD
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",HISTORIA SD
 http://259391455423321158.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321158.ts
-#EXTINF:-1 tvg-name="HISTORIA SD"tvg-id="historia.es"tvg-logo="https://miguia.tv/channels/big_92.png"group-title="ENTRETENIMIENTO",CANAL HISTORIA SD 2
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA SD 2
 http://259391455423321262.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321262.ts
 #EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
 http://259391455423321168.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321168.ts
-#EXTINF:-1 tvg-name="CAZA Y PESCA HD"tvg-id="CAZAyPESCA HD"tvg-logo="https://miguia.tv/channels/big_60.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
+#EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
 http://259391455423321169.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321169.ts
-#EXTINF:-1 tvg-name="CAZA Y PESCA SD"tvg-id="CAZAyPESCA"tvg-logo="https://miguia.tv/channels/big_60.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA SD
+#EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA SD
 http://259391455423321170.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321170.ts
 #EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
 http://259391455423426677.thosts.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
-#EXTINF:-1 tvg-name="IBERALIA FHD"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
+#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
 http://259391455423383407.thosts.xyz:80/play/D515096/TPs3VrrrqD@/383407.ts
-#EXTINF:-1 tvg-name="IBERALIA HD"tvg-id=""tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
+#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
 http://259391455423394391.thosts.xyz:80/play/D515096/TPs3VrrrqD@/394391.ts
-#EXTINF:-1 tvg-name="IBERALIA SD"tvg-id=""tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 4
+#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 4
 http://259391455423341252.thosts.xyz:80/play/D515096/TPs3VrrrqD@/341252.ts
-#EXTINF:-1 tvg-name="IBERALIA ORIGINAL HD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
+#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
 http://259391455423336333.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336333.ts
 #EXTINF:-1 tvg-name="IBERALIA ORIGINAL SD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA SD
 http://259391455423336334.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336334.ts
@@ -109,12 +105,6 @@ http://259391455423321171.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321171.ts
 http://259391455423321172.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
 #EXTINF:-1 tvg-name="CAZAVISION SD"tvg-id="Cazavision"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISION SD
 http://259391455423321173.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321173.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNELS HD"tvg-id="discoverychannel.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR"group-title="ENTRETENIMIENTO",DISCOVERY CHANNELS HD
-http://259391455423321211.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321211.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL SD"tvg-id="disneychannel.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_1_772F_416_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL SD
-http://259391455423321209.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321209.ts
-#EXTINF:-1 tvg-name="DISCOVERY CHANNELS SD"tvg-id="DISCOVERY"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR"group-title="ENTRETENIMIENTO",DISCOVERY CHANNELS SD
-http://259391455423321212.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321212.ts
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://miguia.tv/channels/big_123.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD FHD
 http://259391455423321364.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321364.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD"tvg-id="natgeowild.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD FHD 2
@@ -129,13 +119,13 @@ http://259391455423336351.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336351.ts
 http://259391455423383264.thosts.xyz:80/play/D515096/TPs3VrrrqD@/383264.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC FHD
 http://259391455423321371.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321371.ts
-#EXTINF:-1 tvg-name="NAT GEO FHD"tvg-id="natgeo.es"tvg-logo="https://miguia.tv/channels/big_124.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC FHD 2
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC FHD 2
 http://259391455423336352.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336352.ts
 #EXTINF:-1 tvg-name="NAT. GEO. FHD"tvg-id="NAT GEO HD"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7829_428_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC FHD 3
 http://259391455423473750.thosts.xyz:80/play/D515096/TPs3VrrrqD@/473750.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD"tvg-id="NAT GEO HD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC FHD 4
 http://259391455423321372.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321372.ts
-#EXTINF:-1 tvg-name="NAT GEO HD"tvg-id="natgeo.es"tvg-logo="https://miguia.tv/channels/big_124.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC HD 
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC HD 
 http://259391455423339777.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339777.ts
 #EXTINF:-1 tvg-name="NAT. GEO. HD"tvg-id="NAT GEO HD"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7829_428_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC HD 2
 http://259391455423480232.thosts.xyz:80/play/D515096/TPs3VrrrqD@/480232.ts
@@ -147,19 +137,19 @@ http://259391455423321366.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321366.ts
 http://259391455423476915.thosts.xyz:80/play/D515096/TPs3VrrrqD@/476915.ts
 #EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA FHD
 http://259391455423321388.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321388.ts
-#EXTINF:-1 tvg-name="CANAL ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_1_778A_424_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",ODISEA FHD 2
+#EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA FHD 2
 http://259391455423409863.thosts.xyz:80/play/D515096/TPs3VrrrqD@/409863.ts
-#EXTINF:-1 tvg-name="ODISEA HD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA FHD 3
+#EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA FHD 3
 http://259391455423321389.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321389.ts
-#EXTINF:-1 tvg-name="CANAL ODISEA SD"tvg-id=""tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_1_778A_424_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",ODISEA FHD 4
+#EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA FHD 4
 http://259391455423321161.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321161.ts
-#EXTINF:-1 tvg-name="CANAL ODISEA HD"tvg-id="odisea.es"tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cd58568602064743ff6004964aaece8.png"group-title="ENTRETENIMIENTO",ODISEA HD 
+#EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA HD 
 http://259391455423339742.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339742.ts
-#EXTINF:-1 tvg-name="ODISEA SD"tvg-id="CANAL ODISEA"tvg-logo="https://miguia.tv/channels/big_131.png"group-title="ENTRETENIMIENTO",ODISEA SD
+#EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA SD
 http://259391455423321390.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321390.ts
-#EXTINF:-1 tvg-name="NAUTICAL CHANNEL HD"tvg-id=""tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png"group-title="ENTRETENIMIENTO",NAUTICAL CHANNEL HD
+#EXTINF:-1 tvg-name="Nautical Channel"tvg-id=""tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png"group-title="ENTRETENIMIENTO",NAUTICAL CHANNEL HD
 http://259391455423336353.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336353.ts
-#EXTINF:-1 tvg-name="NAUTICAL CHANNEL SD"tvg-id=""tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png"group-title="ENTRETENIMIENTO",NAUTICAL CHANNEL SD
+#EXTINF:-1 tvg-name="Nautical Channel"tvg-id=""tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png"group-title="ENTRETENIMIENTO",NAUTICAL CHANNEL SD
 http://259391455423336354.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336354.ts
 #EXTINF:-1 tvg-name="SURF CHANNEL FHD"tvg-id=""tvg-logo="https://surfchanneltv.com/wp-content/uploads/2021/03/logo512.png"group-title="ENTRETENIMIENTO",SURF CHANNEL FHD
 http://259391455423424752.thosts.xyz:80/play/D515096/TPs3VrrrqD@/424752.ts
@@ -471,7 +461,6 @@ http://259391455423290357.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290357.ts
 http://259391455423290783.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290783.ts
 #EXTINF:-1 tvg-name="EUROSPORT 9 HD"tvg-id=""tvg-logo=""group-title="EUROSPORT",EUROSPORT 9 HD
 http://259391455423290784.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290784.ts
-
 #EXTINF:-1 tvg-name="#VAMOS FHD"tvg-id="vamos.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7508_420_1_C00000_0_0_0.png"group-title="DEPORTES",#VAMOS FHD
 http://259391455423321071.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321071.ts
 #EXTINF:-1 tvg-name="M+ #VAMOS FHD"tvg-id=""tvg-logo=""group-title="DEPORTES",#VAMOS FHD 2
