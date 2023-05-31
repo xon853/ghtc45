@@ -349,13 +349,13 @@ http://259391455423489194.thosts.xyz:80/play/D515096/TPs3VrrrqD@/489194.ts
 http://259391455423489195.thosts.xyz:80/play/D515096/TPs3VrrrqD@/489195.ts
 #EXTINF:-1 tvg-name="M LaLiga SmartbankTV 5 SD"tvg-id=""tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg"group-title="M+ LALIGA",M LaLiga SmartbankTV 5 SD
 http://259391455423489196.thosts.xyz:80/play/D515096/TPs3VrrrqD@/489196.ts
-#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/dd/M+ LALIGA-laliga-es.png"group-title="DAZN LALIGA",DAZN LALIGA HD
+#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png"group-title="DAZN LALIGA",DAZN LALIGA HD
 http://259391455423320781.thosts.xyz:80/play/D515096/TPs3VrrrqD@/320781.ts
-#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/dd/M+ LALIGA-laliga-es.png"group-title="DAZN LALIGA",DAZN LALIGA FHD
+#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png"group-title="DAZN LALIGA",DAZN LALIGA FHD
 http://259391455423320782.thosts.xyz:80/play/D515096/TPs3VrrrqD@/320782.ts
-#EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/dd/M+ LALIGA-laliga-2-es.png"group-title="DAZN LALIGA",DAZN LALIGA 2 HD
+#EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-laliga-2-es.png"group-title="DAZN LALIGA",DAZN LALIGA 2 HD
 http://259391455423320779.thosts.xyz:80/play/D515096/TPs3VrrrqD@/320779.ts
-#EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/dd/M+ LALIGA-laliga-2-es.png"group-title="DAZN LALIGA",DAZN LALIGA 2 FHD
+#EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-laliga-2-es.png"group-title="DAZN LALIGA",DAZN LALIGA 2 FHD
 http://259391455423320780.thosts.xyz:80/play/D515096/TPs3VrrrqD@/320780.ts
 #EXTINF:-1 tvg-name="DAZN 1"tvg-id=""tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg"group-title="DAZN",DAZN 1 FHD
 http://259391455423373766.thosts.xyz:80/play/D515096/TPs3VrrrqD@/373766.ts
@@ -508,7 +508,7 @@ http://259391455423466759.thosts.xyz:80/play/D515096/TPs3VrrrqD@/466759.ts
 http://259391455423466760.thosts.xyz:80/play/D515096/TPs3VrrrqD@/466760.ts
 #EXTINF:-1 tvg-name="EUROSPORT 2 SD"tvg-id="LA 1 HD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2"group-title="EUROSPORT",EUROSPORT 2 SD
 http://259391455423466761.thosts.xyz:80/play/D515096/TPs3VrrrqD@/466761.ts
-#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/M+ LALIGA_F1_logo.png"group-title="DAZN FORMULA 1",DAZN FORMULA 1 FHD
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png"group-title="DAZN FORMULA 1",DAZN FORMULA 1 FHD
 http://259391455423165418.thosts.xyz:80/play/D515096/TPs3VrrrqD@/165418.ts
 #EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/M+ LALIGA_F1_logo.png"group-title="DAZN FORMULA 1",DAZN FORMULA 1 HEVC
 http://259391455423318564.thosts.xyz:80/play/D515096/TPs3VrrrqD@/318564.ts
