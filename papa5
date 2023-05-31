@@ -43,19 +43,19 @@ http://259391455423321147.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321147.ts
 http://259391455423321148.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321148.ts
 #EXTINF:-1 tvg-name="CANAL COCINA SD"tvg-id="CANAL COCINA"tvg-logo="https://miguia.tv/channels/big_43.png"group-title="ENTRETENIMIENTO",CANAL COCINA SD
 http://259391455423321149.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321149.ts
-#EXTINF:-1 tvg-name="DECASA SD"tvg-id=""tvg-logo="https://www.orange.es/ss/Satellite?blobcol=urldata&blobheadername1=Cache-Control&blobheadervalue1=max-age%3D3600&blobkey=id&blobnocache=false&blobtable=MungoBlobs&blobwhere=1521463181298&ssbinary=true"group-title="ENTRETENIMIENTO",CANAL DECASA 4K
+#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA 4K
 http://259391455423321207.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321207.ts
-#EXTINF:-1 tvg-name="DECASA TV FHD"tvg-id="CANAL DECASA"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA"group-title="ENTRETENIMIENTO",CANAL DECASA FHD
+#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA FHD
 http://259391455423321204.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321204.ts
 #EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA FHD 2
 http://259391455423339739.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339739.ts
-#EXTINF:-1 tvg-name="CANAL DECASA HD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA HD
+#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA HD
 http://259391455423321153.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321153.ts
-#EXTINF:-1 tvg-name="DECASA TV HD"tvg-id="CANAL DECASA"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA"group-title="ENTRETENIMIENTO",CANAL DECASA HD 2
+#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA HD 2
 http://259391455423321205.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321205.ts
-#EXTINF:-1 tvg-name="DECASA TV SD"tvg-id="CANAL DECASA"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DECASA"group-title="ENTRETENIMIENTO",CANAL DECASA SD
+#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA SD
 http://259391455423321206.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321206.ts
-#EXTINF:-1 tvg-name="CANAL DECASA SD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA SD 2
+#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA SD 2
 http://259391455423336289.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336289.ts
 #EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD
 http://259391455423321156.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321156.ts
@@ -75,17 +75,17 @@ http://259391455423321168.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321168.ts
 http://259391455423321169.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321169.ts
 #EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA SD
 http://259391455423321170.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321170.ts
-#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
 http://259391455423426677.thosts.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
-#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
 http://259391455423383407.thosts.xyz:80/play/D515096/TPs3VrrrqD@/383407.ts
-#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
 http://259391455423394391.thosts.xyz:80/play/D515096/TPs3VrrrqD@/394391.ts
-#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 4
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 4
 http://259391455423341252.thosts.xyz:80/play/D515096/TPs3VrrrqD@/341252.ts
-#EXTINF:-1 tvg-name="IBERALIA ORIGINAL FHD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
 http://259391455423336333.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336333.ts
-#EXTINF:-1 tvg-name="IBERALIA ORIGINAL SD"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA SD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA SD
 http://259391455423336334.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336334.ts
 #EXTINF:-1 tvg-name="IBERALIA 100% CAZA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% CAZA FHD
 http://259391455423336327.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336327.ts
@@ -461,6 +461,7 @@ http://259391455423290357.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290357.ts
 http://259391455423290783.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290783.ts
 #EXTINF:-1 tvg-name="EUROSPORT 9 HD"tvg-id=""tvg-logo=""group-title="EUROSPORT",EUROSPORT 9 HD
 http://259391455423290784.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290784.ts
+
 #EXTINF:-1 tvg-name="#VAMOS FHD"tvg-id="vamos.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7508_420_1_C00000_0_0_0.png"group-title="DEPORTES",#VAMOS FHD
 http://259391455423321071.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321071.ts
 #EXTINF:-1 tvg-name="M+ #VAMOS FHD"tvg-id=""tvg-logo=""group-title="DEPORTES",#VAMOS FHD 2
