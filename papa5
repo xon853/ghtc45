@@ -53,39 +53,23 @@ http://259391455423339739.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339739.ts
 http://259391455423321153.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321153.ts
 #EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA HD 2
 http://259391455423321205.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321205.ts
-#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA SD
-http://259391455423321206.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321206.ts
-#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA SD 2
-http://259391455423336289.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336289.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD
-http://259391455423321156.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321156.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD 2
-http://259391455423336326.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD
-http://259391455423321157.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321157.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD 2
-http://259391455423339761.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339761.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",HISTORIA SD
-http://259391455423321158.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321158.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA SD 2
-http://259391455423321262.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321262.ts
 #EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
 http://259391455423321168.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321168.ts
 #EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA HD
 http://259391455423321169.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321169.ts
 #EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA SD
 http://259391455423321170.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321170.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
 http://259391455423426677.thosts.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
 http://259391455423383407.thosts.xyz:80/play/D515096/TPs3VrrrqD@/383407.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
 http://259391455423394391.thosts.xyz:80/play/D515096/TPs3VrrrqD@/394391.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 4
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 4
 http://259391455423341252.thosts.xyz:80/play/D515096/TPs3VrrrqD@/341252.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
 http://259391455423336333.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336333.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA SD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA SD
 http://259391455423336334.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336334.ts
 #EXTINF:-1 tvg-name="IBERALIA 100% CAZA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% CAZA FHD
 http://259391455423336327.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336327.ts
@@ -105,6 +89,18 @@ http://259391455423321171.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321171.ts
 http://259391455423321172.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
 #EXTINF:-1 tvg-name="CAZAVISION SD"tvg-id="Cazavision"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISION SD
 http://259391455423321173.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321173.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD
+http://259391455423321156.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321156.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD 2
+http://259391455423336326.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD
+http://259391455423321157.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321157.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA HD 2
+http://259391455423339761.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339761.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",HISTORIA SD
+http://259391455423321158.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321158.ts
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA SD 2
+http://259391455423321262.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321262.ts
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://miguia.tv/channels/big_123.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD FHD
 http://259391455423321364.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321364.ts
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://miguia.tv/channels/big_123.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD FHD 2
@@ -163,84 +159,6 @@ http://259391455423441850.thosts.xyz:80/play/D515096/TPs3VrrrqD@/441850.ts
 http://259391455423441851.thosts.xyz:80/play/D515096/TPs3VrrrqD@/441851.ts
 #EXTINF:-1 tvg-name="toros.es"tvg-id="toros.es"tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg"group-title="MUNDOTORO",MUNDOTORO TV SD
 http://259391455423441852.thosts.xyz:80/play/D515096/TPs3VrrrqD@/441852.ts
-#EXTINF:-1 tvg-name="M+ ACCION FHD"tvg-id="movistaraccion.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="MOVISTAR CINE",M+ ACCION FHD
-http://259391455423321305.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321305.ts
-#EXTINF:-1 tvg-name="M+ ACCION HD"tvg-id="ANTV TDT HD 2.sp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="MOVISTAR CINE",M+ ACCION HD
-http://259391455423321306.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321306.ts
-#EXTINF:-1 tvg-name="M+ ACCION SD"tvg-id="movistaraccion.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="MOVISTAR CINE",M+ ACCION SD
-http://259391455423321307.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321307.ts
-#EXTINF:-1 tvg-name="M+ ACCION HD"tvg-id="movistaraccion.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="MOVISTAR CINE",M+ ACCI©N HD
-http://259391455423321308.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321308.ts
-#EXTINF:-1 tvg-name="M+ CINE ESPANOL FHD"tvg-id=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/af80011ddf4907c81029f3e2763899e4.png"group-title="MOVISTAR CINE",M+ CINE ESPANOL FHD
-http://259391455423321310.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321310.ts
-#EXTINF:-1 tvg-name="M+ CINE ESPANOL HD"tvg-id=""tvg-logo=""group-title="MOVISTAR CINE",M+ CINE ESPA NOL HD
-http://259391455423321311.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321311.ts
-#EXTINF:-1 tvg-name="M+ CINE ESPAOL FHD"tvg-id="M. Cine Espa ol"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCESP"group-title="MOVISTAR CINE",M+ CINE ESPA OL FHD
-http://259391455423321312.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321312.ts
-#EXTINF:-1 tvg-name="M+ CINEDOC AND ROLL HD"tvg-id=""tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwv9hp-rR505a5qo1BpUZbYLsUVqeQ_pzTWiKSgRgcxNkg.png"group-title="MOVISTAR CINE",M+ CINEDOC AND ROLL HD
-http://259391455423321313.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321313.ts
-#EXTINF:-1 tvg-name="M+ CLASICOS FHD"tvg-id="M+ CL SICOS HD"tvg-logo="https://miguia.tv/channels/big_342.png"group-title="MOVISTAR CINE",M+ CLASICOS FHD
-http://259391455423321314.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321314.ts
-#EXTINF:-1 tvg-name="M+ CLASICOS HD"tvg-id=""tvg-logo="https://miguia.tv/channels/big_342.png"group-title="MOVISTAR CINE",M+ CLASICOS HD
-http://259391455423321315.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321315.ts
-#EXTINF:-1 tvg-name="M+ CLASICOS SD"tvg-id=""tvg-logo="https://miguia.tv/channels/big_342.png"group-title="MOVISTAR CINE",M+ CLASICOS SD
-http://259391455423321316.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321316.ts
-#EXTINF:-1 tvg-name="M+ COMEDIA FHD"tvg-id="movistarcomedia.es"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png"group-title="MOVISTAR CINE",M+ COMEDIA FHD
-http://259391455423321317.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321317.ts
-#EXTINF:-1 tvg-name="M+ COMEDIA HD"tvg-id="M.COMEDIA HD"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png"group-title="MOVISTAR CINE",M+ COMEDIA HD
-http://259391455423321318.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321318.ts
-#EXTINF:-1 tvg-name="M+ COMEDIA SD"tvg-id="M.COMEDIA"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png"group-title="MOVISTAR CINE",M+ COMEDIA SD
-http://259391455423321319.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321319.ts
-#EXTINF:-1 tvg-name="M+ DRAMA FHD"tvg-id="moviestardrama.es"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png"group-title="MOVISTAR CINE",M+ DRAMA FHD
-http://259391455423321331.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321331.ts
-#EXTINF:-1 tvg-name="M+ DRAMA HD"tvg-id="M. DRAMA HD"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png"group-title="MOVISTAR CINE",M+ DRAMA HD
-http://259391455423321332.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321332.ts
-#EXTINF:-1 tvg-name="M+ DRAMA SD"tvg-id="moviestardrama.es"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png"group-title="MOVISTAR CINE",M+ DRAMA SD
-http://259391455423321333.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321333.ts
-#EXTINF:-1 tvg-name="M+ ESTRENOS 2 FHD"tvg-id="M+ ESTRENOS 2 HD"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_74D4_3F8_1_C00000_0_0_0.png"group-title="MOVISTAR CINE",M+ ESTRENOS 2 FHD
-http://259391455423321334.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321334.ts
-#EXTINF:-1 tvg-name="M+ ESTRENOS 2 HD"tvg-id="M. ESTRENOS 2 HD"tvg-logo="https://miguia.tv/channels/big_338.png"group-title="MOVISTAR CINE",M+ ESTRENOS 2 HD
-http://259391455423321335.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321335.ts
-#EXTINF:-1 tvg-name="M+ ESTRENOS 2 SD"tvg-id="M. ESTRENOS 2 HD"tvg-logo="https://miguia.tv/channels/big_338.png"group-title="MOVISTAR CINE",M+ ESTRENOS 2 SD
-http://259391455423321336.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321336.ts
-#EXTINF:-1 tvg-name="M+ ESTRENOS FHD"tvg-id="LA 1 FHD"tvg-logo="https://miguia.tv/channels/big_274.png"group-title="MOVISTAR CINE",M+ ESTRENOS FHD
-http://259391455423321337.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321337.ts
-#EXTINF:-1 tvg-name="M+ ESTRENOS HD"tvg-id="M.ESTRENOS HD"tvg-logo="https://miguia.tv/channels/big_274.png"group-title="MOVISTAR CINE",M+ ESTRENOS HD
-http://259391455423321338.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321338.ts
-#EXTINF:-1 tvg-name="M+ ESTRENOS SD"tvg-id="movistarestrenos.es"tvg-logo="https://miguia.tv/channels/big_274.png"group-title="MOVISTAR CINE",M+ ESTRENOS SD
-http://259391455423321339.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321339.ts
-#EXTINF:-1 tvg-name="M+ FEST FHD"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png"group-title="MOVISTAR CINE",M+ FEST FHD
-http://259391455423321340.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321340.ts
-#EXTINF:-1 tvg-name="M+ FEST HD"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png"group-title="MOVISTAR CINE",M+ FEST HD
-http://259391455423321341.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321341.ts
-#EXTINF:-1 tvg-name="M+ FEST SD"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png"group-title="MOVISTAR CINE",M+ FEST SD
-http://259391455423321342.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321342.ts
-#EXTINF:-1 tvg-name="M+ SERIES 2 FHD"tvg-id="M+ SERIES 2 HD"tvg-logo="https://miguia.tv/channels/big_230.png"group-title="MOVISTAR CINE",M+ SERIES 2 FHD
-http://259391455423321344.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321344.ts
-#EXTINF:-1 tvg-name="M+ SERIES 2 HD"tvg-id="M. SERIES 2 HD"tvg-logo="https://miguia.tv/channels/big_230.png"group-title="MOVISTAR CINE",M+ SERIES 2 HD
-http://259391455423321345.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321345.ts
-#EXTINF:-1 tvg-name="M+ SERIES 2 SD"tvg-id="M. SERIES 2 HD"tvg-logo="https://miguia.tv/channels/big_230.png"group-title="MOVISTAR CINE",M+ SERIES 2 SD
-http://259391455423321346.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321346.ts
-#EXTINF:-1 tvg-name="M+ SERIES FHD"tvg-id="M. SERIES HD"tvg-logo="https://miguia.tv/channels/big_273.png"group-title="MOVISTAR CINE",M+ SERIES FHD
-http://259391455423321347.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321347.ts
-#EXTINF:-1 tvg-name="M+ SERIES HD"tvg-id="M. SERIES HD"tvg-logo="https://miguia.tv/channels/big_273.png"group-title="MOVISTAR CINE",M+ SERIES HD
-http://259391455423321348.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321348.ts
-#EXTINF:-1 tvg-name="M+ SERIES SD"tvg-id="M. SERIES HD"tvg-logo="https://miguia.tv/channels/big_273.png"group-title="MOVISTAR CINE",M+ SERIES SD
-http://259391455423321349.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321349.ts
-#EXTINF:-1 tvg-name="M+ SERIESMANIA FHD"tvg-id="movistarseriesmania.es"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true"group-title="MOVISTAR CINE",M+ SERIESMANIA FHD
-http://259391455423321350.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321350.ts
-#EXTINF:-1 tvg-name="M+ SERIESMANIA HD"tvg-id=""tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-multideporte-es.png?raw=true"group-title="MOVISTAR CINE",M+ SERIESMANIA HD
-http://259391455423321351.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321351.ts
-#EXTINF:-1 tvg-name="M+ DCINE HD"tvg-id=""tvg-logo=""group-title="MOVISTAR CINE",M+ DCINE HD
-http://259391455423329147.thosts.xyz:80/play/D515096/TPs3VrrrqD@/329147.ts
-#EXTINF:-1 tvg-name="M+ ESTRONES HD"tvg-id=""tvg-logo=""group-title="MOVISTAR CINE",M+ ESTRONES HD
-http://259391455423329149.thosts.xyz:80/play/D515096/TPs3VrrrqD@/329149.ts
-#EXTINF:-1 tvg-name="M+ CINE N FHD"tvg-id="movistardcine.es"tvg-logo="https://miguia.tv/channels/big_67.png"group-title="MOVISTAR CINE",M+ CINE N FHD
-http://259391455423336345.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336345.ts
-#EXTINF:-1 tvg-name="M+ CINE N HD"tvg-id="movistardcine.es"tvg-logo="https://miguia.tv/channels/big_67.png"group-title="MOVISTAR CINE",M+ CINE N HD
-http://259391455423336346.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336346.ts
-#EXTINF:-1 tvg-name="M+ CINE N SD"tvg-id="movistardcine.es"tvg-logo="https://miguia.tv/channels/big_67.png"group-title="MOVISTAR CINE",M+ CINE N SD
-http://259391455423336347.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336347.ts
 #EXTINF:-1 tvg-name="M+LCAMPEONES"tvg-id="M+LCAMPEONES"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png"group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES FHD
 http://259391455423246282.thosts.xyz:80/play/D515096/TPs3VrrrqD@/246282.ts
 #EXTINF:-1 tvg-name="M+LCAMPEONES"tvg-id="M+LCAMPEONES"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png"group-title="M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES HD
@@ -373,56 +291,6 @@ http://259391455423228393.thosts.xyz:80/play/D515096/TPs3VrrrqD@/228393.ts
 http://259391455423228396.thosts.xyz:80/play/D515096/TPs3VrrrqD@/228396.ts
 #EXTINF:-1 tvg-name="DAZN 4"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/M+ LALIGA-4-espana-es.png"group-title="DAZN",DAZN 4 FHD
 http://259391455423228397.thosts.xyz:80/play/D515096/TPs3VrrrqD@/228397.ts
-#EXTINF:-1 tvg-name="INSTAT 01 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 01 FHD (Solo Eventos)
-http://259391455423321480.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321480.ts
-#EXTINF:-1 tvg-name="INSTAT 02 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 02 FHD (Solo Eventos)
-http://259391455423321481.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321481.ts
-#EXTINF:-1 tvg-name="INSTAT 03 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 03 FHD (Solo Eventos)
-http://259391455423321482.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321482.ts
-#EXTINF:-1 tvg-name="INSTAT 04 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 04 FHD (Solo Eventos)
-http://259391455423321483.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321483.ts
-#EXTINF:-1 tvg-name="INSTAT 05 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 05 FHD (Solo Eventos)
-http://259391455423321484.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321484.ts
-#EXTINF:-1 tvg-name="INSTAT 06 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 06 FHD (Solo Eventos)
-http://259391455423321485.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321485.ts
-#EXTINF:-1 tvg-name="INSTAT 07 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 07 FHD (Solo Eventos)
-http://259391455423321486.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321486.ts
-#EXTINF:-1 tvg-name="INSTAT 08 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 08 FHD (Solo Eventos)
-http://259391455423321487.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321487.ts
-#EXTINF:-1 tvg-name="INSTAT 09 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 09 FHD (Solo Eventos)
-http://259391455423321488.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321488.ts
-#EXTINF:-1 tvg-name="INSTAT 10 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 10 FHD (Solo Eventos)
-http://259391455423321489.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321489.ts
-#EXTINF:-1 tvg-name="INSTAT 11 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 11 FHD (Solo Eventos)
-http://259391455423323230.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323230.ts
-#EXTINF:-1 tvg-name="INSTAT 12 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 12 FHD (Solo Eventos)
-http://259391455423323231.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323231.ts
-#EXTINF:-1 tvg-name="INSTAT 13 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 13 FHD (Solo Eventos)
-http://259391455423323232.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323232.ts
-#EXTINF:-1 tvg-name="INSTAT 14 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 14 FHD (Solo Eventos)
-http://259391455423323233.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323233.ts
-#EXTINF:-1 tvg-name="INSTAT 15 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 15 FHD (Solo Eventos)
-http://259391455423323234.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323234.ts
-#EXTINF:-1 tvg-name="INSTAT 16 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 16 FHD (Solo Eventos)
-http://259391455423323235.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323235.ts
-#EXTINF:-1 tvg-name="INSTAT 17 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 17 FHD (Solo Eventos)
-http://259391455423323236.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323236.ts
-#EXTINF:-1 tvg-name="INSTAT 18 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 18 FHD (Solo Eventos)
-http://259391455423323237.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323237.ts
-#EXTINF:-1 tvg-name="INSTAT 19 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 19 FHD (Solo Eventos)
-http://259391455423323238.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323238.ts
-#EXTINF:-1 tvg-name="INSTAT 20 FHD (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 20 FHD (Solo Eventos)
-http://259391455423323239.thosts.xyz:80/play/D515096/TPs3VrrrqD@/323239.ts
-#EXTINF:-1 tvg-name="INSTAT 21 FHD  (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 21 FHD  (Solo Eventos)
-http://259391455423328841.thosts.xyz:80/play/D515096/TPs3VrrrqD@/328841.ts
-#EXTINF:-1 tvg-name="INSTAT 22 FHD  (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 22 FHD  (Solo Eventos)
-http://259391455423328842.thosts.xyz:80/play/D515096/TPs3VrrrqD@/328842.ts
-#EXTINF:-1 tvg-name="INSTAT 23 FHD  (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 23 FHD  (Solo Eventos)
-http://259391455423328843.thosts.xyz:80/play/D515096/TPs3VrrrqD@/328843.ts
-#EXTINF:-1 tvg-name="INSTAT 24 FHD  (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 24 FHD  (Solo Eventos)
-http://259391455423328844.thosts.xyz:80/play/D515096/TPs3VrrrqD@/328844.ts
-#EXTINF:-1 tvg-name="INSTAT 25 FHD  (Solo Eventos)"tvg-id=""tvg-logo="https://logo.aigooe.com/logo/spain/instat.png"group-title="INSTAT INSPORTS",INSTAT 25 FHD  (Solo Eventos)
-http://259391455423328845.thosts.xyz:80/play/D515096/TPs3VrrrqD@/328845.ts
 #EXTINF:-1 tvg-name="EUROSPORT 1 FHD"tvg-id="LA 1 HD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP"group-title="EUROSPORT",EUROSPORT 1 FHD
 http://259391455423290348.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290348.ts
 #EXTINF:-1 tvg-name="EUROSPORT 1 HD"tvg-id="EUROSPORT1 HD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP"group-title="EUROSPORT",EUROSPORT 1 HD
@@ -447,7 +315,6 @@ http://259391455423290357.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290357.ts
 http://259391455423290783.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290783.ts
 #EXTINF:-1 tvg-name="EUROSPORT 9 HD"tvg-id=""tvg-logo=""group-title="EUROSPORT",EUROSPORT 9 HD
 http://259391455423290784.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290784.ts
-
 #EXTINF:-1 tvg-name="#VAMOS FHD"tvg-id="vamos.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7508_420_1_C00000_0_0_0.png"group-title="DEPORTES",#VAMOS FHD
 http://259391455423321071.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321071.ts
 #EXTINF:-1 tvg-name="M+ #VAMOS FHD"tvg-id=""tvg-logo=""group-title="DEPORTES",#VAMOS FHD 2
