@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://goodtv.nice51.xyz:80/xmltv.php?username=D526490&password=9FJKscpuNfe,http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Spain/plus.es.channels.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://goodtv.nice51.xyz:80/xmltv.php?username=D526490&password=9FJKscpuNfe,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 #EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1 FHD
 http://259391455423321276.ot2339.xyz:80/play/D515096/TPs3VrrrqD@/321276.ts
 #EXTINF:-1 tvg-name="LA 1 HD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1 HD
@@ -59,17 +59,17 @@ http://259391455423321168.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321168.ts
 http://259391455423321169.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321169.ts
 #EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA SD
 http://259391455423321170.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321170.ts
-#EXTINF:-1 tvg-name="Iberalia TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
 http://259391455423426677.thosts.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
-#EXTINF:-1 tvg-name="Iberalia TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
+#EXTINF:-1 tvg-name="Iberalia TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
 http://259391455423383407.thosts.xyz:80/play/D515096/TPs3VrrrqD@/383407.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 3
 http://259391455423394391.thosts.xyz:80/play/D515096/TPs3VrrrqD@/394391.ts
 #EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 4
 http://259391455423341252.thosts.xyz:80/play/D515096/TPs3VrrrqD@/341252.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA HD
 http://259391455423336333.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336333.ts
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="iberaliatv.es"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA SD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA SD
 http://259391455423336334.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336334.ts
 #EXTINF:-1 tvg-name="IBERALIA 100% CAZA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% CAZA FHD
 http://259391455423336327.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336327.ts
