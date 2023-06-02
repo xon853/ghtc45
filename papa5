@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://goodtv.nice51.xyz:80/xmltv.php?username=D526490&password=9FJKscpuNfe,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
-#EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3797?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
+#EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1 
+http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3797?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id="la2.es"tvg-logo="https://miguia.tv/channels/big_99.png"group-title="TDT",LA 2
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3846?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="ANTENA 3 HD"tvg-id="ANTENA 3 HD"tvg-logo="https://miguia.tv/channels/big_10.png"group-title="TDT",ANTENA 3
