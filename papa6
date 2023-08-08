@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://goodtv.nice51.xyz:80/xmltv.php?username=D526490&password=9FJKscpuNfe,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://app.niccom.xyz:80/xmltv.php?username=D526490&password=9FJKscpuNfe,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3797?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id="la2.es"tvg-logo="https://miguia.tv/channels/big_99.png"group-title="TDT",LA 2
@@ -13,9 +13,9 @@ http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/1669686494
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3798?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="CANAL SUR HD"tvg-id="CANAL SUR HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/1200px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png"group-title="TDT",CANAL SUR HD
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/25851?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
-#EXTINF:-1 tvg-name="CANAL SUR 2 HD"tvg-id="CANAL SUR 2 HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/1200px-Canal_Sur_2_-_2017_logo.png"group-title="TDT",CANAL SUR 2 HD
-http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/25850?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
-#EXTINF:-1 tvg-name="#0 FHD"tvg-id="M+ #0 HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="TDT", Movistar+ Originales FHD
+#EXTINF:-1 tvg-name="Movistar +"tvg-id="Movistar +"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Movistar_Plus%2B_2022_logo.svg"group-title="TDT",Movistar +
+http://81fd95e53a99fb6266035edd616d6ef8.spa.unver.me:25461/YNI8sTdwru/166968649421/27193?h=aaf849281ad1dcc69c9ace26601bc79a4258a155&z=81.37.138.101&i=34495
+#EXTINF:-1 tvg-name="M+ Originales"tvg-id="M+ Originales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="TDT", Movistar+ Originales FHD
 http://259391455423321068.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321068.ts
 #EXTINF:-1 tvg-name="101 TV MALAGA HD"tvg-id=""tvg-logo="https://www.101tv.es/wp-content/uploads/2022/08/logo-101tv-nuevo-logo-web.png"group-title="TDT",101 TV MALAGA HD
 http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321075.ts
@@ -23,33 +23,33 @@ http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321075.ts
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/25858?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="24H FHD"tvg-id="24 HORAS"tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png"group-title="TDT",24 Horas TVE
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/27213?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
-#EXTINF:-1 tvg-name="DISCOVERY FHD"tvg-id="discoverychannel.es"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png"group-title="ENTRETENIMIENTO",DISCOVERY FHD
+#EXTINF:-1 tvg-name="DISCOVERY FHD"tvg-id="discoverychannel.es"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png"group-title="ENTRETENIMIENTO",DISCOVERY
 http://259391455423383406.thosts.xyz:80/play/D515096/TPs3VrrrqD@/383406.ts
-#EXTINF:-1 tvg-name="CANAL COCINA FHD"tvg-id="CANAL COCINA FHD"tvg-logo="https://miguia.tv/channels/big_43.png"group-title="ENTRETENIMIENTO",CANAL COCINA FHD
-http://259391455423321147.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321147.ts
-#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA FHD
-http://259391455423321204.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321204.ts
-#EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA FHD
+#EXTINF:-1 tvg-name="CANAL COCINA FHD"tvg-id="CANAL COCINA FHD"tvg-logo="https://miguia.tv/channels/big_43.png"group-title="ENTRETENIMIENTO",CANAL COCINA
+http://259391455423321147.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321148.ts
+#EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA
+http://259391455423321204.thosts.xyz:80/play/D515096/TPs3VrrrqD@/339739.ts
+#EXTINF:-1 tvg-name="CAZA Y PESCA FHD"tvg-id="cazapesca.es"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_788D_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA
 http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3831?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
-#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD
+#EXTINF:-1 tvg-name="IBERALIA TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA
 http://259391455423426677.thosts.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
-#EXTINF:-1 tvg-name="Iberalia TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA FHD 2
+#EXTINF:-1 tvg-name="Iberalia TV"tvg-id="IBERALIA TV"tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 2
 http://259391455423383407.thosts.xyz:80/play/D515096/TPs3VrrrqD@/383407.ts
-#EXTINF:-1 tvg-name="IBERALIA 100% CAZA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% CAZA FHD
+#EXTINF:-1 tvg-name="IBERALIA 100% CAZA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% CAZA
 http://259391455423336327.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336327.ts
-#EXTINF:-1 tvg-name="IBERALIA 100% PESCA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA FHD
+#EXTINF:-1 tvg-name="IBERALIA 100% PESCA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA
 http://259391455423336330.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336330.ts
-#EXTINF:-1 tvg-name="CAZAVISION HD"tvg-id="Cazavision"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISION FHD
+#EXTINF:-1 tvg-name="CAZAVISION HD"tvg-id="Cazavision"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISION
 http://259391455423321171.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
-#EXTINF:-1 tvg-name="M+ DOCUMENTALES FHD"tvg-id=""tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES FHD
+#EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
 http://822483155928552954.ot0711.xyz:80/play/D515096/TPs3VrrrqD@/552954.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA FHD
+#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA
 http://259391455423336326.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
 http://81fd95e53a99fb6266035edd616d6ef8.spa.unver.me:25461/YNI8sTdwru/166968649421/3810?h=aaf849281ad1dcc69c9ace26601bc79a4258a155&z=81.37.138.101&i=34495
-#EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://miguia.tv/channels/big_123.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://miguia.tv/channels/big_123.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD
 http://81fd95e53a99fb6266035edd616d6ef8.spa.unver.me:25461/YNI8sTdwru/166968649421/3811?h=aaf849281ad1dcc69c9ace26601bc79a4258a155&z=81.37.138.101&i=34495
-#EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA FHD
+#EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA
 http://259391455423321388.thosts.xyz:80/play/D515096/TPs3VrrrqD@/538737.ts
 #EXTINF:-1 tvg-name="Mundotoro TV"tvg-id="Mundotoro TV"tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg"group-title="MUNDOTORO",MUNDOTORO TV FHD
 http://259391455423441850.thosts.xyz:80/play/D515096/TPs3VrrrqD@/441850.ts
