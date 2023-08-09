@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
-#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga.png"group-title="DEPORTES",DAZN LaLiga
+#EXTM3U url-t#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7884_414_1_C00000_0_0_0.png"group-title="DEPORTES",DAZN LaLiga
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27175?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/DAZN_LaLiga_2.png"group-title="DEPORTES",DAZN LaLiga 2
+#EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_74CE_3F8_1_C00000_0_0_0.png"group-title="DEPORTES",DAZN LaLiga 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27163?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="DAZN 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-1-es.png"group-title="DEPORTES",DAZN 1
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/26623?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
@@ -19,7 +19,7 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3849?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ LaLiga HD"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="DEPORTES",M+ LaLigaTV OPCIÓN 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/26142?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ LALIGA 2"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-laliga-2-es.png"group-title="DEPORTES",M+ LaLigaTV 2
+#EXTINF:-1 tvg-name="M+ LALIGA 2"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7853_41A_1_C00000_0_0_0.png"group-title="DEPORTES",M+ LaLigaTV 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/26045?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ LCAMPEONES FULL HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones.png"group-title="DEPORTES",M+ LCAMPEONES
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/26078?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
@@ -37,11 +37,11 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3800?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ DEPORTES 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-1-es.png"group-title="DEPORTES",M+ DEPORTES 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/427?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="LaLiga SmartbankTV"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/LaLiga_SmartbankTV.png"group-title="DEPORTES",LigaSmartBank
+#EXTINF:-1 tvg-name="LaLiga SmartbankTV"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_7607_408_1_C00000_0_0_0.png"group-title="DEPORTES",LaLigaTV Hypermotion
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27166?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ LaLiga Smartbank TV M2"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/LaLiga_SmartbankTV_M2.png"group-title="DEPORTES",Liga SmartBank 2
+#EXTINF:-1 tvg-name="M+ LaLiga Smartbank TV M2"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_75FA_408_1_C00000_0_0_0.png"group-title="DEPORTES",LaLigaTV Hypermotion 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27194?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ LaLiga Smartbank TV M3"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/LaLiga_SmartbankTV_M3.png"group-title="DEPORTES",Liga SmartBank 3
+#EXTINF:-1 tvg-name="M+ LaLiga Smartbank TV M3"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_7606_408_1_C00000_0_0_0.png"group-title="DEPORTES",LaLigaTV Hypermotion 3
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27195?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ GOLF FULL HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png"group-title="DEPORTES",M+ GOLF
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3802?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
@@ -67,8 +67,6 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/25847?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="CANAL SUR"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/Canal_Sur.png"group-title="TV",CANAL SUR HD
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/25851?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="CANAL MALAGA HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal_M%C3%A1laga_RTV.jpg"group-title="TV",CANAL MALAGA HD
-http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/25858?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="7TV ANDALUCIA"tvg-id=""tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/7tv-andalucia-logo-vector.png"group-title="TV",7TV ANDALUCIA
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/25846?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="PTV MALAGA"tvg-id=""tvg-logo="https://economistasmalaga.com/wp-content/uploads/ptv-malaga-300x195.png"group-title="TV",PTV MALAGA
