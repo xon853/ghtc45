@@ -1,4 +1,4 @@
-#EXTM3U url-t#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml;https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml;https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF:-1 tvg-name="LA 1 HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries//la1.png"group-title="TV",LA 1
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3797?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries//la2.png"group-title="TV",LA 2
@@ -71,9 +71,9 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27232?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+LCAMPEONES"tvg-id="M+LCAMPEONES"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES OPCIÓN 3
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27233?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+LCAMPEON2"tvg-id="M+LCAMPEON2"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_2.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES 2
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD"tvg-id="M+ Liga de Campeones 2 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_2.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/26080?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+LCAMPEON2"tvg-id="M+LCAMPEON2"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_2.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES 2 OPCIÓN 2
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2 HD"tvg-id="M+ Liga de Campeones 2 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_2.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES 2 OPCIÓN 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/439?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="DAZN 1"tvg-id="DAZN 1"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-1-es.png"group-title="DAZN",DAZN 1
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/26623?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
@@ -91,7 +91,7 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3819?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-es.png"group-title="DEPORTES",M+ DEPORTES
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3800?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ DEPORTES 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-1-es.png"group-title="DEPORTES",M+ DEPORTES 2
+#EXTINF:-1 tvg-name="M+DEPORTES2HD"tvg-id="M+DEPORTES2HD"tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-1-es.png"group-title="DEPORTES",M+ DEPORTES 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/427?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="LALIGA TV HYPERMOTION"tvg-id="LALIGA TV HYPERMOTION"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_7607_408_1_C00000_0_0_0.png"group-title="LaLigaTV Hypermotion",LaLigaTV Hypermotion
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27166?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
@@ -99,5 +99,5 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27194?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ LaLiga Smartbank TV M3"tvg-id=""tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_1_7606_408_1_C00000_0_0_0.png"group-title="LaLigaTV Hypermotion",LaLigaTV Hypermotion 3
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27195?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ GOLF FULL HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png"group-title="DEPORTES",M+ GOLF
+#EXTINF:-1 tvg-name="M+ GOLF HD"tvg-id="M+ GOLF HD"tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png"group-title="DEPORTES",M+ GOLF
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3802?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
