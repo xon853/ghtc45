@@ -13,7 +13,7 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3798?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ Originales"tvg-id="M+ Originales"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_originales.png"group-title="TV", Movistar+ Originales
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3818?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="Movistar +"tvg-id="Movistar +"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_blanco.png"group-title="TV",Movistar +
+#EXTINF:-1 tvg-name="Movistar Plus+ HD"tvg-id="Movistar Plus+ HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_blanco.png"group-title="TV",Movistar Plus+
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27193?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="24 HORAS"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/24h-es.png"group-title="TV",24 HORAS FULL HD
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27213?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
@@ -31,17 +31,17 @@ http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/1609049116
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3844?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ Acción HD"tvg-id="M+ Acción HD"tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-accion-es.png"group-title="TV",M+ ACCIÓN 
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3799?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ ESTRENOS FULL HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/799px-Movistar_Estrenos.svg.png"group-title="TV",M+ ESTRENOS
+#EXTINF:-1 tvg-name="M+ Cine HD"tvg-id="M+ Cine HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/512px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="TV",M+ CINE
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3805?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ Fest FULL HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/165px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="TV",M+ Fest
+#EXTINF:-1 tvg-name="M+ Fest FULL HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg/250px-M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="TV",M+ MÚSICA
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27192?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ CLASICOS FULL HD"tvg-id="M+ CLASICOS FULL HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Cl%C3%A1sicos.svg/512px-Movistar_Cl%C3%A1sicos.svg.png"group-title="TV",M+ CLASICOS
+#EXTINF:-1 tvg-name="M+ Clásicos HD"tvg-id="M+ Clásicos HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="TV",M+ CLÁSICOS
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/27214?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ COMEDIA HD"tvg-id="M+ COMEDIA HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/800px-Movistar_Comedia.svg.png"group-title="TV",M+ COMEDIA
+#EXTINF:-1 tvg-name="M+ Comedia HD"tvg-id="M+ Comedia HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="TV",M+ COMEDIA
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3804?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ DRAMA HD"tvg-id="M+ DRAMA HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/800px-Movistar_Drama.svg.png"group-title="TV",M+ DRAMA
+#EXTINF:-1 tvg-name="M+ DRAMA HD"tvg-id="M+ DRAMA HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/250px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="TV",M+ DRAMA
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3801?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ SERIES FULL HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/800px-Movistar_Series.svg.png"group-title="TV",M+ SERIES
+#EXTINF:-1 tvg-name="M+ SERIES FULL HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="TV",M+ SERIES
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3803?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+ Suspense"tvg-id="M+ Suspense"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="TV",M+ SUSPENSE
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3809?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
