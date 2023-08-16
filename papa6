@@ -43,7 +43,7 @@ http://259391455423336330.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336330.ts
 http://259391455423321171.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
 #EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
 http://822483155928552954.ot0711.xyz:80/play/D515096/TPs3VrrrqD@/552954.ts
-#EXTINF:-1 tvg-name="CANAL HISTORIA FHD"tvg-id="HISTORIA FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA
+#EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA
 http://259391455423336326.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
 http://81fd95e53a99fb6266035edd616d6ef8.spa.unver.me:25461/YNI8sTdwru/166968649421/3810?h=aaf849281ad1dcc69c9ace26601bc79a4258a155&z=81.37.138.101&i=34495
@@ -173,10 +173,8 @@ http://259391455423228396.thosts.xyz:80/play/D515096/TPs3VrrrqD@/228396.ts
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3794?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
 #EXTINF:-1 tvg-name="EUROSPORT2HD"tvg-id="EUROSPORT2HD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2"group-title="EUROSPORT",EUROSPORT 2
 http://259391455423290351.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290351.ts
-#EXTINF:-1 tvg-name="M+ #VAMOSHD"tvg-id="M+ #VAMOSHD"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7508_420_1_C00000_0_0_0.png"group-title="DEPORTES",#VAMOS FHD
+#EXTINF:-1 tvg-name="M+ Vamos"tvg-id="M+ Vamos"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Vamos.png"group-title="DEPORTES",#VAMOS FHD
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3819?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
-#EXTINF:-1 tvg-name="M+ #VAMOSHD"tvg-id="M+ #VAMOSHD"tvg-logo="http://loadvod1.ddns.net:25461/images/1_0_19_7508_420_1_C00000_0_0_0.png"group-title="DEPORTES",#VAMOS FHD 2
-http://259391455423438009.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321072.ts
 #EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id="M+DEPORTESHD"tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png"group-title="DEPORTES",M+ DEPORTES FHD
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3800?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
 #EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id="M+DEPORTESHD"tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png"group-title="DEPORTES",M+ DEPORTES FHD 2
