@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://app.niccom.xyz:80/xmltv.php?username=D526490&password=9FJKscpuNfe,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml;http://app.niccom.xyz:80/xmltv.php?username=D526490&password=9FJKscpuNfe;https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml;https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3797?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id="la2.es"tvg-logo="https://miguia.tv/channels/big_99.png"group-title="TDT",LA 2
@@ -95,7 +95,7 @@ http://259391455423282466.thosts.xyz:80/play/D515096/TPs3VrrrqD@/282466.ts
 http://259391455423282467.thosts.xyz:80/play/D515096/TPs3VrrrqD@/282467.ts
 #EXTINF:-1 tvg-name="M+ LALIGA TV"tvg-id="M+ LALIGA TV"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png"group-title="M+ LALIGA",M+ LALIGA
 http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3849?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
-#EXTINF:-1 tvg-name="M+ LALIGA TV 2"tvg-id="M+ LALIGA TV 2"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-2-es.png"group-title="M+ LALIGA",M+ LaLiga TV 2
+#EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD"tvg-id="M+ LaLiga TV 2 HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7853_41A_1_C00000_0_0_0.png"group-title="M+ LALIGA",M+ LaLigaTV 2
 http://259391455423165398.thosts.xyz:80/play/D515096/TPs3VrrrqD@/165398.ts
 #EXTINF:-1 tvg-name="M LALIGA MULTI 3 HD"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-3-es.png"group-title="M+ LALIGA",M LALIGA MULTI 3 HD
 http://259391455423165400.thosts.xyz:80/play/D515096/TPs3VrrrqD@/165400.ts
