@@ -11,15 +11,15 @@ http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/1669686494
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3814?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="LA SEXTA HD"tvg-id="LA SEXTA HD"tvg-logo="https://miguia.tv/channels/big_100.png"group-title="TDT",LA SEXTA
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/3798?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
-#EXTINF:-1 tvg-name="CANAL SUR HD"tvg-id="CANAL SUR HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/1200px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png"group-title="TDT",CANAL SUR HD
+#EXTINF:-1 tvg-name="CANAL SUR HD"tvg-id="CANAL SUR HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/1200px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png"group-title="TDT",CANAL SUR
 http://d78a412cce87ca17124b12a9a16c3d1a.spa.unver.me:25461/YNI8sTdwru/166968649421/25851?h=950d1afc8e665262099cdfce8ebac3af91085687&z=79.144.80.179&i=34495
 #EXTINF:-1 tvg-name="Movistar Plus+ HD"tvg-id="Movistar Plus+ HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_blanco.png"group-title="TDT",Movistar Plus+
 http://81fd95e53a99fb6266035edd616d6ef8.spa.unver.me:25461/YNI8sTdwru/166968649421/27193?h=aaf849281ad1dcc69c9ace26601bc79a4258a155&z=81.37.138.101&i=34495
-#EXTINF:-1 tvg-name="M+ Originales"tvg-id="M+ Originales"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_originales.png"group-title="TDT", Movistar+ Originales FHD
+#EXTINF:-1 tvg-name="M+ Originales"tvg-id="M+ Originales"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_originales.png"group-title="TDT", Movistar+ Originales
 http://259391455423321068.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321068.ts
-#EXTINF:-1 tvg-name="101 TV MALAGA HD"tvg-id=""tvg-logo="https://www.101tv.es/wp-content/uploads/2022/08/logo-101tv-nuevo-logo-web.png"group-title="TDT",101 TV MALAGA HD
+#EXTINF:-1 tvg-name="101 TV MALAGA HD"tvg-id=""tvg-logo="https://www.101tv.es/wp-content/uploads/2022/08/logo-101tv-nuevo-logo-web.png"group-title="TDT",101 TV MALAGA
 http://259391455423321075.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321075.ts
-#EXTINF:-1 tvg-name="ES: CANAL MALAGA HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal_M%C3%A1laga_RTV.jpg"group-title="TDT",CANAL MALAGA HD
+#EXTINF:-1 tvg-name="ES: CANAL MALAGA HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal_M%C3%A1laga_RTV.jpg"group-title="TDT",CANAL MALAGA
 http://259391455423321068.thosts.xyz:80/play/D515096/TPs3VrrrqD@/272447.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: PTV MALAGA SD" tvg-logo="https://economistasmalaga.com/wp-content/uploads/ptv-malaga.png" group-title="TDT",PTV MALAGA
 http://182334755561329156.go30818.xyz:80/play/D515096/TPs3VrrrqD@/329156.ts
