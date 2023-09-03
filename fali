@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml;https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml;https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
-#EXTINF:-1 tvg-name="LA 1 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png"group-title="TV",LA 1 1
+#EXTINF:-1 tvg-name="LA 1 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png"group-title="TV",LA 1
 http://ff5999e314c43b2b4afee86f7356092c.spa.unver.me:25461/SmDgkgxIG7/610646664196/3797?h=ab548106c05b46ea1f839897629feb7cdee2cc0d&z=92.187.231.43&i=39422
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png"group-title="TV",LA 2
 http://ff5999e314c43b2b4afee86f7356092c.spa.unver.me:25461/SmDgkgxIG7/610646664196/3846?h=ab548106c05b46ea1f839897629feb7cdee2cc0d&z=92.187.231.43&i=39422
