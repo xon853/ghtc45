@@ -23,6 +23,8 @@ http://eateous.top:8080/live/101689676490099/01689676490/5592.ts
 http://eateous.top:8080/live/101689676490099/01689676490/57247.ts
 #EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="ES | DEPORTES",ES: DAZN F1
 http://eateous.top:8080/live/101689676490099/01689676490/5593.ts
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="DE: SKY SPORT F1" tvg-logo="https://docdog.top/logo/countries/germany/sky-sport-f1-de.png" group-title="ES | DEPORTES",SKY SPORT F1
+http://eateous.top:8080/101689676490099/01689676490/29544
 #EXTINF:-1 tvg-id="" tvg-name="ES: (lÃ­nea 1) MUNDOTORO" tvg-logo="https://docdog.top/logo/countries/spain/mundotoro.png" group-title="ES | DEPORTES",ES: (lÃ­nea 1) MUNDOTORO
 http://eateous.top:8080/live/101689676490099/01689676490/55943.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: (lÃ­nea 2) TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/torole.png" group-title="ES | DEPORTES",ES: (lÃ­nea 2) TOROLE TV
