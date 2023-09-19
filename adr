@@ -61,19 +61,19 @@ http://eateous.top:8080/live/101689676490099/01689676490/5638.ts
 http://eateous.top:8080/live/101689676490099/01689676490/5639.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-8-es.png" group-title="DEPORTES",M+ DEPORTES 8
 http://eateous.top:8080/live/101689676490099/01689676490/29667.ts
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="ES | GENERAL",ANTENA 3
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="ES | GENERAL",group-title="GENERAL",ANTENA 3
 http://eateous.top:8080/live/101689676490099/01689676490/5555.ts
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="ES | GENERAL",Telecinco
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="ES | GENERAL",group-title="GENERAL",Telecinco
 http://eateous.top:8080/live/101689676490099/01689676490/5734.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="ES | GENERAL",LA 1
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="ES | GENERAL",group-title="GENERAL",LA 1
 http://eateous.top:8080/live/101689676490099/01689676490/5622.ts
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="ES | GENERAL",LA 2
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="ES | GENERAL",group-title="GENERAL",LA 2
 http://eateous.top:8080/live/101689676490099/01689676490/5623.ts
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL",LA SEXTA
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL",group-title="GENERAL",LA SEXTA
 http://eateous.top:8080/live/101689676490099/01689676490/5625.ts
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="ARGENTINA",A&E
 http://eateous.top:8080/live/101689676490099/01689676490/10070.ts
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/cuatro-es.png" group-title="ES | GENERAL",CUATRO
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/cuatro-es.png" group-title="ES | GENERAL",group-title="GENERAL",CUATRO
 http://eateous.top:8080/live/101689676490099/01689676490/5588.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="ARGENTINA",AMC
 http://eateous.top:8080/live/101689676490099/01689676490/10071.ts
@@ -291,557 +291,557 @@ http://eateous.top:8080/live/101689676490099/01689676490/10069.ts
 http://eateous.top:8080/live/101689676490099/01689676490/52469.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="" group-title="ARGENTINA",ESPN PREMIUM
 http://eateous.top:8080/live/101689676490099/01689676490/52470.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ALP GIRLS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: ALP GIRLS
+#EXTINF:-1 tvg-id="" tvg-name=" ALP GIRLS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ALP GIRLS
 http://eateous.top:8080/live/101689676490099/01689676490/54281.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BUMSBUS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: BUMSBUS
+#EXTINF:-1 tvg-id="" tvg-name=" BUMSBUS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", BUMSBUS
 http://eateous.top:8080/live/101689676490099/01689676490/54282.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: DEUTSCHLAND REPORT" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: DEUTSCHLAND REPORT
+#EXTINF:-1 tvg-id="" tvg-name=" DEUTSCHLAND REPORT" tvg-logo="" group-title="XXX-VIP [ 18+ ]", DEUTSCHLAND REPORT
 http://eateous.top:8080/live/101689676490099/01689676490/54283.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: EROTIK VON BENAN" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: EROTIK VON BENAN
+#EXTINF:-1 tvg-id="" tvg-name=" EROTIK VON BENAN" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EROTIK VON BENAN
 http://eateous.top:8080/live/101689676490099/01689676490/54284.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: HITZEFREI" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: HITZEFREI
+#EXTINF:-1 tvg-id="" tvg-name=" HITZEFREI" tvg-logo="" group-title="XXX-VIP [ 18+ ]", HITZEFREI
 http://eateous.top:8080/live/101689676490099/01689676490/54285.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: REIFE SWINGER" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: REIFE SWINGER
+#EXTINF:-1 tvg-id="" tvg-name=" REIFE SWINGER" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REIFE SWINGER
 http://eateous.top:8080/live/101689676490099/01689676490/54286.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SEXTAPE GERMANY" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: SEXTAPE GERMANY
+#EXTINF:-1 tvg-id="" tvg-name=" SEXTAPE GERMANY" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SEXTAPE GERMANY
 http://eateous.top:8080/live/101689676490099/01689676490/54287.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: USER DATE" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: USER DATE
+#EXTINF:-1 tvg-id="" tvg-name=" USER DATE" tvg-logo="" group-title="XXX-VIP [ 18+ ]", USER DATE
 http://eateous.top:8080/live/101689676490099/01689676490/54288.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: WOLF WAGNER LOVE" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: WOLF WAGNER LOVE
+#EXTINF:-1 tvg-id="" tvg-name=" WOLF WAGNER LOVE" tvg-logo="" group-title="XXX-VIP [ 18+ ]", WOLF WAGNER LOVE
 http://eateous.top:8080/live/101689676490099/01689676490/54289.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: AUBREY KATE" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: AUBREY KATE
+#EXTINF:-1 tvg-id="" tvg-name=" AUBREY KATE" tvg-logo="" group-title="XXX-VIP [ 18+ ]", AUBREY KATE
 http://eateous.top:8080/live/101689676490099/01689676490/54290.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: FOXXY" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: FOXXY
+#EXTINF:-1 tvg-id="" tvg-name=" FOXXY" tvg-logo="" group-title="XXX-VIP [ 18+ ]", FOXXY
 http://eateous.top:8080/live/101689676490099/01689676490/54291.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KHLOE KAY" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: KHLOE KAY
+#EXTINF:-1 tvg-id="" tvg-name=" KHLOE KAY" tvg-logo="" group-title="XXX-VIP [ 18+ ]", KHLOE KAY
 http://eateous.top:8080/live/101689676490099/01689676490/54292.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NATALIE MARS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: NATALIE MARS
+#EXTINF:-1 tvg-id="" tvg-name=" NATALIE MARS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", NATALIE MARS
 http://eateous.top:8080/live/101689676490099/01689676490/54293.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: 1111 CUSTOMERS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: 1111 CUSTOMERS
+#EXTINF:-1 tvg-id="" tvg-name=" 1111 CUSTOMERS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", 1111 CUSTOMERS
 http://eateous.top:8080/live/101689676490099/01689676490/54294.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BRATTY SIS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: BRATTY SIS
+#EXTINF:-1 tvg-id="" tvg-name=" BRATTY SIS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", BRATTY SIS
 http://eateous.top:8080/live/101689676490099/01689676490/54295.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BRAZZERS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: BRAZZERS
+#EXTINF:-1 tvg-id="" tvg-name=" BRAZZERS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", BRAZZERS
 http://eateous.top:8080/live/101689676490099/01689676490/54296.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CASEY KISSES" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: CASEY KISSES
+#EXTINF:-1 tvg-id="" tvg-name=" CASEY KISSES" tvg-logo="" group-title="XXX-VIP [ 18+ ]", CASEY KISSES
 http://eateous.top:8080/live/101689676490099/01689676490/54297.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CHANNEL SANTINI TRANS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: CHANNEL SANTINI TRANS
+#EXTINF:-1 tvg-id="" tvg-name=" CHANNEL SANTINI TRANS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", CHANNEL SANTINI TRANS
 http://eateous.top:8080/live/101689676490099/01689676490/54298.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: COLBY KNOX" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: COLBY KNOX
+#EXTINF:-1 tvg-id="" tvg-name=" COLBY KNOX" tvg-logo="" group-title="XXX-VIP [ 18+ ]", COLBY KNOX
 http://eateous.top:8080/live/101689676490099/01689676490/54299.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: DOGFART NETWORK" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: DOGFART NETWORK
+#EXTINF:-1 tvg-id="" tvg-name=" DOGFART NETWORK" tvg-logo="" group-title="XXX-VIP [ 18+ ]", DOGFART NETWORK
 http://eateous.top:8080/live/101689676490099/01689676490/54300.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: FLAVAWORKS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: FLAVAWORKS
+#EXTINF:-1 tvg-id="" tvg-name=" FLAVAWORKS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", FLAVAWORKS
 http://eateous.top:8080/live/101689676490099/01689676490/54301.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: JAYS POV" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: JAYS POV
+#EXTINF:-1 tvg-id="" tvg-name=" JAYS POV" tvg-logo="" group-title="XXX-VIP [ 18+ ]", JAYS POV
 http://eateous.top:8080/live/101689676490099/01689676490/54302.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: LETSDOIT 60FPS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: LETSDOIT 60FPS
+#EXTINF:-1 tvg-id="" tvg-name=" LETSDOIT 60FPS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", LETSDOIT 60FPS
 http://eateous.top:8080/live/101689676490099/01689676490/54303.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MOFOS" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: MOFOS
+#EXTINF:-1 tvg-id="" tvg-name=" MOFOS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", MOFOS
 http://eateous.top:8080/live/101689676490099/01689676490/54304.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NEXT DOOR RAW" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: NEXT DOOR RAW
+#EXTINF:-1 tvg-id="" tvg-name=" NEXT DOOR RAW" tvg-logo="" group-title="XXX-VIP [ 18+ ]", NEXT DOOR RAW
 http://eateous.top:8080/live/101689676490099/01689676490/54305.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NF BUSTY" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: NF BUSTY
+#EXTINF:-1 tvg-id="" tvg-name=" NF BUSTY" tvg-logo="" group-title="XXX-VIP [ 18+ ]", NF BUSTY
 http://eateous.top:8080/live/101689676490099/01689676490/54306.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SPANKMONSTER" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: SPANKMONSTER
+#EXTINF:-1 tvg-id="" tvg-name=" SPANKMONSTER" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SPANKMONSTER
 http://eateous.top:8080/live/101689676490099/01689676490/54307.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SPIZOO" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: SPIZOO
+#EXTINF:-1 tvg-id="" tvg-name=" SPIZOO" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SPIZOO
 http://eateous.top:8080/live/101689676490099/01689676490/54308.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STEP SIBILINGS CAUGHT" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: STEP SIBILINGS CAUGHT
+#EXTINF:-1 tvg-id="" tvg-name=" STEP SIBILINGS CAUGHT" tvg-logo="" group-title="XXX-VIP [ 18+ ]", STEP SIBILINGS CAUGHT
 http://eateous.top:8080/live/101689676490099/01689676490/54309.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SUGAR BABES TV" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: SUGAR BABES TV
+#EXTINF:-1 tvg-id="" tvg-name=" SUGAR BABES TV" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SUGAR BABES TV
 http://eateous.top:8080/live/101689676490099/01689676490/54310.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: TREASURE ISLAND MEDIA" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: TREASURE ISLAND MEDIA
+#EXTINF:-1 tvg-id="" tvg-name=" TREASURE ISLAND MEDIA" tvg-logo="" group-title="XXX-VIP [ 18+ ]", TREASURE ISLAND MEDIA
 http://eateous.top:8080/live/101689676490099/01689676490/54311.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx:MY PERVY FAMILY" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx:MY PERVY FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="MY PERVY FAMILY" tvg-logo="" group-title="XXX-VIP [ 18+ ]",MY PERVY FAMILY
 http://eateous.top:8080/live/101689676490099/01689676490/54312.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BLOWJOB" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: BLOWJOB
+#EXTINF:-1 tvg-id="" tvg-name=" BLOWJOB" tvg-logo="" group-title="XXX-VIP [ 18+ ]", BLOWJOB
 http://eateous.top:8080/live/101689676490099/01689676490/54313.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MILF" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: MILF
+#EXTINF:-1 tvg-id="" tvg-name=" MILF" tvg-logo="" group-title="XXX-VIP [ 18+ ]", MILF
 http://eateous.top:8080/live/101689676490099/01689676490/54314.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXT & SENSO" tvg-logo="https://docdog.top/logo/countries/xxx/sext-senso.png" group-title="XXX-VIP [ 18+ ]",XXX: SEXT & SENSO
+#EXTINF:-1 tvg-id="" tvg-name=" SEXT & SENSO" tvg-logo="https://docdog.top/logo/countries/xxx/sext-senso.png" group-title="XXX-VIP [ 18+ ]", SEXT & SENSO
 http://eateous.top:8080/live/101689676490099/01689676490/54315.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK O TV" tvg-logo="https://docdog.top/logo/countries/xxx/pinkotv.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK O TV
+#EXTINF:-1 tvg-id="" tvg-name=" PINK O TV" tvg-logo="https://docdog.top/logo/countries/xxx/pinkotv.png" group-title="XXX-VIP [ 18+ ]", PINK O TV
 http://eateous.top:8080/live/101689676490099/01689676490/54316.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BEATE-UHSE TV" tvg-logo="https://docdog.top/logo/countries/xxx//beateuhsetv.png" group-title="XXX-VIP [ 18+ ]",XXX: BEATE-UHSE TV
+#EXTINF:-1 tvg-id="" tvg-name=" BEATE-UHSE TV" tvg-logo="https://docdog.top/logo/countries/xxx//beateuhsetv.png" group-title="XXX-VIP [ 18+ ]", BEATE-UHSE TV
 http://eateous.top:8080/live/101689676490099/01689676490/54317.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorceltv.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" DORCEL HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorceltv.jpg" group-title="XXX-VIP [ 18+ ]", DORCEL HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54318.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorcelxxx.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL XXX HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" DORCEL XXX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorcelxxx.jpg" group-title="XXX-VIP [ 18+ ]", DORCEL XXX HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54319.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/eroxhd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: EROX HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EROX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/eroxhd.jpg" group-title="XXX-VIP [ 18+ ]", EROX HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54320.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 2 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic2.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 2 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PINK EROTIC 2 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic2.png" group-title="XXX-VIP [ 18+ ]", PINK EROTIC 2 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54321.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic3.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 3 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PINK EROTIC 3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic3.png" group-title="XXX-VIP [ 18+ ]", PINK EROTIC 3 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54322.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 4 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic4.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 4 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PINK EROTIC 4 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic4.png" group-title="XXX-VIP [ 18+ ]", PINK EROTIC 4 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54323.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 5 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic5.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 5 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PINK EROTIC 5 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic5.png" group-title="XXX-VIP [ 18+ ]", PINK EROTIC 5 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54324.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic6.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 6 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PINK EROTIC 6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic6.png" group-title="XXX-VIP [ 18+ ]", PINK EROTIC 6 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54325.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 7 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic7.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 7 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PINK EROTIC 7 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic7.png" group-title="XXX-VIP [ 18+ ]", PINK EROTIC 7 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54326.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINK EROTIC 8 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic8.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 8 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PINK EROTIC 8 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic8.png" group-title="XXX-VIP [ 18+ ]", PINK EROTIC 8 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54327.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/extasy4k.png" group-title="XXX-VIP [ 18+ ]",XXX: EXTASY HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EXTASY HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/extasy4k.png" group-title="XXX-VIP [ 18+ ]", EXTASY HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54328.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/extreme.png" group-title="XXX-VIP [ 18+ ]",XXX: EXTREME [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EXTREME [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/extreme.png" group-title="XXX-VIP [ 18+ ]", EXTREME [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54329.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FRENCH LOVER TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/frenchlover.jpg" group-title="XXX-VIP [ 18+ ]",XXX: FRENCH LOVER TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" FRENCH LOVER TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/frenchlover.jpg" group-title="XXX-VIP [ 18+ ]", FRENCH LOVER TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54330.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hustlerhd.png" group-title="XXX-VIP [ 18+ ]",XXX: HUSTLER HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" HUSTLER HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hustlerhd.png" group-title="XXX-VIP [ 18+ ]", HUSTLER HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54331.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTASY 4k" tvg-logo="https://docdog.top/logo/countries/xxx/18%2B.jpg" group-title="XXX-VIP [ 18+ ]",XXX: EXTASY 4k
+#EXTINF:-1 tvg-id="" tvg-name=" EXTASY 4k" tvg-logo="https://docdog.top/logo/countries/xxx/18%2B.jpg" group-title="XXX-VIP [ 18+ ]", EXTASY 4k
 http://eateous.top:8080/live/101689676490099/01689676490/54332.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE PASSION" tvg-logo="https://docdog.top/logo/countries/xxx/penthousepassion.jpg" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE PASSION
+#EXTINF:-1 tvg-id="" tvg-name=" PENTHOUSE PASSION" tvg-logo="https://docdog.top/logo/countries/xxx/penthousepassion.jpg" group-title="XXX-VIP [ 18+ ]", PENTHOUSE PASSION
 http://eateous.top:8080/live/101689676490099/01689676490/54333.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE TV HD [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: PRIVATE TV HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" PRIVATE TV HD [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", PRIVATE TV HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54334.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/redlighthd.png" group-title="XXX-VIP [ 18+ ]",XXX: REDLIGHT HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDLIGHT HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/redlighthd.png" group-title="XXX-VIP [ 18+ ]", REDLIGHT HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54335.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: RUSSIAN NIGHT [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/russiannight.png" group-title="XXX-VIP [ 18+ ]",XXX: RUSSIAN NIGHT [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" RUSSIAN NIGHT [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/russiannight.png" group-title="XXX-VIP [ 18+ ]", RUSSIAN NIGHT [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54336.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/Sextreme.jpg" group-title="XXX-VIP [ 18+ ]",XXX: SEXTREME TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SEXTREME TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/Sextreme.jpg" group-title="XXX-VIP [ 18+ ]", SEXTREME TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54337.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/superonehd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: SUPER ONE HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SUPER ONE HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/superonehd.jpg" group-title="XXX-VIP [ 18+ ]", SUPER ONE HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54338.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X TV HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/visitx.png" group-title="XXX-VIP [ 18+ ]",XXX: VISIT-X TV HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" VISIT-X TV HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/visitx.png" group-title="XXX-VIP [ 18+ ]", VISIT-X TV HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54339.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/vividred.jpg" group-title="XXX-VIP [ 18+ ]",XXX: VIVID RED HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" VIVID RED HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/vividred.jpg" group-title="XXX-VIP [ 18+ ]", VIVID RED HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54340.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/vixen.jpg" group-title="XXX-VIP [ 18+ ]",XXX: VIXEN HD [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" VIXEN HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/vixen.jpg" group-title="XXX-VIP [ 18+ ]", VIXEN HD [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54341.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: X1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: X1 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" X1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", X1 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54342.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX" tvg-logo="https://docdog.top/logo/countries/xxx/xymax.png" group-title="XXX-VIP [ 18+ ]",XXX: XY MAX
+#EXTINF:-1 tvg-id="" tvg-name=" XY MAX" tvg-logo="https://docdog.top/logo/countries/xxx/xymax.png" group-title="XXX-VIP [ 18+ ]", XY MAX
 http://eateous.top:8080/live/101689676490099/01689676490/54343.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS" tvg-logo="https://docdog.top/logo/countries/xxx/xyplus.png" group-title="XXX-VIP [ 18+ ]",XXX: XY PLUS
+#EXTINF:-1 tvg-id="" tvg-name=" XY PLUS" tvg-logo="https://docdog.top/logo/countries/xxx/xyplus.png" group-title="XXX-VIP [ 18+ ]", XY PLUS
 http://eateous.top:8080/live/101689676490099/01689676490/54344.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzers.png" group-title="XXX-VIP [ 18+ ]",XXX: BRAZZERS [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" BRAZZERS [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzers.png" group-title="XXX-VIP [ 18+ ]", BRAZZERS [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54345.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 1" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 1
+#EXTINF:-1 tvg-id="" tvg-name=" ALBA XXX 1" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ALBA XXX 1
 http://eateous.top:8080/live/101689676490099/01689676490/54346.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 2" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 2
+#EXTINF:-1 tvg-id="" tvg-name=" ALBA XXX 2" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ALBA XXX 2
 http://eateous.top:8080/live/101689676490099/01689676490/54347.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hot.jpg" group-title="XXX-VIP [ 18+ ]",XXX: HOT [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" HOT [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hot.jpg" group-title="XXX-VIP [ 18+ ]", HOT [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54348.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: MIAMI TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" MIAMI TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", MIAMI TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54349.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BARELY LEGAL TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: BARELY LEGAL TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" BARELY LEGAL TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", BARELY LEGAL TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54350.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS TV EUROPE RUSSIA [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzerseurope.png" group-title="XXX-VIP [ 18+ ]",XXX: BRAZZERS TV EUROPE RUSSIA [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" BRAZZERS TV EUROPE RUSSIA [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzerseurope.png" group-title="XXX-VIP [ 18+ ]", BRAZZERS TV EUROPE RUSSIA [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54351.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS TV EUROPE [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzerseurope.png" group-title="XXX-VIP [ 18+ ]",XXX: BRAZZERS TV EUROPE [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" BRAZZERS TV EUROPE [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzerseurope.png" group-title="XXX-VIP [ 18+ ]", BRAZZERS TV EUROPE [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54352.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: OLDTIMER [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" OLDTIMER [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", OLDTIMER [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54353.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIP NURU MASSAGE" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: VIP NURU MASSAGE
+#EXTINF:-1 tvg-id="" tvg-name=" VIP NURU MASSAGE" tvg-logo="" group-title="XXX-VIP [ 18+ ]", VIP NURU MASSAGE
 http://eateous.top:8080/live/101689676490099/01689676490/54354.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: DESIRE [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: DESIRE [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" DESIRE [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", DESIRE [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54355.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EB PORN 1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 1 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EB PORN 1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EB PORN 1 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54356.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EB PORN 2 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 2 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EB PORN 2 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EB PORN 2 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54357.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EB PORN 3 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 3 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EB PORN 3 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EB PORN 3 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54358.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EB PORN 4 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 4 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EB PORN 4 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EB PORN 4 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54359.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EB PORN 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 5 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EB PORN 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EB PORN 5 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54360.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EB PORN 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 6 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EB PORN 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EB PORN 6 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54361.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EB PORN 7 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 7 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EB PORN 7 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", EB PORN 7 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54362.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SLTV ADULT 4" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult4.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 4
+#EXTINF:-1 tvg-id="" tvg-name=" SLTV ADULT 4" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult4.png" group-title="XXX-VIP [ 18+ ]", SLTV ADULT 4
 http://eateous.top:8080/live/101689676490099/01689676490/54363.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 1" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 1
+#EXTINF:-1 tvg-id="" tvg-name=" XXX 1" tvg-logo="" group-title="XXX-VIP [ 18+ ]", XXX 1
 http://eateous.top:8080/live/101689676490099/01689676490/54364.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 2" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 2
+#EXTINF:-1 tvg-id="" tvg-name=" XXX 2" tvg-logo="" group-title="XXX-VIP [ 18+ ]", XXX 2
 http://eateous.top:8080/live/101689676490099/01689676490/54365.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 3" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 3
+#EXTINF:-1 tvg-id="" tvg-name=" XXX 3" tvg-logo="" group-title="XXX-VIP [ 18+ ]", XXX 3
 http://eateous.top:8080/live/101689676490099/01689676490/54366.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 4" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 4
+#EXTINF:-1 tvg-id="" tvg-name=" XXX 4" tvg-logo="" group-title="XXX-VIP [ 18+ ]", XXX 4
 http://eateous.top:8080/live/101689676490099/01689676490/54367.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 5" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 5
+#EXTINF:-1 tvg-id="" tvg-name=" XXX 5" tvg-logo="" group-title="XXX-VIP [ 18+ ]", XXX 5
 http://eateous.top:8080/live/101689676490099/01689676490/54368.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 6" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 6
+#EXTINF:-1 tvg-id="" tvg-name=" XXX 6" tvg-logo="" group-title="XXX-VIP [ 18+ ]", XXX 6
 http://eateous.top:8080/live/101689676490099/01689676490/54369.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXX 8" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 8
+#EXTINF:-1 tvg-id="" tvg-name=" XXX 8" tvg-logo="" group-title="XXX-VIP [ 18+ ]", XXX 8
 http://eateous.top:8080/live/101689676490099/01689676490/54370.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REALITY KINGS TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REALITY KINGS TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REALITY KINGS TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54371.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ERO XXX [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ERO XXX [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" ERO XXX [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ERO XXX [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54372.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 4" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 4
+#EXTINF:-1 tvg-id="" tvg-name=" ALBA XXX 4" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ALBA XXX 4
 http://eateous.top:8080/live/101689676490099/01689676490/54373.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 5" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 5
+#EXTINF:-1 tvg-id="" tvg-name=" ALBA XXX 5" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ALBA XXX 5
 http://eateous.top:8080/live/101689676490099/01689676490/54374.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BALKAN EROTIC [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: BALKAN EROTIC [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" BALKAN EROTIC [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", BALKAN EROTIC [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54375.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY1 (GHANDOO) [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: GAY1 (GHANDOO) [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" GAY1 (GHANDOO) [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", GAY1 (GHANDOO) [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54376.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 1 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 1 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54377.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 11 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 11 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 11 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 11 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54378.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 14 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 14 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 14 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 14 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54379.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 15 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 15 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 15 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 15 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54380.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 19 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 19 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 19 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 19 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54381.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 2 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 2 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 2 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 2 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54382.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 20 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 20 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 20 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 20 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54383.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 21 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 21 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 21 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 21 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54384.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 22 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 22 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 22 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 22 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54385.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 26 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 26 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 26 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 26 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54386.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 28 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 28 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 28 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 28 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54387.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 3 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 3 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 3 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 3 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54388.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 4 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 4 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 4 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 4 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54389.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 5 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 5 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54390.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 6 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 6 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54391.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX 8 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 8 [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX 8 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX 8 [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54392.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: REDHAT SEX LATINA [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX LATINA [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" REDHAT SEX LATINA [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", REDHAT SEX LATINA [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54393.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GAY [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: GAY [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" GAY [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", GAY [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54394.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SCORELAND 2 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 2 1080P [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SCORELAND 2 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SCORELAND 2 1080P [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54395.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SCORELAND 3 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 3 1080P [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SCORELAND 3 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SCORELAND 3 1080P [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54396.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SCORELAND 4 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 4 1080P [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SCORELAND 4 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SCORELAND 4 1080P [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54397.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SCORELAND 5 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 5 1080P [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SCORELAND 5 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SCORELAND 5 1080P [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54398.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SCORELAND 6 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 6 1080P [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SCORELAND 6 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SCORELAND 6 1080P [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54399.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SCORELAND1 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND1 1080P [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SCORELAND1 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SCORELAND1 1080P [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54400.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXATION MOVIES [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SEXATION MOVIES [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" SEXATION MOVIES [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SEXATION MOVIES [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54401.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TEEN REDHAT SEX [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: TEEN REDHAT SEX [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" TEEN REDHAT SEX [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", TEEN REDHAT SEX [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54402.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: VENUS TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" VENUS TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", VENUS TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54403.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BABES TV" tvg-logo="https://docdog.top/logo/countries/xxx//babestvs.jpg" group-title="XXX-VIP [ 18+ ]",XXX: BABES TV
+#EXTINF:-1 tvg-id="" tvg-name=" BABES TV" tvg-logo="https://docdog.top/logo/countries/xxx//babestvs.jpg" group-title="XXX-VIP [ 18+ ]", BABES TV
 http://eateous.top:8080/live/101689676490099/01689676490/54404.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hustlertv.png" group-title="XXX-VIP [ 18+ ]",XXX: HUSTLER TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" HUSTLER TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hustlertv.png" group-title="XXX-VIP [ 18+ ]", HUSTLER TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54405.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CENTO X CENTO [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: CENTO X CENTO [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" CENTO X CENTO [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]", CENTO X CENTO [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54406.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLUE HUSTLER [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/bluehuster.jpg" group-title="XXX-VIP [ 18+ ]",XXX: BLUE HUSTLER [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" BLUE HUSTLER [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/bluehuster.jpg" group-title="XXX-VIP [ 18+ ]", BLUE HUSTLER [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54407.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE GOLD" tvg-logo="https://docdog.top/logo/countries/xxx//penthousegold.png" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE GOLD
+#EXTINF:-1 tvg-id="" tvg-name=" PENTHOUSE GOLD" tvg-logo="https://docdog.top/logo/countries/xxx//penthousegold.png" group-title="XXX-VIP [ 18+ ]", PENTHOUSE GOLD
 http://eateous.top:8080/live/101689676490099/01689676490/54408.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="https://docdog.top/logo/countries/xxx/penthousequickies.png" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE QUICKIES
+#EXTINF:-1 tvg-id="" tvg-name=" PENTHOUSE QUICKIES" tvg-logo="https://docdog.top/logo/countries/xxx/penthousequickies.png" group-title="XXX-VIP [ 18+ ]", PENTHOUSE QUICKIES
 http://eateous.top:8080/live/101689676490099/01689676490/54409.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALBA XXX 6" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 6
+#EXTINF:-1 tvg-id="" tvg-name=" ALBA XXX 6" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ALBA XXX 6
 http://eateous.top:8080/live/101689676490099/01689676490/54410.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/jasmintv.png" group-title="XXX-VIP [ 18+ ]",XXX: JASMIN TV [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" JASMIN TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/jasmintv.png" group-title="XXX-VIP [ 18+ ]", JASMIN TV [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54411.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/eroxhd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: EROX [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" EROX [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/eroxhd.jpg" group-title="XXX-VIP [ 18+ ]", EROX [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54412.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/xxl.png" group-title="XXX-VIP [ 18+ ]",XXX: XXL [VIP]
+#EXTINF:-1 tvg-id="" tvg-name=" XXL [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/xxl.png" group-title="XXX-VIP [ 18+ ]", XXL [VIP]
 http://eateous.top:8080/live/101689676490099/01689676490/54413.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX" tvg-logo="https://docdog.top/logo/countries/xxx/xymix.png" group-title="XXX-VIP [ 18+ ]",XXX: XY MIX
+#EXTINF:-1 tvg-id="" tvg-name=" XY MIX" tvg-logo="https://docdog.top/logo/countries/xxx/xymix.png" group-title="XXX-VIP [ 18+ ]", XY MIX
 http://eateous.top:8080/live/101689676490099/01689676490/54414.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SEXYHOT" tvg-logo="" group-title="XXX-VIP [ 18+ ]",xxx: SEXYHOT
+#EXTINF:-1 tvg-id="" tvg-name=" SEXYHOT" tvg-logo="" group-title="XXX-VIP [ 18+ ]", SEXYHOT
 http://eateous.top:8080/live/101689676490099/01689676490/54415.ts
 #EXTINF:-1 tvg-id="" tvg-name="PORNSTAR: TEANNA TRUMP" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",PORNSTAR: TEANNA TRUMP
 http://eateous.top:8080/live/101689676490099/01689676490/54416.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BDSM" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: BDSM
+#EXTINF:-1 tvg-id="" tvg-name=" BDSM" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BDSM
 http://eateous.top:8080/live/101689676490099/01689676490/54417.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Candy" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Candy
+#EXTINF:-1 tvg-id="" tvg-name=" Candy" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", Candy
 http://eateous.top:8080/live/101689676490099/01689676490/54418.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Dancing Bear" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Dancing Bear
+#EXTINF:-1 tvg-id="" tvg-name=" Dancing Bear" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", Dancing Bear
 http://eateous.top:8080/live/101689676490099/01689676490/54419.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Keisha Grey" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Keisha Grey
+#EXTINF:-1 tvg-id="" tvg-name=" Keisha Grey" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", Keisha Grey
 http://eateous.top:8080/live/101689676490099/01689676490/54420.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Playboy TV" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Playboy TV
+#EXTINF:-1 tvg-id="" tvg-name=" Playboy TV" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", Playboy TV
 http://eateous.top:8080/live/101689676490099/01689676490/54421.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Shop Lyfter" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Shop Lyfter
+#EXTINF:-1 tvg-id="" tvg-name=" Shop Lyfter" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", Shop Lyfter
 http://eateous.top:8080/live/101689676490099/01689676490/54422.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VINA SKY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: VINA SKY
+#EXTINF:-1 tvg-id="" tvg-name=" VINA SKY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", VINA SKY
 http://eateous.top:8080/live/101689676490099/01689676490/54423.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VALENTINA NAPPI" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: VALENTINA NAPPI
+#EXTINF:-1 tvg-id="" tvg-name=" VALENTINA NAPPI" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", VALENTINA NAPPI
 http://eateous.top:8080/live/101689676490099/01689676490/54424.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: TONY PROFANE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: TONY PROFANE
+#EXTINF:-1 tvg-id="" tvg-name=" TONY PROFANE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", TONY PROFANE
 http://eateous.top:8080/live/101689676490099/01689676490/54425.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SYBL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: SYBL
+#EXTINF:-1 tvg-id="" tvg-name=" SYBL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", SYBL
 http://eateous.top:8080/live/101689676490099/01689676490/54426.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SKYLER VOX" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: SKYLER VOX
+#EXTINF:-1 tvg-id="" tvg-name=" SKYLER VOX" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", SKYLER VOX
 http://eateous.top:8080/live/101689676490099/01689676490/54427.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SHARON LEE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: SHARON LEE
+#EXTINF:-1 tvg-id="" tvg-name=" SHARON LEE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", SHARON LEE
 http://eateous.top:8080/live/101689676490099/01689676490/54428.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SBYL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: SBYL
+#EXTINF:-1 tvg-id="" tvg-name=" SBYL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", SBYL
 http://eateous.top:8080/live/101689676490099/01689676490/54429.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: RILEY REID" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: RILEY REID
+#EXTINF:-1 tvg-id="" tvg-name=" RILEY REID" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", RILEY REID
 http://eateous.top:8080/live/101689676490099/01689676490/54430.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: RICKY JOHSON" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: RICKY JOHSON
+#EXTINF:-1 tvg-id="" tvg-name=" RICKY JOHSON" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", RICKY JOHSON
 http://eateous.top:8080/live/101689676490099/01689676490/54431.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: RAE LIL BLACK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: RAE LIL BLACK
+#EXTINF:-1 tvg-id="" tvg-name=" RAE LIL BLACK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", RAE LIL BLACK
 http://eateous.top:8080/live/101689676490099/01689676490/54432.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NICOLE SHEA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: NICOLE SHEA
+#EXTINF:-1 tvg-id="" tvg-name=" NICOLE SHEA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", NICOLE SHEA
 http://eateous.top:8080/live/101689676490099/01689676490/54433.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NICOLE ANITSON" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: NICOLE ANITSON
+#EXTINF:-1 tvg-id="" tvg-name=" NICOLE ANITSON" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", NICOLE ANITSON
 http://eateous.top:8080/live/101689676490099/01689676490/54434.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NATASHA NICE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: NATASHA NICE
+#EXTINF:-1 tvg-id="" tvg-name=" NATASHA NICE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", NATASHA NICE
 http://eateous.top:8080/live/101689676490099/01689676490/54435.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NACHO VIDA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: NACHO VIDA
+#EXTINF:-1 tvg-id="" tvg-name=" NACHO VIDA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", NACHO VIDA
 http://eateous.top:8080/live/101689676490099/01689676490/54436.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MIA MALKOVA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: MIA MALKOVA
+#EXTINF:-1 tvg-id="" tvg-name=" MIA MALKOVA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", MIA MALKOVA
 http://eateous.top:8080/live/101689676490099/01689676490/54437.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MIA KHALIFA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: MIA KHALIFA
+#EXTINF:-1 tvg-id="" tvg-name=" MIA KHALIFA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", MIA KHALIFA
 http://eateous.top:8080/live/101689676490099/01689676490/54438.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MADISON IVY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: MADISON IVY
+#EXTINF:-1 tvg-id="" tvg-name=" MADISON IVY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", MADISON IVY
 http://eateous.top:8080/live/101689676490099/01689676490/54439.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: LUNA STAR" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: LUNA STAR
+#EXTINF:-1 tvg-id="" tvg-name=" LUNA STAR" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", LUNA STAR
 http://eateous.top:8080/live/101689676490099/01689676490/54440.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: LISA ANN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: LISA ANN
+#EXTINF:-1 tvg-id="" tvg-name=" LISA ANN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", LISA ANN
 http://eateous.top:8080/live/101689676490099/01689676490/54441.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: LEXI LORE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: LEXI LORE
+#EXTINF:-1 tvg-id="" tvg-name=" LEXI LORE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", LEXI LORE
 http://eateous.top:8080/live/101689676490099/01689676490/54442.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KYLER QIUNN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KYLER QIUNN
+#EXTINF:-1 tvg-id="" tvg-name=" KYLER QIUNN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KYLER QIUNN
 http://eateous.top:8080/live/101689676490099/01689676490/54443.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KIRA NOIR" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KIRA NOIR
+#EXTINF:-1 tvg-id="" tvg-name=" KIRA NOIR" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KIRA NOIR
 http://eateous.top:8080/live/101689676490099/01689676490/54444.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KENZIE MADISON" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KENZIE MADISON
+#EXTINF:-1 tvg-id="" tvg-name=" KENZIE MADISON" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KENZIE MADISON
 http://eateous.top:8080/live/101689676490099/01689676490/54445.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KENDRA SUNDERLAND" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KENDRA SUNDERLAND
+#EXTINF:-1 tvg-id="" tvg-name=" KENDRA SUNDERLAND" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KENDRA SUNDERLAND
 http://eateous.top:8080/live/101689676490099/01689676490/54446.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KENDRA SPADE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KENDRA SPADE
+#EXTINF:-1 tvg-id="" tvg-name=" KENDRA SPADE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KENDRA SPADE
 http://eateous.top:8080/live/101689676490099/01689676490/54447.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KENDRA LUST" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KENDRA LUST
+#EXTINF:-1 tvg-id="" tvg-name=" KENDRA LUST" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KENDRA LUST
 http://eateous.top:8080/live/101689676490099/01689676490/54448.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KEIRAN LEE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KEIRAN LEE
+#EXTINF:-1 tvg-id="" tvg-name=" KEIRAN LEE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KEIRAN LEE
 http://eateous.top:8080/live/101689676490099/01689676490/54449.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KAYLER GUNNER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KAYLER GUNNER
+#EXTINF:-1 tvg-id="" tvg-name=" KAYLER GUNNER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KAYLER GUNNER
 http://eateous.top:8080/live/101689676490099/01689676490/54450.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KARMA RX" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KARMA RX
+#EXTINF:-1 tvg-id="" tvg-name=" KARMA RX" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KARMA RX
 http://eateous.top:8080/live/101689676490099/01689676490/54451.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: KALI ROSES" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: KALI ROSES
+#EXTINF:-1 tvg-id="" tvg-name=" KALI ROSES" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", KALI ROSES
 http://eateous.top:8080/live/101689676490099/01689676490/54452.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: JORDI EL POLLA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: JORDI EL POLLA
+#EXTINF:-1 tvg-id="" tvg-name=" JORDI EL POLLA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", JORDI EL POLLA
 http://eateous.top:8080/live/101689676490099/01689676490/54453.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: JHONNY SINS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: JHONNY SINS
+#EXTINF:-1 tvg-id="" tvg-name=" JHONNY SINS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", JHONNY SINS
 http://eateous.top:8080/live/101689676490099/01689676490/54454.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: JEWELZ BLU" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: JEWELZ BLU
+#EXTINF:-1 tvg-id="" tvg-name=" JEWELZ BLU" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", JEWELZ BLU
 http://eateous.top:8080/live/101689676490099/01689676490/54455.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: JAMES DEEN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: JAMES DEEN
+#EXTINF:-1 tvg-id="" tvg-name=" JAMES DEEN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", JAMES DEEN
 http://eateous.top:8080/live/101689676490099/01689676490/54456.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: HELENA PRICE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: HELENA PRICE
+#EXTINF:-1 tvg-id="" tvg-name=" HELENA PRICE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", HELENA PRICE
 http://eateous.top:8080/live/101689676490099/01689676490/54457.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: GINEBRA BELLUCCI" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: GINEBRA BELLUCCI
+#EXTINF:-1 tvg-id="" tvg-name=" GINEBRA BELLUCCI" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", GINEBRA BELLUCCI
 http://eateous.top:8080/live/101689676490099/01689676490/54458.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: GABRIELLE CARTER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: GABRIELLE CARTER
+#EXTINF:-1 tvg-id="" tvg-name=" GABRIELLE CARTER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", GABRIELLE CARTER
 http://eateous.top:8080/live/101689676490099/01689676490/54459.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ELSA JEAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ELSA JEAN
+#EXTINF:-1 tvg-id="" tvg-name=" ELSA JEAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ELSA JEAN
 http://eateous.top:8080/live/101689676490099/01689676490/54460.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: DREDD" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: DREDD
+#EXTINF:-1 tvg-id="" tvg-name=" DREDD" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", DREDD
 http://eateous.top:8080/live/101689676490099/01689676490/54461.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: DANI DANIELS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: DANI DANIELS
+#EXTINF:-1 tvg-id="" tvg-name=" DANI DANIELS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", DANI DANIELS
 http://eateous.top:8080/live/101689676490099/01689676490/54462.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CRYSTAL RUSH" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CRYSTAL RUSH
+#EXTINF:-1 tvg-id="" tvg-name=" CRYSTAL RUSH" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CRYSTAL RUSH
 http://eateous.top:8080/live/101689676490099/01689676490/54463.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CHRIS DIAMOND" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CHRIS DIAMOND
+#EXTINF:-1 tvg-id="" tvg-name=" CHRIS DIAMOND" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CHRIS DIAMOND
 http://eateous.top:8080/live/101689676490099/01689676490/54464.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CHLOE TEMPLE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CHLOE TEMPLE
+#EXTINF:-1 tvg-id="" tvg-name=" CHLOE TEMPLE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CHLOE TEMPLE
 http://eateous.top:8080/live/101689676490099/01689676490/54465.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CHERIE DEVILLE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CHERIE DEVILLE
+#EXTINF:-1 tvg-id="" tvg-name=" CHERIE DEVILLE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CHERIE DEVILLE
 http://eateous.top:8080/live/101689676490099/01689676490/54466.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CANELA SKIN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CANELA SKIN
+#EXTINF:-1 tvg-id="" tvg-name=" CANELA SKIN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CANELA SKIN
 http://eateous.top:8080/live/101689676490099/01689676490/54467.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BRANDI LOVE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: BRANDI LOVE
+#EXTINF:-1 tvg-id="" tvg-name=" BRANDI LOVE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BRANDI LOVE
 http://eateous.top:8080/live/101689676490099/01689676490/54468.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ADRIANA CHECHIK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ADRIANA CHECHIK
+#EXTINF:-1 tvg-id="" tvg-name=" ADRIANA CHECHIK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ADRIANA CHECHIK
 http://eateous.top:8080/live/101689676490099/01689676490/54469.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ADRIA RAE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ADRIA RAE
+#EXTINF:-1 tvg-id="" tvg-name=" ADRIA RAE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ADRIA RAE
 http://eateous.top:8080/live/101689676490099/01689676490/54470.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ANAL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ANAL
+#EXTINF:-1 tvg-id="" tvg-name=" ANAL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ANAL
 http://eateous.top:8080/live/101689676490099/01689676490/54471.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ASIAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ASIAN
+#EXTINF:-1 tvg-id="" tvg-name=" ASIAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ASIAN
 http://eateous.top:8080/live/101689676490099/01689676490/54472.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BABYSITER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: BABYSITER
+#EXTINF:-1 tvg-id="" tvg-name=" BABYSITER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BABYSITER
 http://eateous.top:8080/live/101689676490099/01689676490/54473.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BIG COOK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: BIG COOK
+#EXTINF:-1 tvg-id="" tvg-name=" BIG COOK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BIG COOK
 http://eateous.top:8080/live/101689676490099/01689676490/54474.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BIG TITS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: BIG TITS
+#EXTINF:-1 tvg-id="" tvg-name=" BIG TITS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BIG TITS
 http://eateous.top:8080/live/101689676490099/01689676490/54475.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BISEXUEL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: BISEXUEL
+#EXTINF:-1 tvg-id="" tvg-name=" BISEXUEL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BISEXUEL
 http://eateous.top:8080/live/101689676490099/01689676490/54476.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BLACK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: BLACK
+#EXTINF:-1 tvg-id="" tvg-name=" BLACK" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BLACK
 http://eateous.top:8080/live/101689676490099/01689676490/54477.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: BLOND" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: BLOND
+#EXTINF:-1 tvg-id="" tvg-name=" BLOND" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", BLOND
 http://eateous.top:8080/live/101689676490099/01689676490/54478.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CAARTON PORN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CAARTON PORN
+#EXTINF:-1 tvg-id="" tvg-name=" CAARTON PORN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CAARTON PORN
 http://eateous.top:8080/live/101689676490099/01689676490/54479.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CASTING" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CASTING
+#EXTINF:-1 tvg-id="" tvg-name=" CASTING" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CASTING
 http://eateous.top:8080/live/101689676490099/01689676490/54480.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CHRISTMAS 2022" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CHRISTMAS 2022
+#EXTINF:-1 tvg-id="" tvg-name=" CHRISTMAS 2022" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CHRISTMAS 2022
 http://eateous.top:8080/live/101689676490099/01689676490/54481.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CLASSIC" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name=" CLASSIC" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CLASSIC
 http://eateous.top:8080/live/101689676490099/01689676490/54482.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CREAMPIE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CREAMPIE
+#EXTINF:-1 tvg-id="" tvg-name=" CREAMPIE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CREAMPIE
 http://eateous.top:8080/live/101689676490099/01689676490/54483.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CROSPLAY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CROSPLAY
+#EXTINF:-1 tvg-id="" tvg-name=" CROSPLAY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CROSPLAY
 http://eateous.top:8080/live/101689676490099/01689676490/54484.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: CUCKOLD" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: CUCKOLD
+#EXTINF:-1 tvg-id="" tvg-name=" CUCKOLD" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", CUCKOLD
 http://eateous.top:8080/live/101689676490099/01689676490/54485.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: DOUBLE PENETRATION" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: DOUBLE PENETRATION
+#EXTINF:-1 tvg-id="" tvg-name=" DOUBLE PENETRATION" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", DOUBLE PENETRATION
 http://eateous.top:8080/live/101689676490099/01689676490/54486.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: FETISH" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: FETISH
+#EXTINF:-1 tvg-id="" tvg-name=" FETISH" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", FETISH
 http://eateous.top:8080/live/101689676490099/01689676490/54487.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: FISTING" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: FISTING
+#EXTINF:-1 tvg-id="" tvg-name=" FISTING" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", FISTING
 http://eateous.top:8080/live/101689676490099/01689676490/54488.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: GERMAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: GERMAN
+#EXTINF:-1 tvg-id="" tvg-name=" GERMAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", GERMAN
 http://eateous.top:8080/live/101689676490099/01689676490/54489.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: HARDCORE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: HARDCORE
+#EXTINF:-1 tvg-id="" tvg-name=" HARDCORE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", HARDCORE
 http://eateous.top:8080/live/101689676490099/01689676490/54490.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: HD PORN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: HD PORN
+#EXTINF:-1 tvg-id="" tvg-name=" HD PORN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", HD PORN
 http://eateous.top:8080/live/101689676490099/01689676490/54491.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ITALY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ITALY
+#EXTINF:-1 tvg-id="" tvg-name=" ITALY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ITALY
 http://eateous.top:8080/live/101689676490099/01689676490/54492.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: LESBIAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: LESBIAN
+#EXTINF:-1 tvg-id="" tvg-name=" LESBIAN" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", LESBIAN
 http://eateous.top:8080/live/101689676490099/01689676490/54493.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MASSAGE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: MASSAGE
+#EXTINF:-1 tvg-id="" tvg-name=" MASSAGE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", MASSAGE
 http://eateous.top:8080/live/101689676490099/01689676490/54494.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MASTURBATION" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: MASTURBATION
+#EXTINF:-1 tvg-id="" tvg-name=" MASTURBATION" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", MASTURBATION
 http://eateous.top:8080/live/101689676490099/01689676490/54495.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: MY WIFE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: MY WIFE
+#EXTINF:-1 tvg-id="" tvg-name=" MY WIFE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", MY WIFE
 http://eateous.top:8080/live/101689676490099/01689676490/54496.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NAUGHTY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: NAUGHTY
+#EXTINF:-1 tvg-id="" tvg-name=" NAUGHTY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", NAUGHTY
 http://eateous.top:8080/live/101689676490099/01689676490/54497.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: NURSE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: NURSE
+#EXTINF:-1 tvg-id="" tvg-name=" NURSE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", NURSE
 http://eateous.top:8080/live/101689676490099/01689676490/54498.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ORGASM" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ORGASM
+#EXTINF:-1 tvg-id="" tvg-name=" ORGASM" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ORGASM
 http://eateous.top:8080/live/101689676490099/01689676490/54499.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: OUTDOOR" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: OUTDOOR
+#EXTINF:-1 tvg-id="" tvg-name=" OUTDOOR" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", OUTDOOR
 http://eateous.top:8080/live/101689676490099/01689676490/54500.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: POLICE OFFICER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: POLICE OFFICER
+#EXTINF:-1 tvg-id="" tvg-name=" POLICE OFFICER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", POLICE OFFICER
 http://eateous.top:8080/live/101689676490099/01689676490/54501.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: PRISONERS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: PRISONERS
+#EXTINF:-1 tvg-id="" tvg-name=" PRISONERS" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", PRISONERS
 http://eateous.top:8080/live/101689676490099/01689676490/54502.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: REALITY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: REALITY
+#EXTINF:-1 tvg-id="" tvg-name=" REALITY" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", REALITY
 http://eateous.top:8080/live/101689676490099/01689676490/54503.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: ROMANCE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: ROMANCE
+#EXTINF:-1 tvg-id="" tvg-name=" ROMANCE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", ROMANCE
 http://eateous.top:8080/live/101689676490099/01689676490/54504.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: RUSSIA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: RUSSIA
+#EXTINF:-1 tvg-id="" tvg-name=" RUSSIA" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", RUSSIA
 http://eateous.top:8080/live/101689676490099/01689676490/54505.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SCHOOL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: SCHOOL
+#EXTINF:-1 tvg-id="" tvg-name=" SCHOOL" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", SCHOOL
 http://eateous.top:8080/live/101689676490099/01689676490/54506.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STUDENT" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: STUDENT
+#EXTINF:-1 tvg-id="" tvg-name=" STUDENT" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", STUDENT
 http://eateous.top:8080/live/101689676490099/01689676490/54507.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: SWINGER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: SWINGER
+#EXTINF:-1 tvg-id="" tvg-name=" SWINGER" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", SWINGER
 http://eateous.top:8080/live/101689676490099/01689676490/54508.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: TEENIE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: TEENIE
+#EXTINF:-1 tvg-id="" tvg-name=" TEENIE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", TEENIE
 http://eateous.top:8080/live/101689676490099/01689676490/54509.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: THREE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",xxx: THREE
+#EXTINF:-1 tvg-id="" tvg-name=" THREE" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]", THREE
 http://eateous.top:8080/live/101689676490099/01689676490/54510.ts
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: ABELLA DANGER" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: ABELLA DANGER
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: ABELLA DANGER" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: ABELLA DANGER
 http://eateous.top:8080/101689676490099/01689676490/57287
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: ADRIANA CHECHIK" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: ADRIANA CHECHIK
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: ADRIANA CHECHIK" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: ADRIANA CHECHIK
 http://eateous.top:8080/101689676490099/01689676490/57288
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: ALINA LOPEZ" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: ALINA LOPEZ
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: ALINA LOPEZ" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: ALINA LOPEZ
 http://eateous.top:8080/101689676490099/01689676490/57289
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: ANGELA WHITE" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: ANGELA WHITE
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: ANGELA WHITE" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: ANGELA WHITE
 http://eateous.top:8080/101689676490099/01689676490/57290
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: ARIANA MARIE" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: ARIANA MARIE
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: ARIANA MARIE" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: ARIANA MARIE
 http://eateous.top:8080/101689676490099/01689676490/57291
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: AUGUST AMES" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: AUGUST AMES
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: AUGUST AMES" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: AUGUST AMES
 http://eateous.top:8080/101689676490099/01689676490/57292
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: AUTUMN FALLS" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: AUTUMN FALLS
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: AUTUMN FALLS" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: AUTUMN FALLS
 http://eateous.top:8080/101689676490099/01689676490/57293
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: BRANDI LOVE" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: BRANDI LOVE
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: BRANDI LOVE" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: BRANDI LOVE
 http://eateous.top:8080/101689676490099/01689676490/57294
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: DANI JENSEN" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: DANI JENSEN
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: DANI JENSEN" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: DANI JENSEN
 http://eateous.top:8080/101689676490099/01689676490/57296
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: ELSA JEAN" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: ELSA JEAN
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: ELSA JEAN" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: ELSA JEAN
 http://eateous.top:8080/101689676490099/01689676490/57297
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: EMILY WILLIS" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: EMILY WILLIS
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: EMILY WILLIS" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: EMILY WILLIS
 http://eateous.top:8080/101689676490099/01689676490/57298
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: EVA LOVIA" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: EVA LOVIA
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: EVA LOVIA" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: EVA LOVIA
 http://eateous.top:8080/101689676490099/01689676490/57299
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: GINA VALENTINA" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: GINA VALENTINA
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: GINA VALENTINA" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: GINA VALENTINA
 http://eateous.top:8080/101689676490099/01689676490/57300
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: JANICE GRIFFITH" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: JANICE GRIFFITH
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: JANICE GRIFFITH" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: JANICE GRIFFITH
 http://eateous.top:8080/101689676490099/01689676490/57301
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: JESSA RHODES" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: JESSA RHODES
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: JESSA RHODES" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: JESSA RHODES
 http://eateous.top:8080/101689676490099/01689676490/57302
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: LANA RHOADES" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: LANA RHOADES
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: LANA RHOADES" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: LANA RHOADES
 http://eateous.top:8080/101689676490099/01689676490/57303
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: LENA PAUL" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: LENA PAUL
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: LENA PAUL" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: LENA PAUL
 http://eateous.top:8080/101689676490099/01689676490/57304
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: LISA ANN" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: LISA ANN
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: LISA ANN" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: LISA ANN
 http://eateous.top:8080/101689676490099/01689676490/57305
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: MADISON IVY" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: MADISON IVY
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: MADISON IVY" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: MADISON IVY
 http://eateous.top:8080/101689676490099/01689676490/57306
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: MIA MALKOVA" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: MIA MALKOVA
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: MIA MALKOVA" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: MIA MALKOVA
 http://eateous.top:8080/101689676490099/01689676490/57307
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: NICOLE ANISTON" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: NICOLE ANISTON
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: NICOLE ANISTON" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: NICOLE ANISTON
 http://eateous.top:8080/101689676490099/01689676490/57308
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: RILEY REID" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: RILEY REID
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: RILEY REID" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: RILEY REID
 http://eateous.top:8080/101689676490099/01689676490/57309
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: UMA JOLIE" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: UMA JOLIE
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: UMA JOLIE" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: UMA JOLIE
 http://eateous.top:8080/101689676490099/01689676490/57310
-#EXTINF:-1 tvg-id="" tvg-name="xxx: STARS EXCLUSIVE4K: VALENTINA NAPPI" tvg-logo="" group-title="XXX - 4K",xxx: STARS EXCLUSIVE4K: VALENTINA NAPPI
+#EXTINF:-1 tvg-id="" tvg-name=" STARS EXCLUSIVE4K: VALENTINA NAPPI" tvg-logo="" group-title="XXX - 4K", STARS EXCLUSIVE4K: VALENTINA NAPPI
 http://eateous.top:8080/101689676490099/01689676490/57311
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: ALICE REDLIPS" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: ALICE REDLIPS
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: ALICE REDLIPS" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: ALICE REDLIPS
 http://eateous.top:8080/101689676490099/01689676490/57312
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: CHERRY GRACE" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: CHERRY GRACE
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: CHERRY GRACE" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: CHERRY GRACE
 http://eateous.top:8080/101689676490099/01689676490/57313
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: CHESSIE RAE" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: CHESSIE RAE
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: CHESSIE RAE" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: CHESSIE RAE
 http://eateous.top:8080/101689676490099/01689676490/57314
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: DIANA DANIELS" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: DIANA DANIELS
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: DIANA DANIELS" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: DIANA DANIELS
 http://eateous.top:8080/101689676490099/01689676490/57315
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: ELLAKAI" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: ELLAKAI
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: ELLAKAI" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: ELLAKAI
 http://eateous.top:8080/101689676490099/01689676490/57316
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: FIAMURR" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: FIAMURR
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: FIAMURR" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: FIAMURR
 http://eateous.top:8080/101689676490099/01689676490/57317
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: KRISS KISS" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: KRISS KISS
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: KRISS KISS" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: KRISS KISS
 http://eateous.top:8080/101689676490099/01689676490/57318
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: LEAH MEOW" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: LEAH MEOW
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: LEAH MEOW" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: LEAH MEOW
 http://eateous.top:8080/101689676490099/01689676490/57319
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: LUXURYGIRL" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: LUXURYGIRL
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: LUXURYGIRL" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: LUXURYGIRL
 http://eateous.top:8080/101689676490099/01689676490/57320
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: MIKANIKA69" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: MIKANIKA69
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: MIKANIKA69" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: MIKANIKA69
 http://eateous.top:8080/101689676490099/01689676490/57321
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: MINI DIVA" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: MINI DIVA
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: MINI DIVA" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: MINI DIVA
 http://eateous.top:8080/101689676490099/01689676490/57322
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: MOLLYREDWOLF" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: MOLLYREDWOLF
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: MOLLYREDWOLF" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: MOLLYREDWOLF
 http://eateous.top:8080/101689676490099/01689676490/57323
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: NOFACEGIRL" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: NOFACEGIRL
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: NOFACEGIRL" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: NOFACEGIRL
 http://eateous.top:8080/101689676490099/01689676490/57324
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: NOTSOAMATEUR" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: NOTSOAMATEUR
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: NOTSOAMATEUR" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: NOTSOAMATEUR
 http://eateous.top:8080/101689676490099/01689676490/57325
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: NYNA FERRAGNI" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: NYNA FERRAGNI
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: NYNA FERRAGNI" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: NYNA FERRAGNI
 http://eateous.top:8080/101689676490099/01689676490/57326
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: PURPLE BITCH" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: PURPLE BITCH
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: PURPLE BITCH" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: PURPLE BITCH
 http://eateous.top:8080/101689676490099/01689676490/57327
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: REISLIN" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: REISLIN
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: REISLIN" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: REISLIN
 http://eateous.top:8080/101689676490099/01689676490/57328
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: SECRETCRUSH" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: SECRETCRUSH
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: SECRETCRUSH" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: SECRETCRUSH
 http://eateous.top:8080/101689676490099/01689676490/57329
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: SOLAZOLA" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: SOLAZOLA
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: SOLAZOLA" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: SOLAZOLA
 http://eateous.top:8080/101689676490099/01689676490/57331
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: SWEET BUNNY" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: SWEET BUNNY
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: SWEET BUNNY" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: SWEET BUNNY
 http://eateous.top:8080/101689676490099/01689676490/57332
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: TINNA ANGEL" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: TINNA ANGEL
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: TINNA ANGEL" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: TINNA ANGEL
 http://eateous.top:8080/101689676490099/01689676490/57334
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEURS4K: YINYLEON" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEURS4K: YINYLEON
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEURS4K: YINYLEON" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEURS4K: YINYLEON
 http://eateous.top:8080/101689676490099/01689676490/57335
-#EXTINF:-1 tvg-id="" tvg-name="xxx: VERIFIED AMATEUR4KS: BIGTITTYGOTHEGG" tvg-logo="" group-title="XXX - 4K",xxx: VERIFIED AMATEUR4KS: BIGTITTYGOTHEGG
+#EXTINF:-1 tvg-id="" tvg-name=" VERIFIED AMATEUR4KS: BIGTITTYGOTHEGG" tvg-logo="" group-title="XXX - 4K", VERIFIED AMATEUR4KS: BIGTITTYGOTHEGG
 http://eateous.top:8080/101689676490099/01689676490/57336
