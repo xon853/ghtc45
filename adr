@@ -61,15 +61,15 @@ http://eateous.top:8080/live/101689676490099/01689676490/5638.ts
 http://eateous.top:8080/live/101689676490099/01689676490/5639.ts
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-8-es.png" group-title="DEPORTES",M+ DEPORTES 8
 http://eateous.top:8080/live/101689676490099/01689676490/29667.ts
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="ES | GENERAL",group-title="GENERAL",ANTENA 3
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="GENERAL",ANTENA 3
 http://eateous.top:8080/live/101689676490099/01689676490/5555.ts
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="ES | GENERAL",group-title="GENERAL",Telecinco
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="GENERAL",Telecinco
 http://eateous.top:8080/live/101689676490099/01689676490/5734.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="ES | GENERAL",group-title="GENERAL",LA 1
+#EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="GENERAL",LA 1
 http://eateous.top:8080/live/101689676490099/01689676490/5622.ts
-#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="ES | GENERAL",group-title="GENERAL",LA 2
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="GENERAL",LA 2
 http://eateous.top:8080/live/101689676490099/01689676490/5623.ts
-#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL",group-title="GENERAL",LA SEXTA
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="GENERAL",LA SEXTA
 http://eateous.top:8080/live/101689676490099/01689676490/5625.ts
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="ARGENTINA",A&E
 http://eateous.top:8080/live/101689676490099/01689676490/10070.ts
