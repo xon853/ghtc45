@@ -34,8 +34,6 @@ http://259391455423321204.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321204.ts
 #EXTINF:-1 tvg-name="CANAL DECASA FHD"tvg-id="canaldecasa.es"tvg-logo="https://miguia.tv/channels/big_68.png"group-title="ENTRETENIMIENTO",CANAL DECASA OPCIÓN 2
 http://259391455423321204.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321153.ts
 #EXTINF:-1 tvg-id="BuenViaje" tvg-name="BuenViaje"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="ENTRETENIMIENTO",BUEN VIAJE
-http://182334755561573239.go30818.xyz:80/play/D515096/TPs3VrrrqD@/573239.ts
-#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BuenViaje"tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="ENTRETENIMIENTO",BUEN VIAJE OPCIÓN 2
 http://182334755561573239.go30818.xyz:80/play/D515096/TPs3VrrrqD@/543732.ts
 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://wottatv.com/wp-content/uploads/2022/09/DVIAJE_SINRELLENO-1.png" group-title="ENTRETENIMIENTO",DVIAJE
 http://182334755561573239.go30818.xyz:80/play/D515096/TPs3VrrrqD@/605695.ts
@@ -49,8 +47,10 @@ http://259391455423383407.thosts.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
 http://259391455423336327.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336327.ts
 #EXTINF:-1 tvg-name="IBERALIA 100% PESCA FHD"tvg-id=""tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/ce/46/ce461169-432d-4017-85ea-e1031e37bab3/unnamed_1.png__400x400_q85_subsampling-2.png"group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA
 http://259391455423336330.thosts.xyz:80/play/D515096/TPs3VrrrqD@/336330.ts
-#EXTINF:-1 tvg-name="Cazavisión"tvg-id="Cazavisión"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISION
+#EXTINF:-1 tvg-name="Cazavisión"tvg-id="Cazavisión"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISIÓN
 http://259391455423321171.thosts.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
+#EXTINF:-1 tvg-name="Cazavisión"tvg-id="Cazavisión"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISIÓN OPCIÓN 2
+http://259391455423321171.thosts.xyz:80/play/D515096/TPs3VrrrqD@/598197.ts
 #EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/27683?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
 #EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA
