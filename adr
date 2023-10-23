@@ -1,106 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="ES | DEPORTES",ES: (HD) DAZN LALIGA
-http://eateous.top:8080/101689676490099/01689676490/25125
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD repuesto) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="ES | DEPORTES",ES: (HD repuesto) DAZN LALIGA
-http://eateous.top:8080/101689676490099/01689676490/57344
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="ES | DEPORTES",ES: (FHD) DAZN LALIGA
-http://eateous.top:8080/101689676490099/01689676490/54668
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="ES: (FHD repuesto) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga.png" group-title="ES | DEPORTES",ES: (FHD repuesto) DAZN LALIGA
-http://eateous.top:8080/101689676490099/01689676490/57359
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="ES | DEPORTES",ES: (HD) M+ LALIGA
-http://eateous.top:8080/101689676490099/01689676490/5758
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (HD repuesto) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="ES | DEPORTES",ES: (HD repuesto) M+ LALIGA
-http://eateous.top:8080/101689676490099/01689676490/54535
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="ES | DEPORTES",ES: (FHD) M+ LALIGA
-http://eateous.top:8080/101689676490099/01689676490/54532
-#EXTINF:-1 tvg-id="M+ LaLigaTV" tvg-name="ES: (FHD repuesto) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA.png" group-title="ES | DEPORTES",ES: (FHD repuesto) M+ LALIGA
-http://eateous.top:8080/101689676490099/01689676490/57362
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/LaLigaTVBAR.png" group-title="ES | DEPORTES",ES: M+ LALIGA TV BAR
-http://eateous.top:8080/101689676490099/01689676490/5661
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="ES | DEPORTES",ES: (HD) DAZN F1 HD
-http://eateous.top:8080/101689676490099/01689676490/57247
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: (FHD repuesto) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-f1-es.png" group-title="ES | DEPORTES",DAZN F1 FHD
-http://eateous.top:8080/101689676490099/01689676490/57361
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP SKY SPORTS F1" tvg-logo="https://docdog.top/logo/countries/uk/skysportsf1.png" group-title="ES | DEPORTES",SKY SPORTS F1
-http://eateous.top:8080/101689676490099/01689676490/29674
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="ES | DEPORTES",ES: (HD) M+ LIGA DE CAMPEONES
-http://eateous.top:8080/101689676490099/01689676490/5671
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (HD repuesto) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="ES | DEPORTES",ES: (HD repuesto) M+ LIGA DE CAMPEONES
-http://eateous.top:8080/101689676490099/01689676490/57356
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="ES | DEPORTES",ES: (FHD) M+ LIGA DE CAMPEONES
-http://eateous.top:8080/101689676490099/01689676490/54531
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-name="ES: (FHD repuesto) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones.png" group-title="ES | DEPORTES",ES: (FHD repuesto) M+ LIGA DE CAMPEONES
-http://eateous.top:8080/101689676490099/01689676490/57363
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/dazn-1-es.png" group-title="ES | DEPORTES",ES: DAZN 1
-http://eateous.top:8080/101689676490099/01689676490/5589
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/dazn-2-es.png" group-title="ES | DEPORTES",ES: DAZN 2
-http://eateous.top:8080/101689676490099/01689676490/5590
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/dazn-3-es.png" group-title="ES | DEPORTES",ES: DAZN 3
-http://eateous.top:8080/101689676490099/01689676490/5591
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/dazn-4-es.png" group-title="ES | DEPORTES",ES: DAZN 4
-http://eateous.top:8080/101689676490099/01689676490/5592
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/MLIGS.png" group-title="ES | DEPORTES",ES: LALIGA TV HYPERMOTION
-http://eateous.top:8080/101689676490099/01689676490/25128
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="ES: LALIGA TV HYPERMOTION（line2）" tvg-logo="https://docdog.top/logo/countries/spain/MLIGS.png" group-title="ES | DEPORTES",ES: LALIGA TV HYPERMOTION（line2）
-http://eateous.top:8080/101689676490099/01689676490/56087
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 2" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/MLIGS2.png" group-title="ES | DEPORTES",ES: LALIGA TV HYPERMOTION 2
-http://eateous.top:8080/101689676490099/01689676490/25953
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV 3" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/MLIGS3.png" group-title="ES | DEPORTES",ES: LALIGA TV HYPERMOTION 3
-http://eateous.top:8080/101689676490099/01689676490/25954
-#EXTINF:-1 tvg-id="M+ LaLigaTV 2" tvg-name="ES: M+ LALIGA 2 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_2.png" group-title="ES | DEPORTES",ES: M+ LALIGA 2 (MATCH TIME)
-http://eateous.top:8080/101689676490099/01689676490/5651
-#EXTINF:-1 tvg-id="M+ LaLigaTV 3" tvg-name="ES: M+ LALIGA 3 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_3.png" group-title="ES | DEPORTES",ES: M+ LALIGA 3 (MATCH TIME)
-http://eateous.top:8080/101689676490099/01689676490/5652
-#EXTINF:-1 tvg-id="M LaLigaTV 4" tvg-name="ES: M+ LALIGA 4 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/LALIGA_TV_4.png" group-title="ES | DEPORTES",ES: M+ LALIGA 4 (MATCH TIME)
-http://eateous.top:8080/101689676490099/01689676490/57248
-#EXTINF:-1 tvg-id="M LaLigaTV 5" tvg-name="ES: M+ LALIGA 5 (MATCH TIME)" tvg-logo="https://docdog.top/logo/countries/spain/movistar-laliga-5-es.png" group-title="ES | DEPORTES",ES: M+ LALIGA 5 (MATCH TIME)
-http://eateous.top:8080/101689676490099/01689676490/57246
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-name="ES: M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_2.png" group-title="ES | DEPORTES",ES: M+ LIGA DE CAMPEONES 2
-http://eateous.top:8080/101689676490099/01689676490/5663
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-name="ES: M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_3.png" group-title="ES | DEPORTES",ES: M+ LIGA DE CAMPEONES 3
-http://eateous.top:8080/101689676490099/01689676490/5664
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/M_Liga_de_Campeones_4.png" group-title="ES | DEPORTES",ES: M+ LIGA DE CAMPEONES 4
-http://eateous.top:8080/101689676490099/01689676490/5665
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_LaLiga_2.png" group-title="ES | DEPORTES",ES: DAZN LALIGA 2
-http://eateous.top:8080/101689676490099/01689676490/25127
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 3" tvg-logo="https://docdog.top/logo/countries/spain/DAZN_Laliga_3.png" group-title="ES | DEPORTES",ES: DAZN LALIGA 3
-http://eateous.top:8080/101689676490099/01689676490/57251
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="ES: M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES
-http://eateous.top:8080/101689676490099/01689676490/5643
-#EXTINF:-1 tvg-id="M+ Deportes" tvg-name="ES: M+ DEPORTES 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-1-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 1
-http://eateous.top:8080/101689676490099/01689676490/5638
-#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-2-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
-http://eateous.top:8080/101689676490099/01689676490/5639
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-3-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 3
-http://eateous.top:8080/101689676490099/01689676490/5640
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-4-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 4
-http://eateous.top:8080/101689676490099/01689676490/5641
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-5-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 5
-http://eateous.top:8080/101689676490099/01689676490/5681
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-6-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 6
-http://eateous.top:8080/101689676490099/01689676490/5682
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-7-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 7
-http://eateous.top:8080/101689676490099/01689676490/5683
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar-deportes-8-es.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 8
-http://eateous.top:8080/101689676490099/01689676490/29667
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-1-es.png" group-title="ES | DEPORTES",ES: EUROSPORT 1
-http://eateous.top:8080/101689676490099/01689676490/5607
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/eurosport-2-es.png" group-title="ES | DEPORTES",ES: EUROSPORT 2
-http://eateous.top:8080/101689676490099/01689676490/5608
-#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="GENERAL",ANTENA 3
-http://eateous.top:8080/live/101689676490099/01689676490/5555.ts
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="GENERAL",Telecinco
-http://eateous.top:8080/live/101689676490099/01689676490/5734.ts
 #EXTINF:-1 tvg-id="LA 1" tvg-name="LA 1" tvg-logo="https://docdog.top/logo/countries/spain/la1.png" group-title="GENERAL",LA 1
-http://eateous.top:8080/live/101689676490099/01689676490/5622.ts
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386211
 #EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://docdog.top/logo/countries/spain/la2.png" group-title="GENERAL",LA 2
-http://eateous.top:8080/live/101689676490099/01689676490/5623.ts
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386214
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/antena-3-es.png" group-title="GENERAL",ANTENA 3
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386216
+#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/cuatro-es.png" group-title="GENERAL",CUATRO
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386218
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="Telecinco" tvg-logo="https://docdog.top/logo/countries/spain/telecinco-es.png" group-title="GENERAL",Telecinco
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386220
 #EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="GENERAL",LA SEXTA
 http://eateous.top:8080/live/101689676490099/01689676490/5625.ts
+#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id="DAZN LaLigaHD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7884_414_1_C00000_0_0_0.png"group-title="DAZN LALIGA",DAZN LaLiga
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/380946
+#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id="DAZN LaLigaHD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7884_414_1_C00000_0_0_0.png"group-title="DAZN LALIGA",DAZN LaLiga OPCIÓN 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/380945
+#EXTINF:-1 tvg-name="DAZN LaLigaHD"tvg-id="DAZN LaLigaHD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7884_414_1_C00000_0_0_0.png"group-title="DAZN LALIGA",DAZN LaLiga OPCIÓN 3
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/380944
+#EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id="DAZN LaLiga2 HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_74CE_3F8_1_C00000_0_0_0.png"group-title="DAZN LALIGA",DAZN LaLiga 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386616
+#EXTINF:-1 tvg-name="DAZN 1"tvg-id="DAZN 1"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-1-es.png"group-title="DAZN",DAZN 1
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386167
+#EXTINF:-1 tvg-name="DAZN 2"tvg-id="DAZN 2"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-2-es.png"group-title="DAZN",DAZN 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386169
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",DAZN F1
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/110636
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",DAZN F1 OPCIÓN 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/275660
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",DAZN F1 OPCIÓN 3
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/275661
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",SKY SPORT F1 ALEMÁN
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/486672
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",SKY SPORT F1 INGLÉS
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/494214
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",F1 TV OFICIAL
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/275659
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",F1 TV TELEMETRÍA
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/275657
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",F1 TV ESPAÑOL
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/302199
+#EXTINF:-1 tvg-name="EUROSPORT1HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/eurosport-1-es.png"group-title="DEPORTES",EUROSPORT 1 
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386203
+#EXTINF:-1 tvg-name="EUROSPORT2HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries/spain/eurosport-2-es.png"group-title="DEPORTES",EUROSPORT 2
+http://eateous.top:8080/101689676490099/01689676490/5608
+#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="M+ LALIGA",M+ LaLigaTV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386140
+#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="M+ LALIGA",M+ LaLigaTV Opción 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386141
+#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="M+ LALIGA",M+ LaLigaTV Opción 3
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386156
+#EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD"tvg-id="M+ LaLiga TV 2 HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7853_41A_1_C00000_0_0_0.png"group-title="M+ LALIGA",M+ LaLigaTV 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386145
+#EXTINF:-1 tvg-name="M+ Liga de Campeones"tvg-id="M+ Liga de Campeones"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386160
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 2"tvg-id="M+ Liga de Campeones 2"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_2.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386159
+#EXTINF:-1 tvg-name="M+ Liga de Campeones 3 HD"tvg-id="M+ Liga de Campeones 3 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Liga_de_Campeones_3.png"group-title="M+ LIGA DE CAMPEONES",M+ LCAMPEONES 3
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386163
+#EXTINF:-1 tvg-name="M+ Deportes HD"tvg-id="M+ Deportes HD"tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-es.png"group-title="DEPORTES",M+ DEPORTES
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386189
+#EXTINF:-1 tvg-name="M+DEPORTES2HD"tvg-id="M+DEPORTES2HD"tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-deportes-1-es.png"group-title="DEPORTES",M+ DEPORTES 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386192
+#EXTINF:-1 tvg-name="M+ Vamos"tvg-id="M+ Vamos"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Vamos.png"group-title="DEPORTES",M+ #VAMOS
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386185
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://docdog.top/logo/countries/argentina/AE.jpg" group-title="ARGENTINA",A&E
 http://eateous.top:8080/live/101689676490099/01689676490/10070.ts
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/cuatro-es.png" group-title="GENERAL",CUATRO
-http://eateous.top:8080/live/101689676490099/01689676490/5588.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://docdog.top/logo/countries/argentina/amctv.png" group-title="ARGENTINA",AMC
 http://eateous.top:8080/live/101689676490099/01689676490/10071.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMERICA 24" tvg-logo="https://docdog.top/logo/countries/argentina/america24.png" group-title="ARGENTINA",AMERICA 24
@@ -317,6 +281,480 @@ http://eateous.top:8080/live/101689676490099/01689676490/10069.ts
 http://eateous.top:8080/live/101689676490099/01689676490/52469.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM" tvg-logo="" group-title="ARGENTINA",ESPN PREMIUM
 http://eateous.top:8080/live/101689676490099/01689676490/52470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: A3 BIKINI TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: A3 BIKINI TV (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311728
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ALBA XXX 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: ALBA XXX 2 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311729
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Anal" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Anal
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328058
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Asian" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Asian
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328053
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ASMR FANTASY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: ASMR FANTASY
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311524
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: AVA ADDAMS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: AVA ADDAMS
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311525
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BABES TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BABES TV 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311526
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BABES TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BABES TV HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311715
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BABES TV HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BABES TV HD (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311730
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BALKAN EROTIC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BALKAN EROTIC
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311639
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BALKAN HOT TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BALKAN HOT TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311731
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BALKAN HOT TV 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BALKAN HOT TV 2 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311732
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANG U" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BANG U
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311684
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANG U (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BANG U (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311733
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANG U EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BANG U EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311683
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGERZ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BANGERZ
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311636
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGERZ (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BANGERZ (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311734
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BARELY LEGAL TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BARELY LEGAL TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311532
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BARELY LEGAL TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BARELY LEGAL TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311671
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BARELY LEGAL TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BARELY LEGAL TV (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311735
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BEATE-UHSE.TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BEATE-UHSE.TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311653
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BELLESA FILMS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BELLESA FILMS
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311533
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Big Ass" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Big Ass
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328071
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BIG ASS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BIG ASS 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311534
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Big Dick" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Big Dick
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328075
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Big Tits" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Big Tits
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328074
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Blonde" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Blonde
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328055
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Blowjob" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Blowjob
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328067
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BLUE HUSTLER
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311675
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BLUE HUSTLER EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311674
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BLUE HUSTLER HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311676
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BLUE HUSTLER TV (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311736
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER TV EUROPE (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BLUE HUSTLER TV EUROPE (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311737
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BRAZZERS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BRAZZERS TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311702
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BRAZZERS TV EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BRAZZERS TV EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311701
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BRAZZERS TV EUROPE RUSSIA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BRAZZERS TV EUROPE RUSSIA
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311700
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Brunette" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Brunette
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328056
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BUNGA BUNGA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: BUNGA BUNGA 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311539
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CANDY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: CANDY 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311540
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CANDY TV HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: CANDY TV HD (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311739
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CENTO CENTO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: CENTO CENTO
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311541
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CENTO X CENTO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: CENTO X CENTO
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311655
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CENTO X CENTO (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: CENTO X CENTO (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311740
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: COLLEGE RULES" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: COLLEGE RULES
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311542
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Compilation" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Compilation
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328057
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: COSMID 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: COSMID 2 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311544
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Cuckold" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Cuckold
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328064
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CUCKOLD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: CUCKOLD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311545
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CZECH STREETS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: CZECH STREETS
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311548
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DANCING BEAR" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DANCING BEAR
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311550
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DAY WITH A PORNSTAR 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DAY WITH A PORNSTAR 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311552
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DESTINY 2 TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DESTINY 2 TV 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311554
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DICK DRAINERS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DICK DRAINERS 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311555
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DORCEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DORCEL HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311724
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DORCEL TV HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DORCEL TV HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311741
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DORCEL TV XXX HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DORCEL TV XXX HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311742
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DORCEL XXX  HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DORCEL XXX  HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311723
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DREAM PORN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DREAM PORN HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311661
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DUSK!" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: DUSK!
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311708
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EMANUELLE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EMANUELLE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311629
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EMANUELLE HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EMANUELLE HD (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311743
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ERO X HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: ERO X HD (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311744
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EROX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EROX
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311651
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EROX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EROX HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311720
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EROX XXX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EROX XXX
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311650
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EROX XXX  HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EROX XXX  HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311719
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVIL ANGEL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EVIL ANGEL
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311694
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVIL ANGEL (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EVIL ANGEL (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311745
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVIL ANGEL EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EVIL ANGEL EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311693
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVIL ANGEL TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EVIL ANGEL TV 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311560
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVOLVED FIGHTS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EVOLVED FIGHTS 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311561
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXTASY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EXTASY HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311620
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXTREME" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EXTREME
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311631
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXXXOTICA HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EXXXOTICA HD (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311747
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXXXOTICA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: EXXXOTICA TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311666
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAP TV LESBIAN" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FAP TV LESBIAN
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311563
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Fetish" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Fetish
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328073
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE X TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FREE X TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311657
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE X TV 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FREE X TV 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311656
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE X TV HQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FREE X TV HQ
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311658
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE-X TV 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FREE-X TV 2 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311748
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE-X TV HQ (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FREE-X TV HQ (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311749
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FRENCH LOVER (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FRENCH LOVER (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311750
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FRENCH LOVER TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: FRENCH LOVER TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311669
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Gangbang" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Gangbang
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328059
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Gay" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Gay
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328054
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GIRLS OUT WEST 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: GIRLS OUT WEST 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311566
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Hardcore" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Hardcore
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328065
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOLED 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOLED 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311568
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311751
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT KINKY JO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT KINKY JO
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311570
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT PLEASURE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT PLEASURE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311633
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT PLEASURE TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT PLEASURE TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311752
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311571
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311699
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311753
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT XXL HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HOT XXL HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311754
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HUSTLER HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311727
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: HUSTLER TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311707
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Interracial" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Interracial
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328070
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JASMIN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: JASMIN 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311576
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JUICY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: JUICY
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311756
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Latina" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Latina
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328069
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LEGAL TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: LEGAL TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311641
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LEO TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: LEO TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311579
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LEO TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: LEO TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311652
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LEO TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: LEO TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311757
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Lesbian" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Lesbian
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328061
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LESBIAN AFFAIR (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: LESBIAN AFFAIR (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311758
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Live Cams" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Live Cams
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328077
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LUST PUR TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: LUST PUR TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311654
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MEIDEN VAN HOLLAND (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MEIDEN VAN HOLLAND (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311759
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MEIDEN VAN HOLLAND HARD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MEIDEN VAN HOLLAND HARD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311580
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MEIDEN VAN HOLLAND HARD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MEIDEN VAN HOLLAND HARD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311695
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MIAMI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MIAMI 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311582
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MILF" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MILF
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328076
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MILF TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MILF TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311632
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MiLF TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MiLF TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311760
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MOFOS LAB 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MOFOS LAB 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311584
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Anal" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Anal
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328084
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Arab Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Arab Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328091
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Asian Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Asian Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328089
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Big Ass Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Big Ass Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328083
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Big Tits Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Big Tits Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328081
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Blonde Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Blonde Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328085
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Blowjob" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Blowjob
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328078
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Brunette Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Brunette Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328088
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Ebony Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Ebony Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328090
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Girls Squirt" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Girls Squirt
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328082
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Latina Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Latina Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328087
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Mature" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Mature
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328092
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Medium Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Medium Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328079
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV MILF" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV MILF
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328094
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Skinny Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Skinny Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328080
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Teen Girls " tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Teen Girls 
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328095
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV White Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV White Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328086
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MyCamTV Young Girls" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: MyCamTV Young Girls
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328093
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: N1 ADULT - BABES 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: N1 ADULT - BABES 1 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311587
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NAUGHTY TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: NAUGHTY TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311640
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NET VIDEO GIRLS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: NET VIDEO GIRLS
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311594
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NET XXX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: NET XXX
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311635
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NUART TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: NUART TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311668
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NUART TV EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: NUART TV EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311667
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: O LA LA TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: O LA LA TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311670
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: O LA LA TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: O LA LA TV (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311762
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: OLDTIMER" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: OLDTIMER
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311637
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSIE XXX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PASSIE XXX
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311705
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSION XXX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PASSION XXX
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311704
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSION XXX 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PASSION XXX 2 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311764
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSION XXX 3 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PASSION XXX 3 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311765
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE GOLD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PENTHOUSE GOLD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311649
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE GOLD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PENTHOUSE GOLD HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311718
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE GOLD HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PENTHOUSE GOLD HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311766
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE QUICKIES HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PENTHOUSE QUICKIES HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311717
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311692
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311691
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 2 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311768
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 3" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 3
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311690
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 4" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 4
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311689
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 4 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 4 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311770
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 5" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 5
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311688
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 5 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 5 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311771
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 6" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 6
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311687
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 6 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 6 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311772
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 7" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 7
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311686
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 7 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 7 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311773
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 8" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK EROTIC 8
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311685
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK O CLUB (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK O CLUB (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311774
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK O CLUB 2 (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINK O CLUB 2 (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311775
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINKO CLUB" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINKO CLUB
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311663
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINKO CLUB 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PINKO CLUB 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311662
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYBOY
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311680
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYBOY EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311677
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY EUROPE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYBOY EUROPE HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311678
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY EUROPE HD (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYBOY EUROPE HD (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311776
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYBOY TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311679
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYBOY TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311777
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY TV 2 HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYBOY TV 2 HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311780
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYHOUSE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYHOUSE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311634
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYHOUSE HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PLAYHOUSE HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311781
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Pornstar" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Pornstar
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328072
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: POV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: POV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328068
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PRIVATE TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PRIVATE TV HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311725
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PRIVATE TV HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PRIVATE TV HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311782
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PURE BABES (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PURE BABES (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311783
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PURE BABES TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PURE BABES TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311664
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PUTALOCURA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: PUTALOCURA
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311601
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REALITY KINGS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: REALITY KINGS TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311703
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REDHOT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: REDHOT
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311784
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REDLIGHT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: REDLIGHT 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311604
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REDLIGHT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: REDLIGHT HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311726
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REDLIGHT HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: REDLIGHT HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311785
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Rough" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Rough
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328060
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Russian" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Russian
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328062
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: RUSSIAN NIGHT EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: RUSSIAN NIGHT EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311672
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: RUSSIAN NIGHT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: RUSSIAN NIGHT HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311673
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SECRET CIRCLE TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SECRET CIRCLE TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311665
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SECRET CIRCLE TV (S)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SECRET CIRCLE TV (S)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311786
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEX ATION" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SEX ATION
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311628
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEX ATION TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SEX ATION TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311787
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEXTREME TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SEXTREME TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311697
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEXY HOT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SEXY HOT
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311696
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEXY HOT TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SEXY HOT TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311789
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SKINEMAX" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SKINEMAX
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311790
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUPER ONE (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SUPER ONE (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311800
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUPER ONE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SUPER ONE HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311716
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUPER ONE HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SUPER ONE HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311801
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUPERONE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: SUPERONE 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311610
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: TABOO" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: TABOO
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311638
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: TABOO TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: TABOO TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311802
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Teen" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Teen
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328066
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Threesome" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: Threesome
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/328063
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VENUS TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: VENUS TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311698
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VINTAGE X 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: VINTAGE X 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311615
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VIVID RED HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: VIVID RED HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311722
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VIVID TOUCH" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: VIVID TOUCH
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311709
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VIVID TV EUROPE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: VIVID TV EUROPE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311711
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VIVID TV EUROPE CZ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: VIVID TV EUROPE CZ
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311710
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X BIZARRE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X BIZARRE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311646
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X BUNGA BUNGA" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X BUNGA BUNGA
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311644
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X DESIRE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X DESIRE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311645
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X-DREAM 2 TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X-DREAM 2 TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311804
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X-DREAM TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X-DREAM TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311660
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X-DREAM TV (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X-DREAM TV (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311805
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X-DREAM TV 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X-DREAM TV 2
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311659
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X1" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: X1
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311647
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XTASY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XTASY
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311806
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XXL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XXL
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311706
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XXL (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XXL (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311807
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XXX MAX 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XXX MAX 4K
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311618
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XY MAX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XY MAX HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311713
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XY MAX HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XY MAX HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311808
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XY MIX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XY MIX HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311712
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XY MIX HD (H)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XY MIX HD (H)
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311809
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XY PLUS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: XY PLUS HD
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311714
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ШЁЛК TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: ШЁЛК TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311681
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ШАЛУН TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12827.png" group-title="FOR ADULTS",Erotic: ШАЛУН TV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/311682
 #EXTINF:-1 tvg-id="" tvg-name=" ALP GIRLS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", ALP GIRLS
 http://eateous.top:8080/live/101689676490099/01689676490/54281.ts
 #EXTINF:-1 tvg-id="" tvg-name=" BUMSBUS" tvg-logo="" group-title="XXX-VIP [ 18+ ]", BUMSBUS
