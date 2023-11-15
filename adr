@@ -14,10 +14,12 @@ http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386222
 #EXTINF:-1 tvg-name="Movistar Plus+ HD"tvg-id="Movistar Plus+ HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_blanco.png"group-title="GENERAL",Movistar Plus+
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/407023
 #EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LaLigaTV
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386141
+#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LaLigaTV OPCIÓN 2
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386140
-#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LaLigaTV Opción 2
+#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LaLigaTV OPCIÓN 3
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/611291
-#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LaLigaTV Opción 3
+#EXTINF:-1 tvg-name="M+ LALIGA TV HD"tvg-id="M+ LALIGA TV HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LaLigaTV OPCIÓN 4
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386156
 #EXTINF:-1 tvg-name="M+ LaLiga TV 2 HD"tvg-id="M+ LaLiga TV 2 HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_7853_41A_1_C00000_0_0_0.png"group-title="FÚTBOL",M+ LaLigaTV 2
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386145
@@ -34,10 +36,12 @@ http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386167
 #EXTINF:-1 tvg-name="DAZN 2"tvg-id="DAZN 2"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-2-es.png"group-title="DAZN",DAZN 2
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386169
 #EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",DAZN F1
-http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/110636
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386183
 #EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",DAZN F1 OPCIÓN 2
-http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/275660
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/110636
 #EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",DAZN F1 OPCIÓN 3
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/275660
+#EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://docdog.top/Logotv/countries/spain/dazn-f1-es.png"group-title="F1",DAZN F1 OPCIÓN 4
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/275661
 #EXTINF:-1 tvg-name="DAZN F1 HD"tvg-id="DAZN F1 HD"tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png"group-title="F1",SKY SPORT F1 ALEMÁN
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/486672
