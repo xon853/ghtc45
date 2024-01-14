@@ -111,7 +111,7 @@ http://2a9407ae961792c03b5606e39bd06306.spada.googloo.me:25461/sOlahYSwki/610079
 http://2a9407ae961792c03b5606e39bd06306.spada.googloo.me:25461/sOlahYSwki/610079169916/3819?h=b7a8fd092cb2acb584f4f1a1d940ce3ad70f5de9&z=81.37.138.101&i=49417
 #EXTINF:-1 tvg-name="M+ GOLF HD"tvg-id="M+ GOLF HD"tvg-logo="https://docdog.top/Logotv/countries/spain/movistar-golf-es.png"group-title="DEPORTES",M+ GOLF
 http://2a9407ae961792c03b5606e39bd06306.spada.googloo.me:25461/sOlahYSwki/610079169916/3802?h=b7a8fd092cb2acb584f4f1a1d940ce3ad70f5de9&z=81.37.138.101&i=49417
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL INFO FEFTV" group-title="[ES] SPORT",CANAL INFO FEFTV
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL INFO FEFTV" group-title="FEF TV",CANAL INFO FEFTV
 http://1b10d33c655db7c0dbd5b9a0e5131c57.358.cramberry.me:25461/sOlahYSwki/610079169916/27785?h=d78b417156c060de2a874e00b6b72e1ebafc3542&z=79.144.85.43&i=49417
 #EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 1" group-title="FEF TV",FEF TV 1
 http://1b10d33c655db7c0dbd5b9a0e5131c57.358.cramberry.me:25461/sOlahYSwki/610079169916/27786?h=d78b417156c060de2a874e00b6b72e1ebafc3542&z=79.144.85.43&i=49417
@@ -141,5 +141,5 @@ http://1b10d33c655db7c0dbd5b9a0e5131c57.358.cramberry.me:25461/sOlahYSwki/610079
 http://1b10d33c655db7c0dbd5b9a0e5131c57.358.cramberry.me:25461/sOlahYSwki/610079169916/27798?h=d78b417156c060de2a874e00b6b72e1ebafc3542&z=79.144.85.43&i=49417
 #EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 14" group-title="FEF TV",FEF TV 14
 http://1b10d33c655db7c0dbd5b9a0e5131c57.358.cramberry.me:25461/sOlahYSwki/610079169916/27799?h=d78b417156c060de2a874e00b6b72e1ebafc3542&z=79.144.85.43&i=49417
-#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 15" group-title="FEF TVT",FEF TV 15
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 15" group-title="FEF TV",FEF TV 15
 http://1b10d33c655db7c0dbd5b9a0e5131c57.358.cramberry.me:25461/sOlahYSwki/610079169916/27800?h=d78b417156c060de2a874e00b6b72e1ebafc3542&z=79.144.85.43&i=49417
