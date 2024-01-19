@@ -53,7 +53,7 @@ http://510861155113336330.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/336330.ts
 http://336782355706598197.of231025.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
 #EXTINF:-1 tvg-name="Cazavisión"tvg-id="Cazavisión"tvg-logo="https://lh3.googleusercontent.com/4T7UYZXO_gy_K5Xu9N86B4nmm0XDOO5hv51x9cmgvgXBul93Rgaj5Sl3FlJerF0E8LE"group-title="ENTRETENIMIENTO",CAZAVISIÓN OPCIÓN 2
 http://336782355706644676.of231025.xyz:80/play/D515096/TPs3VrrrqD@/598197.ts
-#EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/07/documentales_mplus.jpg"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
+#EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
 http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3821?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
 #EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA
 http://768135755767321156.of23103.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
@@ -75,7 +75,7 @@ http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/1669686494
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/27175?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
 #EXTINF:-1 tvg-name="DAZN LaLiga2 HD"tvg-id="DAZN LaLiga2 HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_74CE_3F8_1_C00000_0_0_0.png"group-title="FÚTBOL",DAZN LALIGA 2 FHD
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/27163?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
-#EXTINF:-1 tvg-name="M+ Liga de Campeones"tvg-id="M+ Liga de Campeones"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Liga_de_Campeones_por_Movistar_Plus%2B_2023.svg/revision/latest?cb=20230721193658"group-title="FÚTBOL",M+ LIGA DE CAMPEONES
+#EXTINF:-1 tvg-name="M+ Liga de Campeones"tvg-id="M+ Liga de Campeones"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/768px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="FÚTBOL",M+ LIGA DE CAMPEONES
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/26078?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
 #EXTINF:-1 tvg-name="M+ Liga de Campeones"tvg-id="M+ Liga de Campeones"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/768px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="FÚTBOL",M+ LIGA DE CAMPEONES OPCIÓN 2
 http://259391455423321388.thosts.xyz:80/play/D515096/TPs3VrrrqD@/246282.ts
