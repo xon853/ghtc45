@@ -55,13 +55,13 @@ http://336782355706598197.of231025.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
 http://336782355706644676.of231025.xyz:80/play/D515096/TPs3VrrrqD@/598197.ts
 #EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
 http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3821?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
-#EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA
+#EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="https://img2.freepng.es/20180920/tcf/kisspng-history-television-show-television-channel-video-moodle-insuco-chilln-5ba41a9e2e7401.3117774715374813741903.jpg"group-title="ENTRETENIMIENTO",CANAL HISTORIA
 http://768135755767321156.of23103.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
-#EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST"group-title="ENTRETENIMIENTO",CANAL HISTORIA OPCIÓN 2
+#EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="https://img2.freepng.es/20180920/tcf/kisspng-history-television-show-television-channel-video-moodle-insuco-chilln-5ba41a9e2e7401.3117774715374813741903.jpg"group-title="ENTRETENIMIENTO",CANAL HISTORIA OPCIÓN 2
 http://768135755767336326.of23103.xyz:80/play/D515096/TPs3VrrrqD@/339761.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7829_428_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
 http://254810755193321371.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/321371.ts
-#EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://miguia.tv/channels/big_123.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7889_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD
 http://336782355706321364.of231025.xyz:80/play/D515096/TPs3VrrrqD@/321364.ts
 #EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA"group-title="ENTRETENIMIENTO",ODISEA
 http://510861155113684825.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/684825.ts
