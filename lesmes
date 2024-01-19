@@ -133,9 +133,9 @@ http://781900743853290348.of230922.xyz:80/play/D925549/3AjjJDRBtP/290348.ts
 http://781900743853290351.of230922.xyz:80/play/D925549/3AjjJDRBtP/290351.ts
 #EXTINF:-1 tvg-name="M+ Vamos"tvg-id="M+ Vamos"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7733_416_1_C00000_0_0_0.png"group-title="DEPORTES",M+ #VAMOS
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3819?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
-#EXTINF:-1 tvg-name="M+ Vamos"tvg-id="M+ Vamos"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Vamos.png"group-title="DEPORTES",M+ #VAMOS OPCIÓN 2
+#EXTINF:-1 tvg-name="M+ Vamos"tvg-id="M+ Vamos"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7733_416_1_C00000_0_0_0.png"group-title="DEPORTES",M+ #VAMOS OPCIÓN 2
 http://781900743853550863.of230922.xyz:80/play/D925549/3AjjJDRBtP/550863.ts
-#EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7828_428_1_C00000_0_0_0.png"group-title="DEPORTES",M+ DEPORTES
+#EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id=""tvg-logo=""group-title="DEPORTES",M+ DEPORTES
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/3800?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
 #EXTINF:-1 tvg-name="M+DEPORTES2HD"tvg-id="M+DEPORTES2HD"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7532_426_1_C00000_0_0_0.png"group-title="DEPORTES",M+ DEPORTES 2
 http://8c9cb06dff481a3d9a74a1d491738eea.spa.unver.me:25461/zQmHGDJazV/160904911674/427?h=abdceefe46595a3626397553cfce9c5c7367698a&z=81.37.138.101&i=41484
