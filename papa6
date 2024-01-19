@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://app.niccom.xyz/xmltv.php?username=D515096&password=TPs3VrrrqD,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://app.niccom.xyz/xmltv.php?username=D515096&password=TPs3VrrrqD@,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3797?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id="la2.es"tvg-logo="https://miguia.tv/channels/big_99.png"group-title="TDT",LA 2
@@ -37,6 +37,8 @@ http://768135755767339739.of23103.xyz:80/play/D515096/TPs3VrrrqD@/321153.ts
 http://525896255312573239.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/573239.ts
 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://wottatv.com/wp-content/uploads/2022/09/DVIAJE_SINRELLENO-1.png" group-title="ENTRETENIMIENTO",DVIAJE
 http://697123655315688713.of1124.xyz:80/play/D515096/TPs3VrrrqD@/688713.ts
+#EXTINF:-1 tvg-id="13 Cultura" tvg-name="ES: 13 CULTURA FHD" tvg-logo="https://up6.cc/2024/01/170441504570361.png" group-title="ENTRETENIMIENTO",13 CULTURA
+http://671167155301761968.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/761968.ts
 #EXTINF:-1 tvg-name="CAZAyPESCA HD"tvg-id="CAZAyPESCA HD"tvg-logo="https://docdog.top/Logotv/countries/spain/caza-y-pesca-es.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA
 http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3831?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
 #EXTINF:-1 tvg-name="Iberalia TV"tvg-id="IBERALIA TV"tvg-logo="https://i0.wp.com/www.socassat.com/wp-content/uploads/2015/07/1medium.jpg"group-title="ENTRETENIMIENTO",IBERALIA
