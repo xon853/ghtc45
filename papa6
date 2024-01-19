@@ -101,13 +101,13 @@ http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968
 http://259391455423290351.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290351.ts
 #EXTINF:-1 tvg-name="M+ Vamos HD"tvg-id="M+ Vamos HD"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Vamos.png"group-title="DEPORTES",#VAMOS
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3819?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
-#EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id="M+DEPORTESHD"tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png"group-title="DEPORTES",M+ DEPORTES
+#EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id="M+DEPORTESHD"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7828_428_1_C00000_0_0_0.png"group-title="DEPORTES",M+ DEPORTES
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3800?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
-#EXTINF:-1 tvg-name="M+ Deportes 2"tvg-id="M+ Deportes 2"tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/cfb9e3a05ca4b0452cbcd5bece3485f0.png"group-title="DEPORTES",M+ DEPORTES 2
+#EXTINF:-1 tvg-name="M+ Deportes 2"tvg-id="M+ Deportes 2"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7532_426_1_C00000_0_0_0.png"group-title="DEPORTES",M+ DEPORTES 2
 http://259391455423538679.thosts.xyz:80/play/D515096/TPs3VrrrqD@/538679.ts
-#EXTINF:-1 tvg-name="M+ GOLF FHD"tvg-id="LA 1 HD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B"group-title="DEPORTES",M+ GOLF
+#EXTINF:-1 tvg-name="M+ Golf"tvg-id="M+ Golf"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png"group-title="DEPORTES",M+ GOLF
 http://259391455423268094.thosts.xyz:80/play/D515096/TPs3VrrrqD@/268094.ts
-#EXTINF:-1 tvg-name="M+ GOLF 2 FHD"tvg-id=""tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png"group-title="DEPORTES",M+ GOLF 2
+#EXTINF:-1 tvg-name="M+ Golf 2"tvg-id="M+ Golf 2"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_782D_428_1_C00000_0_0_0.png"group-title="DEPORTES",M+ GOLF 2
 http://259391455423454216.thosts.xyz:80/play/D515096/TPs3VrrrqD@/454216.ts
 #EXTINF:-1 tvg-name="TELEDEPORTE FHD"tvg-id="TELEDEPORTE FHD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TDEP"group-title="DEPORTES",TELEDEPORTE
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3857?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
