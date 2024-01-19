@@ -99,7 +99,7 @@ http://259391455423228396.thosts.xyz:80/play/D515096/TPs3VrrrqD@/228397.ts
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3794?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
 #EXTINF:-1 tvg-name="EUROSPORT2HD"tvg-id="EUROSPORT2HD"tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2"group-title="EUROSPORT",EUROSPORT 2
 http://259391455423290351.thosts.xyz:80/play/D515096/TPs3VrrrqD@/290351.ts
-#EXTINF:-1 tvg-name="M+ Vamos HD"tvg-id="M+ Vamos HD"tvg-logo="https://docdog.top/Logotv/countries/spain/M_Vamos.png"group-title="DEPORTES",#VAMOS
+#EXTINF:-1 tvg-name="M+ Vamos HD"tvg-id="M+ Vamos HD"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_1_7733_416_1_C00000_0_0_0.png"group-title="DEPORTES",#VAMOS
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3819?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
 #EXTINF:-1 tvg-name="M+DEPORTESHD"tvg-id="M+DEPORTESHD"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7828_428_1_C00000_0_0_0.png"group-title="DEPORTES",M+ DEPORTES
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3800?h=322ced4d44590660a294c213c790ed208fab5cb6&z=90.174.139.110&i=34495
