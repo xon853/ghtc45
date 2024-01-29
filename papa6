@@ -46,13 +46,11 @@ http://510861155113426677.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
 #EXTINF:-1 tvg-name="Iberalia TV"tvg-id="IBERALIA TV"tvg-logo="https://user-images.githubusercontent.com/44529886/229460244-c9552163-6310-4895-bf11-50e45c4774da.png"group-title="ENTRETENIMIENTO",IBERALIA OPCIÓN 2
 http://671167155301681799.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/681799.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mplay.b-cdn.net/images/logos512/iberaliaCaza.png"group-title="ENTRETENIMIENTO",IBERALIA 100% CAZA
-http://510861155113336329.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/336329.ts
+http://134819355835336327.ofd0126.xyz:80/play/D515096/TPs3VrrrqD@/336327.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://mplay.b-cdn.net/images/logos512/iberaliaPesca.png"group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA
 http://510861155113336330.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/336330.ts
 #EXTINF:-1 tvg-name="Cazavisión"tvg-id="Cazavisión"tvg-logo="https://www.youngwildhunters.com/cdn/shop/articles/canal-cazavision-removebg-preview.png"group-title="ENTRETENIMIENTO",CAZAVISIÓN
 http://336782355706598197.of231025.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
-#EXTINF:-1 tvg-name="Cazavisión"tvg-id="Cazavisión"tvg-logo="https://www.youngwildhunters.com/cdn/shop/articles/canal-cazavision-removebg-preview.png"group-title="ENTRETENIMIENTO",CAZAVISIÓN OPCIÓN 2
-http://336782355706644676.of231025.xyz:80/play/D515096/TPs3VrrrqD@/598197.ts
 #EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
 http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3821?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
 #EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="ENTRETENIMIENTO",CANAL HISTORIA
@@ -62,7 +60,7 @@ http://768135755767336326.of23103.xyz:80/play/D515096/TPs3VrrrqD@/339761.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7829_428_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
 http://254810755193321371.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/321371.ts
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7889_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD
-http://671167155301681803.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/681803.ts
+http://134819355835687033.ofd0126.xyz:80/play/D515096/TPs3VrrrqD@/687033.ts
 #EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png"group-title="ENTRETENIMIENTO",ODISEA
 http://671167155301538737.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/538737.ts
 #EXTINF:-1 tvg-name="M+ LALIGA TV"tvg-id="M+ LALIGA TV"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LALIGA
