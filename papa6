@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://app.niccom.xyz/xmltv.php?username=D515096&password=TPs3VrrrqD@,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1
-http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3797?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
+http://671167155301321276.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/321276.ts
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id="la2.es"tvg-logo="https://miguia.tv/channels/big_99.png"group-title="TDT",LA 2
-http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3846?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
+http://671167155301321276.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/321279.ts
 #EXTINF:-1 tvg-name="ANTENA 3 HD"tvg-id="ANTENA 3 HD"tvg-logo="https://miguia.tv/channels/big_10.png"group-title="TDT",ANTENA 3
-http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3790?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
+http://671167155301321106.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/321106.ts
 #EXTINF:-1 tvg-name="CUATRO HD"tvg-id="CUATRO HD"tvg-logo="https://miguia.tv/channels/big_65.png"group-title="TDT",CUATRO
-http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3793?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
+http://671167155301321196.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/321196.ts
 #EXTINF:-1 tvg-name="TELECINCO FHD"tvg-id="TELECINCO FHD"tvg-logo="https://miguia.tv/channels/big_161.png"group-title="TDT",TELECINCO
-http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3814?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
+http://671167155301321429.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/321429.ts
 #EXTINF:-1 tvg-name="LA SEXTA HD"tvg-id="LA SEXTA HD"tvg-logo="https://miguia.tv/channels/big_100.png"group-title="TDT",LA SEXTA
-http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/3798?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
+http://671167155301321288.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/321288.ts
 #EXTINF:-1 tvg-name="CANAL SUR HD"tvg-id="CANAL SUR HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/1200px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png"group-title="TDT",CANAL SUR
 http://6813c4d80b46b888f96d8b1d7071c25e.spada.googloo.me:25461/YNI8sTdwru/166968649421/25851?h=8c268831828bd1ce5502356d827ed0641b701bf4&z=81.37.138.101&i=34495
 #EXTINF:-1 tvg-name="Movistar Plus+ HD"tvg-id="Movistar Plus+ HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_blanco.png"group-title="ENTRETENIMIENTO",Movistar Plus+
@@ -40,7 +40,7 @@ http://697123655315688713.of1124.xyz:80/play/D515096/TPs3VrrrqD@/688713.ts
 #EXTINF:-1 tvg-id="13 Cultura" tvg-name="ES: 13 CULTURA FHD" tvg-logo="https://up6.cc/2024/01/170441504570361.png" group-title="ENTRETENIMIENTO",13 CULTURA
 http://671167155301761968.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/761968.ts
 #EXTINF:-1 tvg-name="CAZAyPESCA HD"tvg-id="CAZAyPESCA HD"tvg-logo="https://docdog.top/Logotv/countries/spain/caza-y-pesca-es.png"group-title="ENTRETENIMIENTO",CAZA Y PESCA
-http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3831?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
+http://671167155301321168.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/321168.ts
 #EXTINF:-1 tvg-name="Iberalia TV"tvg-id="IBERALIA TV"tvg-logo="https://user-images.githubusercontent.com/44529886/229460244-c9552163-6310-4895-bf11-50e45c4774da.png"group-title="ENTRETENIMIENTO",IBERALIA
 http://510861155113426677.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/426677.ts
 #EXTINF:-1 tvg-name="Iberalia TV"tvg-id="IBERALIA TV"tvg-logo="https://user-images.githubusercontent.com/44529886/229460244-c9552163-6310-4895-bf11-50e45c4774da.png"group-title="ENTRETENIMIENTO",IBERALIA OPCIÓN 2
@@ -52,7 +52,7 @@ http://510861155113336330.ofip231209.xyz:80/play/D515096/TPs3VrrrqD@/336330.ts
 #EXTINF:-1 tvg-name="Cazavisión"tvg-id="Cazavisión"tvg-logo="https://www.youngwildhunters.com/cdn/shop/articles/canal-cazavision-removebg-preview.png"group-title="ENTRETENIMIENTO",CAZAVISIÓN
 http://336782355706598197.of231025.xyz:80/play/D515096/TPs3VrrrqD@/321172.ts
 #EXTINF:-1 tvg-name="M+ Documentales"tvg-id=""tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",M+ DOCUMENTALES
-http://0081f04fdb43030522029094d04722ed.spa.unver.me:25461/YNI8sTdwru/166968649421/3821?h=9130c06ff2b318e99b294e787439de71f18e9a26&z=79.147.102.34&i=34495
+http://671167155301552954.ofd112.xyz:80/play/D515096/TPs3VrrrqD@/552954.ts
 #EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="ENTRETENIMIENTO",CANAL HISTORIA
 http://768135755767321156.of23103.xyz:80/play/D515096/TPs3VrrrqD@/336326.ts
 #EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="ENTRETENIMIENTO",CANAL HISTORIA OPCIÓN 2
