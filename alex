@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
-#EXTINF:-1 tvg-name="LA 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries//la1.png"group-title="TV",LA 1
+#EXTINF:-1 tvg-name="LA 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries//la1.png"group-title="TV",LA 1 1
 http://2a9407ae961792c03b5606e39bd06306.spada.googloo.me:25461/sOlahYSwki/610079169916/3797?h=b7a8fd092cb2acb584f4f1a1d940ce3ad70f5de9&z=81.37.138.101&i=49417
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries//la2.png"group-title="TV",LA 2
 http://2a9407ae961792c03b5606e39bd06306.spada.googloo.me:25461/sOlahYSwki/610079169916/3846?h=b7a8fd092cb2acb584f4f1a1d940ce3ad70f5de9&z=81.37.138.101&i=49417
