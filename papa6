@@ -52,9 +52,9 @@ http://rr5---sn-swxfe4ko.es.goooglevideo.com:25461/YNI8sTdwru/166968649421/3821?
 #EXTINF:-1 tvg-name="Historia"tvg-id="Historia"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="ENTRETENIMIENTO",CANAL HISTORIA
 http://acosta.nexon.pro:80/6ek9k64rrt/n83nefr95f/965621
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC FHD"tvg-id="NAT GEO FHD"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7829_428_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC
-http://acosta.nexon.pro:80/6ek9k64rrt/n83nefr95f/965613
-#EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7889_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD
 http://acosta.nexon.pro:80/6ek9k64rrt/n83nefr95f/965614
+#EXTINF:-1 tvg-name="NAT GEO WILD FHD"tvg-id="natgeowild.es"tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/main/jungle-picon-Movistar-Transparente/picon/1_0_19_7889_414_1_C00000_0_0_0.png"group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC WILD
+http://acosta.nexon.pro:80/6ek9k64rrt/n83nefr95f/965613
 #EXTINF:-1 tvg-name="ODISEA FHD"tvg-id="odisea.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png"group-title="ENTRETENIMIENTO",ODISEA
 http://acosta.nexon.pro:80/6ek9k64rrt/n83nefr95f/965630
 #EXTINF:-1 tvg-name="M+ LALIGA TV"tvg-id="M+ LALIGA TV"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/1_0_19_750F_420_1_C00000_0_0_0.png?w=440&ssl=1"group-title="FÚTBOL",M+ LALIGA
