@@ -13,6 +13,18 @@ http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386220
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386222
 #EXTINF:-1 tvg-name="Movistar Plus+ HD"tvg-id="Movistar Plus+ HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_blanco.png"group-title="GENERAL",Movistar Plus+
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386272
+#EXTINF:-1 tvg-name="M+ Acción HD"tvg-id="M+ Acción HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/250px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="GENERAL",M+ ACCIÓN 
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386274
+#EXTINF:-1 tvg-name="M+ Cine HD"tvg-id="M+ Cine HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/512px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="GENERAL",M+ CINE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386270
+#EXTINF:-1 tvg-name="M+ Comedia HD"tvg-id="M+ Comedia HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/250px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="GENERAL",M+ COMEDIA
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386276
+#EXTINF:-1 tvg-name="M+ DRAMA HD"tvg-id="M+ DRAMA HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/250px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="GENERAL",M+ DRAMA
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386278
+#EXTINF:-1 tvg-name="M+ SERIES FULL HD"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Series_por_Movistar_Plus%2B_2023_Logo.svg/250px-Series_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="GENERAL",M+ SERIES
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386291
+#EXTINF:-1 tvg-name="M+ Suspense"tvg-id="M+ Suspense"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png"group-title="GENERAL",M+ SUSPENSE
+http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386289
 #EXTINF:-1 tvg-name="Movistar Plus+ HD"tvg-id="Movistar Plus+ HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png/1200px-Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png"group-title="FÚTBOL",M+ Supercopa
 http://cnn40008.cdngold.me:80/23926e3c4f/4beb613f74/386147
 #EXTINF:-1 tvg-name="Movistar Plus+ HD"tvg-id="Movistar Plus+ HD"tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_blanco.png"group-title="FÚTBOL",Movistar Plus+
