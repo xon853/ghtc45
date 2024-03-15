@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 tvg-name="LA 1"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries//la1.png"group-title="TV",LA 1
 http://rr6---sn-gwunwg6x.es.goooglevideo.com:25461/jpLSlhsPtg/907731113137/3797?h=39b14021c09679a5f3d9ae0ba79e8fb31136da49&z=79.144.80.44&i=4510
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id=""tvg-logo="https://docdog.top/Logotv/countries//la2.png"group-title="TV",LA 2
