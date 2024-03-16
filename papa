@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml,http://app.niccom.xyz/xmltv.php?username=D515096&password=TPs3VrrrqD@,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
-#EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1 1
+#EXTINF:-1 tvg-name="LA 1 FHD"tvg-id="LA 1 HD"tvg-logo="https://miguia.tv/channels/big_157.png"group-title="TDT",LA 1
 http://rr9---sn-eunnh7lj.es.goooglevideo.com:25461/YNI8sTdwru/166968649421/3797?h=bed09e0db3edad947807928008758e5cf02fc65b&z=79.144.86.127&i=34495
 #EXTINF:-1 tvg-name="LA 2 HD"tvg-id="la2.es"tvg-logo="https://miguia.tv/channels/big_99.png"group-title="TDT",LA 2
 http://rr1---sn-6vkcsnlq.es.goooglevideo.com:25461/YNI8sTdwru/166968649421/3846?h=bed09e0db3edad947807928008758e5cf02fc65b&z=79.144.86.127&i=34495
